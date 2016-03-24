@@ -1,0 +1,36 @@
+
+ul.nav li.active a {
+  font-weight: bold;
+}
+
+body > .container {
+  margin-top: 60px;
+}
+
+.bs-sidebar {
+  padding: 10px;
+}
+
+.bs-sidebar a {
+  position: relative;
+  display: block;
+  padding: 6px 8px;
+  font-size: 13px;
+}
+
+@media (min-width: 992px) {
+  .bs-sidebar.affix {
+    position: fixed;
+    top: 80px;
+  }
+
+  .bs-sidebar.affix, .bs-sidebar.affix-bottom {
+    width: 213px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bs-sidebar.affix-bottom, .bs-sidebar.affix {
+    width: 250px;
+  }
+}
