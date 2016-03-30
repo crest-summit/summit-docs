@@ -4,6 +4,7 @@
 
 There will be more information coming soon!
 
-![Sad Puppy](sadPuppy.jpg)
+This is a screen shot:
+![general info](images/general info.tiff)
 
-![Another sad puppy](sadPuppy2.jpg)
+![Another sad puppy](images/sadPuppy2.jpg)
