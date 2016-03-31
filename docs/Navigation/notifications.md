@@ -1,6 +1,6 @@
 The Notification function in Summit is designed to assist the User in managing their workload by updating the User when others have commented or changed a status.  
 
-#Navigating the Notifications
+# Navigating the Notifications
 Notifications are located at the top of the Navigation pane.  When there are new notifications, a number badge appears next to Notifications:
 
 NavNot_Badge IMAGE HERE
@@ -23,20 +23,20 @@ NavNot_TextInfo IMAGE HERE
 
 NavNot_Text Example  IMAGE HERE - NEED IMAGE SHOT
 
-#Types of Notifications
+# Types of Notifications
 Notifications are sent and a badge will appear or increase in number in the following circumstances:
 
-##New Budget Requested
+## New Budget Requested
 When a Proposal Team or Support Staff User requests a budget from the Proposal Editor, a notification is sent to the Pre-Award Associate.  Proposal Team and Support Staff do not receive a new budget request notification.
 
 NavNot_BudgetRequest IMAGE HERE - NEED IMAGE SHOT
 
-##New Comment or Reply
+## New Comment or Reply
 When a User makes a comment or replies to a comment, other Users with full access to the proposal will receive a notification.  The comments or replies can be made at any available place in the Editor or directly in the Comments log (see below for further information on the Comments Log).
 
 NavNot_NewComment IMAGE HERE - NEED IMAGE SHOT
 
-##Document Status Change
+## Document Status Change
 When a User updates the status of a Budget Development document, the other Full Access Users on the proposal will be notified of the change.  
 
 NavNot_DocStatus IMAGE HERE - NEED IMAGE SHOT
