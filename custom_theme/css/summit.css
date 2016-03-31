@@ -18,6 +18,12 @@ body > .container {
   font-size: 13px;
 }
 
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
 @media (min-width: 992px) {
   .bs-sidebar.affix {
     position: fixed;
