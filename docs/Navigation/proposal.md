@@ -21,11 +21,13 @@ NavProp_AllOpenSubFolders   IMAGE HERE  - NEED IMAGE SHOT
 The “All Open” navigation item expands to display a folder for each PI on which the User is listed as part of the Support Staff or Proposal Team.
 
 For the **Support Team** All Open contains:
+
 - Proposals on which they are listed as Support Staff, Support Staff Lead or Creator
 - A folder for each PI who has an open proposal with the User listed as Support Staff, Support Staff Lead or Creator.  These could be PIs in other departments when the User is listed as Support Staff for a proposal with a PI from a different department (i.e., if faculty from the User’s department is listed as Co-PI)
 - NOTE:  Co-PIs do not have a folder, only PIs.  
 
 For the **Proposal Team** All Open contains:
+
 -	Proposals on which they are listed as PI, Co-PI, Proposal Team Member or Creator
 -	A folder for each PI who has an open proposal with the User listed as PI, Co-PI, Proposal Team Member or Creator.  These could be PIs in other departments when the User is listed as Co-PI, Proposal Team Member or Creator for a proposal with a PI from a different department.  
 -	NOTE:  Co-PIs do not have a folder, only PIs.
