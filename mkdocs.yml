@@ -6,7 +6,7 @@ pages:
 - Navigation:
   - 'General': 'Navigation/general.md'
   - 'Navigation': 'Navigation/notifications.md'
-  - 'Proposal': 'Navigation/proposal.md'
+  - 'Proposal Navigation': 'Navigation/proposal.md'
 - Data:
   - 'Initiator': 'data/Proposal Initiator.md'
   - 'Editor (Sections)': 'data/Proposal Editor.md'
@@ -24,4 +24,3 @@ pages:
   - 'Assignees': 'Management/Assignees.md'
 - Reporting:
   - 'Data Exports': 'Reporting/Data Exports.md'
-- Help Videos:
