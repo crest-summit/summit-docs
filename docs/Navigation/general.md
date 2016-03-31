@@ -1,5 +1,7 @@
 The design of Summit includes three basic panes:
 
+![Three Panes](../images/navigation/NavGen_3panes.jpg)
+
 #Navigation Pane
 The left hand column is the highest level of navigation and will include a list of all the navigation items to which the User has access.  Most navigation items are expandable with sub-items available.
 
@@ -38,6 +40,8 @@ IMAGE GOES HERE
 
 ##Toolbar
 Located to the right of the Header is the Toolbar containing several tools for accessing and managing the data in the Editor:
+
+IMAGE GOES HERE
 
 ###Comments Log
 A log of communication that occurs via the comments feature is located to the right of Activity Log.  The Comments Log is an interactive log that displays all the comments within the proposal and allows the User to reply or create new comments.  Each comment thread is given a title or topic and each comment shows who made it and when.  See the Tools tab for full description of the comments features.
