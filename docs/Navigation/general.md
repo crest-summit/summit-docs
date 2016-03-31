@@ -10,7 +10,7 @@ The middle column displays a list of the specific items available in the navigat
 
 The Summary Pane includes a search field located at the top of the pane.  Typing in the search field will narrow the list of items displayed in the Summary Pane. The items that can be entered as search criteria include: PI Name, Sponsor Name, Submitting Org, Creator Name, and Proposal ID.
 
-IMAGE GOES HERE
+![Search Field](../images/navigation/NavGen_Search.jpg)
 
 At the bottom of the summary pane is a count of the number of items displayed.
 
@@ -70,13 +70,13 @@ IMAGE GOES HERE
 
 The Save function in Summit is not implicit, which means the User must explicitly click on the Save button in order for the changes to be saved.  The Save button changes colors as an indication of the saved status of the proposal:
 
-       IMAGE HERE   Dark Blue:  There are changes that have not yet been saved
+IMAGE HERE   Dark Blue:  There are changes that have not yet been saved
 
-       IMAGE HERE  Light Blue with Checkmark:  Indicates the Save just requested is complete
+IMAGE HERE  Light Blue with Checkmark:  Indicates the Save just requested is complete
 
-       IMAGE HERE   Light Blue:  There are no changes to be saved
+IMAGE HERE   Light Blue:  There are no changes to be saved
 
-       IMAGE HERE   Grey with Warning:  There is a validation error on the proposal.  The proposal cannot be saved until the error has been corrected.
+IMAGE HERE   Grey with Warning:  There is a validation error on the proposal.  The proposal cannot be saved until the error has been corrected.
 
 When the “Unable to Save” warning appears, the user can click on “View Errors” to see a list of errors and link to the field:
 

@@ -11,3 +11,17 @@ pages:
   - 'Initiator': 'data/Proposal Initiator.md'
   - 'Editor (Sections)': 'data/Proposal Editor.md'
   - 'Budget Development': 'data/Budget Development.md'
+- Approvals:
+  - 'Proposal Routing': 'Approvals/Proposal Routing.md'
+- Tools:
+  - 'Comments': 'Tools/Comments.md'
+  - 'Files': 'Tools/Files.md'
+  - 'Requirements': 'Tools/Requirements.md'
+  - 'Actions': 'Tools/Actions.md'
+- Management:
+  - 'Org Editor': 'Management/Org Editor.md'
+  - 'Sponsor Editor': 'Management/Sponsor Editor.md'
+  - 'Assignees': 'Management/Assignees.md'
+- Reporting:
+  - 'Data Exports': 'Reporting/Data Exports.md'
+- Help Videos:
