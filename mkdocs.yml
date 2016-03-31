@@ -1,2 +1,13 @@
 site_name: Summit Docs
 theme_dir: 'custom_theme'
+
+pages:
+- Home: 'index.md'
+- Navigation:
+  - 'General': 'Navigation/general.md'
+  - 'Navigation': 'Navigation/notifications.md'
+  - 'Proposal': 'Navigation/proposal.md'
+- Data:
+  - 'Initiator': 'data/Proposal Initiator.md'
+  - 'Editor (Sections)': 'data/Proposal Editor.md'
+  - 'Budget Development': 'data/Budget Development.md'
