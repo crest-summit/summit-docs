@@ -27,7 +27,7 @@ The third pane located on the right and occupying the majority of the screen is 
 ## Header
 The header at the top of the Editor displays the item’s identifying information. For example, in a proposal item, the header will include the Proposal ID, PI name, Proposal Label, and Sponsor name.
 
-IMAGE GOES HERE
+![Header](../images/navigation/NavGen_Header.jpg)
 
 ## Right Hand Navigation
 The Editor contains an internal navigation tool on the right side of the screen (designated as the “Right Hand Navigation”).  It lists all the sections and subsections of the item in the Editor in a collapsible format and when the User clicks on a specific section title, that section will be displayed in the Editor.   The selected section is highlighted for easier navigation.
@@ -57,7 +57,7 @@ A log of communication that occurs via the comments feature is located to the ri
 ### Files Log
 A log of every file attached in the proposal is located to the right of the Comments Log.  The Files log is an interactive list of all the current versions of the files.  All the actions associated with a file except comment are accessible in the Files log.  Clicking on the file location will take the User to the file in the proposal editor.  Clicking on the file name will open the file in a separate window.
 
-IMAGE GOES HERE
+![Files Log](../images/navigation/NavGen_FilesView.jpg)
 
 ### Requirements Checklist
 
