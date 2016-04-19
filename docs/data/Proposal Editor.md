@@ -92,9 +92,65 @@ Requesting a budget will open a dialogue box similar to the Initiate Proposal wi
 
 DataEd_BudReqForm IMAGE HERE
 
+
+
 After a Budget Request is made, this section will display the data fields associated with the budget, including new fields that will need to be completed.
 
-##Development
-The Budget Development subsection contains the budget documents and budget details included in the original budget request information.  It is meant to be used for the communication around the development of the final budget(s).  Using the standard Requirements actions, budget development allows for attaching files, viewing and reverting to previous versions of files, commenting and replying as well as a unique feature of approving or rejecting a document.  See the Data/Budget Development and Tools/Requirements sections for details on using this feature.
+## Development and Requirements
+The Budget Development subsection contains the budget documents and budget details included in the original budget request information.  The Budget Development Requirements subsection includes a list of standard proposal requirements relating to the budget.  Answering yes to the questions in this section will create new items requirements section.  For example, if there is a "yes" answer to "Subcontracts" the subcontractor section will become active and when there is a "yes" answer for "Does this budget involve Special Administrative Costs?" a new item will be added to the budget development requirements.
 
-##Budget Development Requirements
+DataEd_AdminCostsExample  IMAGE HERE - NEED IMAGE SHOT
+
+The Budget Development Requirement is a special requirement with enhanced capabilities. It is meant to be used for the communication around the development of the final budget(s).  Using the standard Requirements actions, budget development allows for attaching files, viewing and reverting to previous versions of files, commenting and replying as well as a unique feature of approving or rejecting a document.  See the Data/Budget Development and Tools/Requirements sections for details on using this feature.
+
+DataEd_BudgetDev  IMAGE HERE
+
+## Totals
+The Totals subsection includes fields to input the final direct and indirect amounts from the final approved budget that will be submitted to the Sponsor.  The additional fields for Total Costs and Total Cost Share are automatically calculated.  The Total Costs sums the Total Direct and Indirect fields and the Total Cost Share sums the Cost Share budget entries.
+
+DataEd_Totals  IMAGE HERE
+
+## Cost Share
+The Cost Share subsection includes general fields describing the nature of the cost share as well as fields detailing the specific sources of the cost share commitment.  
+
+The general fields include indicating if there is cost share and if it is a requirement from the sponsor or a voluntary inclusion in the budget to enhance proposal competability.  If it is voluntary, a budget requirement will be created as a reminder to include the approval for such voluntary cost sharing.  The Requirement field is for describing the exact sponsor requirement for the amount of cost share to be included in the budget.
+
+DataEd_CostShareGen  IMAGE HERE
+
+The details of the cost sharing are captured in several tabs.  Each tab has an initial question asking if the cost share includes a specific type of cost: personnel, non-personnel direct, indirect or third party.  If yes, the tab will expand to include fields describing the amount and sources of the cost share.  The total of each tab is indicated in the tab name.  Each tab includes a button to add cost share and include a comment. The third party tab also requires a commitment letter be attached.
+
+DataEd_CostShareTabs IMAGE HERE
+
+# Subcontractors
+This section is available to manage subcontractor documents and requirements.  If the Subcontractor question in the Budget section has a "no" answer, it will be greyed out in the right hand navigation and appear inactive in the Editor:
+
+DataEd_SubInactive  IMAGE HERE  
+
+If the Subcontractor question in the Budget section is answered "yes," the Subcontractor section will be enabled and ready for completing the subcontractor information.  Note that the most recent changes must be saved before a subcontractor can be added.
+
+DataEd_SubActive  IMAGE HERE
+
+To add a subcontractor, the User must click "+Add a Subcontractor" and provide a name in the dialogue box that appears.   The Name need not be an official name.  The field is meant as an identifier for the User’s convenience, not an official record.
+
+DataEd_AddSub  IMAGE HERE
+
+Once a Subcontractor has been entered, contact information fields and a checklist of possible required items is displayed.  Each item should be marked “n/a” or “complete” before the proposal is closed. See Tools/Requirements sections for details on using this feature.
+
+DataEd_SubReq IMAGE HERE
+
+To add another Subcontractor, click the  + mark in the tab at the top of the Subcontractor section.  Once saved, Subcontractors will display in alphabetical order.  Five Subcontractor tabs will be displayed at one time.  All others will be available by clicking the dropdown menu tab.
+
+DataEd_SubTabs IMAGE HERE
+
+# Compliance
+The compliance section includes a subsection for Conflict of Interest (COI), Office of Export and Secure Research Compliance (OESRC), Institutional Animal Care and Use Committee (IACUC), Institutional Review Board, and Institutional Biosafety Committee (IBC).  All of the subsections contain questions to be answered by the proposal team.  The COI and OESRC subsections also contain a requirements list which contain some standard requirements as well as some items that are system generated based upon keywords associated with selected sponsors and answers to various questions.
+
+DataEd_ComplianceQuestion IMAGE HERE
+
+# Proposal Team Development
+The Proposal Team Development section is available to the Proposal Team to use in collaborating on proposal documents.  The default items in the section are the most commonly used documents.  Additional items can be added.  The action gear can be used to collaborate with document versions, comments and mark for inclusion in submission.  See the Data/Budget Development and Tools/Requirements sections for details on using this feature.
+
+DataEd_PTDev  IMAGE HERE
+
+# Proposal Management
+This section contains data about the proposal useful for Virginia Tech management purposes, including several questions regarding the use of Virginia Tech resources and fields capturing the submission information. 
