@@ -5,7 +5,7 @@ pages:
 - Home: 'index.md'
 - Navigation:
   - 'General': 'Navigation/general.md'
-  - 'Navigation': 'Navigation/notifications.md'
+  - 'Notifications': 'Navigation/notifications.md'
   - 'Proposal Navigation': 'Navigation/proposal.md'
 - Data:
   - 'Initiator': 'data/Proposal Initiator.md'

@@ -7,19 +7,19 @@ NavNot_Badge IMAGE HERE
 
 Clicking on the Notifications opens up a list of the notifications.  Opening the Notifications will remove the badge.  Unread notifications are indicated with bar on the left side.  To close the notifications, click on Notifications
 
-NavNot_Unread IMAGE HERE - NEED IMAGE SHOT
+![Notification Unread Indicator](../images/navigation/NavNot_UnreadRead.jpg)
 
 Clicking on the notification takes the User to the applicable section of the proposal and marks it as read.
 
-NavNot_Read IMAGE HERE - NEED IMAGE SHOT
+![Click on Notification to be Taken to Proposal Section](../images/navigation/NavNot_TakeToProposal.jpg)
 
 Read notifications remain in the Notifications list until deleted by the User.  To delete a notification from the list, the User can click on the  trash can icon that appears when hovering over the notification.
 
-NavNot_Trashcan IMAGE HERE
+![Navigation Trashcan Icon](../images/navigation/NavNot_Trashcan.jpg)
 
 The text of the notifications includes the following information:
 
-NavNot_TextInfo IMAGE HERE
+![Navigation Text](../images/navigation/NavNot_TextInfo.jpg)
 
 NavNot_Text Example  IMAGE HERE - NEED IMAGE SHOT
 
