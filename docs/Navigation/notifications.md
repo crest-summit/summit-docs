@@ -3,7 +3,7 @@ The Notification function in Summit is designed to assist the User in managing t
 # Navigating the Notifications
 Notifications are located at the top of the Navigation pane.  When there are new notifications, a number badge appears next to Notifications:
 
-NavNot_Badge IMAGE HERE
+![Notification Badge](../images/navigation/NavNot_Badge.jpg)
 
 Clicking on the Notifications opens up a list of the notifications.  Opening the Notifications will remove the badge.  Unread notifications are indicated with bar on the left side.  To close the notifications, click on Notifications
 
@@ -15,13 +15,13 @@ Clicking on the notification takes the User to the applicable section of the pro
 
 Read notifications remain in the Notifications list until deleted by the User.  To delete a notification from the list, the User can click on the  trash can icon that appears when hovering over the notification.
 
-![Navigation Trashcan Icon](../images/navigation/NavNot_Trashcan.jpg)
+![Notification Trashcan Icon](../images/navigation/NavNot_Trashcan.jpg)
 
 The text of the notifications includes the following information:
 
-![Navigation Text](../images/navigation/NavNot_TextInfo.jpg)
+![Notification Text](../images/navigation/NavNot_TextInfo.jpg)
 
-NavNot_Text Example  IMAGE HERE - NEED IMAGE SHOT
+![Notification Text Example](../images/navigation/NavNot_Text.jpg)
 
 # Types of Notifications
 Notifications are sent and a badge will appear or increase in number in the following circumstances:
@@ -29,16 +29,16 @@ Notifications are sent and a badge will appear or increase in number in the foll
 ## New Budget Requested
 When a Proposal Team or Support Staff User requests a budget from the Proposal Editor, a notification is sent to the Pre-Award Associate.  Proposal Team and Support Staff do not receive a new budget request notification.
 
-NavNot_BudgetRequest IMAGE HERE - NEED IMAGE SHOT
+![Budget Request Notification](../images/navigation/NavNot_BudgetRequest.jpg)
 
 ## New Comment or Reply
 When a User makes a comment or replies to a comment, other Users with full access to the proposal will receive a notification.  The comments or replies can be made at any available place in the Editor or directly in the Comments log (see below for further information on the Comments Log).
 
-NavNot_NewComment IMAGE HERE - NEED IMAGE SHOT
+![New Comment Notification](../images/navigation/NavNot_NewComment.jpg)
 
 ## Document Status Change
 When a User updates the status of a Budget Development document, the other Full Access Users on the proposal will be notified of the change.  
 
-NavNot_DocStatus IMAGE HERE - NEED IMAGE SHOT
+![Change Status Notification](../images/navigation/NavNot_DocStatus.jpg)
 
 See Budget Development section below for more information on status changes.
