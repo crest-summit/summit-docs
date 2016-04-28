@@ -8,3 +8,7 @@ DataIni_Progress IMAGE HERE  -  NEED IMAGE SHOT
 
 # Proposal Initiator: Start
 On the Initiate Proposal Screen, the User selects the type of work they are initiating.  Note:  This is currently a temporary screen that will be replaced with more detailed options in the future.
+
+Include Selecting a Sponsor from Sponsor and Org Documentation
+
+INCLUDE SELECTING AN ORGANIZATION INFORMATION

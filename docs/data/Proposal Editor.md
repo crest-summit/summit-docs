@@ -13,6 +13,8 @@ If the Submitting Organization is changed in the Proposal Editor:
 
 ![Additional Support Staff](../images/data/DataEd_AdditionalSupportStaff.jpg)
 
+For further details on searching for, choosing and creating an organization, see the Data/Initiator section.
+
 ## Proposal Team
 The Proposal Team section initially includes only the PI.  Additional Team Members can be added by clicking the “Add Proposal Team Member” button.
 
@@ -151,4 +153,4 @@ The Proposal Team Development section is available to the Proposal Team to use i
 ![Proposal Team Development](../images/data/DataEd_PTDev.jpg)
 
 # Proposal Management
-This section contains data about the proposal useful for Virginia Tech management purposes, including several questions regarding the use of Virginia Tech resources and fields capturing the submission information. 
+This section contains data about the proposal useful for Virginia Tech management purposes, including several questions regarding the use of Virginia Tech resources and fields capturing the submission information.
