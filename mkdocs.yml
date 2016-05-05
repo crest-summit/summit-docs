@@ -22,6 +22,7 @@ pages:
   - 'Sponsors': 'Management/Sponsor Editor.md'
   - 'Sponsor Vetting': 'Management/Sponsor Vetting.md'
   - 'Organizations': 'Management/Org Editor.md'
+  - 'Bulk Operations': 'Management/Bulk Operations.md'
   - 'Assignees': 'Management/Assignees.md'
 - Reporting:
   - 'Data Exports': 'Reporting/Data Exports.md'
