@@ -4,12 +4,12 @@ The Assignee Navigation Item is the list of all current Pre-Award Assignees and 
 ## Assignee Summary Pane
 Current assignees are listed in the Summary Pane.  If an assignee has been marked Unavailable for Assignment, an indicator is visible in the summary pane.
 
-![Assignee Summary Pane](../images/management/ManAssi_SumPane.jpg)  - NEED IMAGE SHOT
+![Assignee Summary Pane](../images/management/ManAssi_SumPane.jpg)
 
 ## Assignee Editor
 The Assignee Editor currently contains only the option to mark or unmark a person as Unavailable for Assignment
 
-![Assignee Editor](../images/management/ManAssi_Editor)  - NEED IMAGE SHOT
+![Assignee Editor](../images/management/ManAssi_Editor.jpg)
 
 There are no data fields or actions available for assignees.
 
@@ -19,21 +19,21 @@ Indicating an Assignee is Unavailable for Assignment makes the following changes
 ## Pre-Award All Open Folder indicator
 he Pre-Award Navigation Item for “All Open” will show the Unavailable Icon next to the Pre-Award Associates who are marked as Unavailable for Assignment:
 
-![All Open Folder Indicator](../images/management/ManAssi_AllOpen.jpg) - NEED IMAGE SHOT
+![All Open Folder Indicator](../images/management/ManAssi_AllOpen.jpg)
 
 ## New proposals
 When an Assignee has been marked as Unavailable for Assignment, all of their currently assigned proposals remain assigned to them.  Only new proposals assigned to them after they have been marked Unavailable for Assignment will be assigned to the Back-Up Assignment listed on the Organization Editor.  
 
 In the example below, when XXXXXXX is marked as Unavailable for Assignment in the Assignee Editor, new proposals will be assigned to XXXXX as the designated Back-Up assignment in the Organization Editor:
 
-![Back-Up Assignment](../images/management/ManAssi_BackUp.jpg) - NEED IMAGE SHOT
+![Back-Up Assignment](../images/management/ManAssi_BackUp.jpg)
 
   Note: When the Back-Up Assignee is also marked Unavailable, the proposal will be assigned to the Default Assignee (see below for further details).
 
 ## Reassignment Warning
 Proposals can be individually reassigned by using the Action menu in the proposal.  When a person is marked as Unavailable, it is still possible to manually reassign a proposal to them.  The User will receive a warning that the person is Unavailable, but it will not prevent the reassignment.
 
-![Reassignment Warning](../images/management/ManAssi_ReassignWarning.jpg)- NEED IMAGE SHOT
+![Reassignment Warning](../images/management/ManAssi_ReassignWarning.jpg)
 
 # Managing Assignees
 New Assignees can be added by the CREST team upon request.
@@ -57,11 +57,11 @@ A new proposal is assigned to the DEFAULT Assignee in the following circumstance
 
 The DEFAULT assignee is designated in the DEFAULT Org Editor located in the Deactivated Organization list:
 
-![Default in Org Editor](../images/management/ManAssi_DefaultOrg.jpg)  - NEED IMAGE SHOT
+![Default in Org Editor](../images/management/ManAssi_DefaultOrg.jpg)
 
 When the person designated as the DEFAULT assignee is marked Unavailable, a back-up DEFAULT assignee must be designated.  This is done in the Org Editor for the DEFAULT org:
 
-![Default Back-Up](../images/management/ManAssi_DefaultBackup.jpg) - NEED IMAGE SHOT
+![Default Back-Up](../images/management/ManAssi_DefaultBackup.jpg)
 
 If a Back-Up DEFAULT Assignee is not designated when the Primary DEFAULT assignee is Unavailable, all proposals that would be assigned to the DEFAULT will continue to be assigned to the Primary DEFAULT assignee even though that person is marked as Unavailable.   
-The Primary DEFAULT Assignee should not be temporarily changed.  The Back-Up option should be utilized each time the Primary DEFUALT Assignee is Unavailable. 
+The Primary DEFAULT Assignee should not be temporarily changed.  The Back-Up option should be utilized each time the Primary DEFUALT Assignee is Unavailable.
