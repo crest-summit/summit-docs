@@ -13,7 +13,8 @@ To report an error message crestsupport@vt.edu
 
 # Video Tutorials
 Access short 2 - 5 minutes videos showing how to use specific functions in Summit.
-Link here to Tutorials
+
+Links to Tutorials Coming Soon
 
 # FAQs
 Coming Soon
