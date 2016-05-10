@@ -45,6 +45,10 @@ The following represents how the approval and acceptance feature works:
 
     Note: At any time during this process, if a new version of the file is uploaded, the status is reset to Pending OSP Approval and Pending Team Acceptance
 
+User can "revoke" acceptance or approval to put the budget back in the Pending state by clicking on the "Pending Acceptance" or "Pending Approval" option in the menu that appears after the User has accepted/approved.  The User can also has the option to "revoke" the not accepted/not approved status.
+
+![Pending Acceptance](../images/data/DataBud_PendingAcceptance.jpg)
+
 # Submit to Sponsor
 At any time after a file is uploaded, any User may indicate that this file will be part of the proposal submission to the sponsor.  To indicate this, the User must choose the “Include in Submission” option from the dropdown menu.  An indicator will display above the file, tagging the file as one to be included in the submission package.
 
