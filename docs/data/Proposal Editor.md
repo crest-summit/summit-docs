@@ -73,6 +73,10 @@ Within the Personnel Section is a Requirements Subsection listing all requiremen
 ## Instructions and Instruction Requirements
 The Submission Information Instructions Subsection includes data fields describing the submission instructions such as how and when the proposal must be submitted and any specific requirements such as a solicitation or master agreement.  See the Tools/Requirements section for more information on using the Requirements feature.
 
+The first field in the Submission Information section is the Activity Type.  If the proposal has been Advanced from a previous proposal, the next field is read only text identifying the work from which it was advanced.
+
+![New Work identifies Advanced From ID](../images/tools/ToolAct_AdvancedFrom.jpg)
+
 Answering yes to the questions in this section will create new requirements elsewhere in the Proposal Editor.  For example, if there is a "yes" answer to "Is this a limited submission," the following item will be added the Submission Instruction Requirements list:
 
 ![Limited Submission Example](../images/data/DataEd_LimitedSubExample.jpg)
