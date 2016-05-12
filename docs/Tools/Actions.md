@@ -15,13 +15,13 @@ Advancing means taking one type of submission to the Sponsor and moving it to th
 The concept of Advancing a proposal is centered around keeping related work connected in Summit and was designed to reduce re-entry of data. When advancing work from one type of proposal to another, Users should use this action to create a related proposal instead of the "Get Started" button to create an entirely new unrelated proposal.
 
 ## Activity Types
-It is required for each new submission to sponsor be identified as one of the following Activity Types:
+Each new submission to a sponsor requires the Activity Type to be identified with one of the following:
 - White Paper: A statement of work sent to the Sponsor that will not result in an award until a Proposal has been submitted.
 - Letter of Intent: Notice to the Sponsor of intent to submit a Proposal.
 - Pre-Proposal: A statement of work and/or budget sent to the Sponsor before a Proposal that does not result in an award.
 - Proposal: A full statement of work and budget sent to the Sponsor that may result in an award.
 - Revision: An update to an existing item before an award has been issued.
-- Other: New work associated with a previous award  such as a supplement, continuation or renewal.
+- Other: New work associated with a previous award such as a supplement, continuation or renewal.
 
 The options to Advance depend upon the Activity Type.  The following shows which types can be advanced to which:
 - White Paper  -> Pre-Proposal, Proposal, Revision
@@ -32,7 +32,7 @@ The options to Advance depend upon the Activity Type.  The following shows which
 - Other -> Revision
 
 ## Advance Process
-To Advance work, the User must use the Advance action in the proposal actin menu to create a new proposal.  The action menu will open a dialogue box prompting the User to initiate a new proposal.  
+To Advance work, the User must start in the previously submitted proposal. The user accesses the Action Menu and selects the Advance action to create a new proposal.  
 
 If the proposal being advanced has an identified Activity Type, the User will be asked to identify the Activity Type of the new work.  If the proposal being advanced does not have the Activity Type field completed, the User will be asked to identify the Activity Type of the original and new work.
 
