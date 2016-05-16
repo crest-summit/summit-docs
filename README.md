@@ -34,3 +34,11 @@ mkdocs, version 0.15.2
 
 
 ### Atom Setup
+
+
+### Building the Docs
+
+At the top level of working copy:
+```
+mkdocs build
+```
