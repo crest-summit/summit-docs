@@ -42,3 +42,5 @@ At the top level of working copy:
 ```
 mkdocs build
 ```
+
+Results will go in the `site` directory. It is static content that can be served from almost anywhere.
