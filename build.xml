@@ -1,0 +1,7 @@
+<project name="Summit Docs" default="war" basedir=".">
+    <target name="war">
+      <war destfile="target/summit-docs.war"
+           webxml="WEB-INF/web.xml"
+           basedir="site"/>
+    </target>
+</project>
