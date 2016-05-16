@@ -41,6 +41,8 @@ mkdocs, version 0.15.2
 At the top level of working copy:
 ```
 mkdocs build
+ant 
 ```
 
-Results will go in the `site` directory. It is static content that can be served from almost anywhere.
+The result will be a `summit-docs.war` file that can be deployed in Wildfly.
+
