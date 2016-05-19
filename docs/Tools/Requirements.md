@@ -1,5 +1,3 @@
-# **SECTION UNDER DEVELOPMENT**
-
 Each proposal has many conditions that must be met before it can be submitted to the Sponsor.  The Requirements feature was designed to keep track of and manage the specific conditions.  The Requirements are a "checklists" or "to do list" that is customizable to each individual proposal. Each requirement consists of six sections: dropdown, checkbox, details, comments, action menu and files.
 
 ![Requirement Sections](../images/tools/ToolReq_ReqSections.jpg)
@@ -103,6 +101,8 @@ Once a file is uploaded, there are several sections of the file view:
 
 ![File Sections](../images/tools/ToolReq_FileSections.jpg)
 
+For details on using the files, see the Tools/Files section.
+
 ##File Action Menu
 In addition to the actions available on the Checklist item, each file that is uploaded to a checklist item has a set of actions available to it.  An action gear will appear next to the file when the User hovers over a file:
 
@@ -120,21 +120,40 @@ If there is already a comment, clicking this will create a reply to the current 
 **Upload New Version**
 Once a file is uploaded from the Checklist Action Gear, there is an option to “Upload New Version.”  Uploading a new version allows the user to “replace” the current version with an update.  Clicking on this action will bring a popup window allowing the User to drag or search for the file.
 
+![Upload Version of New File](../images/tools/ToolReq_UploadNewVersion.jpg)
+
+    Note:  Uploading a new version replaces the current version.  To add a separate document with its own versions, use the Action Gear on the Requirement item (see further details in the Data/Budget Development section)
 
 **Delete File**
+Available to all Users for all Files.  This action will delete **all versions of the file**, not just the most recent file that is visible.  All comments will be deleted along with all versions.
 
+![Deleting File and all Versions](../images/tools/ToolReq_DeleteAllVersions.jpg)
 
-**View All Versions**
+**View and Revert**
+Available to all Users for all files that have more than one version uploaded.  This action allows the User to see a list of all versions of a specific file.
 
+![Viewing all Versions of File](../images/tools/ToolReq_ViewAllVersions.jpg)
+
+Selecting a previous version and clicking on the Revert button will display the reverted document in the editor.
+
+![Reverting to a Previous Version](../images/tools/ToolReq_PrevVersion.jpg)
+
+Once a User has reverted to a previous version, the “View Previous Versions” will show the history of which version was chosen when:
+
+![Previous Version in list of Versions](../images/tools/ToolReq_VersionHistory.jpg)
 
 **Accept/Approve**
-
+This action is available only on the Budget Development documents. Choosing these options will update the label.  See Data/Budget Development section for further details.
 
 **Include in Submission**
+Available to all Users on all files.  This feature allows the User to designate which files will be included in the proposal submission to the Sponsor.  When it is chosen, an indicator will appear above the document and in the Files log.  It is recommended to use this feature to indicate to the Pre-Award Associate, Support Staff or other team members that the current version displayed is to be included in the proposal submission packet.
 
+![Include in Submission](../images/tools/ToolFile_Submission.jpg)
 
 **Signature Needed**
+Available for all Users on all files.  This feature allows the User to designate which files require a signature.  When it is chosen, an indicator will appear above the document as well as in the Files log.  It is recommended to use this feature to indicate to the Pre-Award Associate, Support Staff or other team members that the current version of the document needs to be signed.  Comments can be used to indicate who needs to sign.
 
+![Signature Needed on File](../images/tools/ToolFile_SigNeeded.jpg)
 
 # Add Requirement
 Most Requirement lists have an option at the bottom allowing all Users to add additional requirements that are specific to the proposal.  
@@ -143,6 +162,13 @@ Most Requirement lists have an option at the bottom allowing all Users to add ad
 
 Clicking on the “Add Requirement Item” link creates a new checklist item and allows the User to name it.  The new item can be removed before it is saved, but cannot be deleted once it is created.  If the new item becomes irrelevant to the proposal, it can be marked “N/A” as an alternative to deletion.
 
-[Adding a New Requirement](../images/tools/ToolReq_AddReq.jpg)
+![Adding a New Requirement](../images/tools/ToolReq_AddReq.jpg)
 
 # Requirement Log
+An interactive log of every requirement in the proposal is located to the left of the Save Button.
+
+![Requirements Log Location](../images/tools/ToolReq_ReqLogLocation.jpg)
+
+The Requirements log includes the status, completion state, item details, location and last updated information.  The status and completion status can be updated from this view.  Clicking on the location will take the User to the item in the proposal Editor.
+
+![Requirments Log](../images/tools/ToolReq_ReqLog.jpg)
