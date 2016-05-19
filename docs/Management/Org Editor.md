@@ -1,3 +1,5 @@
+**Management / Org Editor**
+
 The Organization Management section was designed as a tool to manage the University Organizations in Summit.  A Promoted org is one for which the official name and 6 digit number has been verified, Pre-Award Assignees indicated, and any applicable abbreviation has been included.  Also included in Promoted orgs are the Support Staff and Approvers for each organization.
 
 # Navigation

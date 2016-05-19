@@ -1,3 +1,5 @@
+**Tools / Comments**
+
 The Comments feature of Summit allows all Users with access to a proposal to communicate about the proposal in the system.    The Comments feature includes both the ability to comment at specific points in the Editor as well as a running log of all comments on a proposal.
 
 # Navigation

@@ -1,3 +1,5 @@
+**Management / Bulk Operations**
+
 The Bulk Operation feature of Summit allows the User to access data from multiple records and either make a bulk change or export the data in bulk. Making changes with the Bulk Operation function is limited to designated OSP personnel (currently Pre-Award Management).  All Users have access to the data export feature.
 
 # General Navigation

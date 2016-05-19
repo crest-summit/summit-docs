@@ -1,3 +1,5 @@
+**Tools / Actions**
+
 # Proposal Action Menu
 The Actions Button is located at the top right of the proposal screen to the left of the Save button.
 

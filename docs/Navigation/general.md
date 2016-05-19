@@ -1,3 +1,5 @@
+**Navigation / General**
+
 The design of Summit includes three basic panes:
 
 ![Three Panes](../images/navigation/NavGen_3panes.jpg)

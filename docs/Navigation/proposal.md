@@ -1,3 +1,5 @@
+**Navigation / Proposal**
+
 # Proposal Navigation Folders
 The Proposal Navigation is divided into several sub-items to facilitate management of the individual User’s work.
 

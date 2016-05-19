@@ -1,3 +1,5 @@
+**Navigation / Notifications**
+
 The Notification function in Summit is designed to assist the User in managing their workload by updating the User when others have commented or changed a status.  
 
 # Navigating the Notifications

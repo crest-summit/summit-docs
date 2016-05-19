@@ -1,3 +1,5 @@
+**Data / Proposal Editor**
+
 The Proposal Editor contains topical sections for proposal data and checklists.  After Proposal Initiation, the Proposal Editor contains all of the information provided in the Initiator and also includes additional fields and sections.  The following is a brief overview of the additional sections and features of the Proposal Editor.
 # Personnel
 In the Editor, the Personnel section is split into four sections:  The Submitting Org, the Proposal Team, the Support Staff, and the Personnel Requirements.
