@@ -23,7 +23,7 @@ If the User chooses the first option for new work, the Activity Type must be ide
 This section is only available when Advancing from a current proposal.  See the information on Advancing located in the Tools/Actions section.
 
 # Details
-The next screen prompts the User to complete the some basic data about the proposal.  Depending upon the answers to some of the questions, additional fields are available to enter more information or attach documents.  
+The next screen prompts the User to complete basic data about the proposal.  Depending upon the answers to some of the questions, additional fields are available to enter more information or attach documents.  
 
 ![Proposal Initiator Details Screen](../images/navigation/NavIni_Details.jpg)
 

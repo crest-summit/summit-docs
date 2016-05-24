@@ -18,6 +18,10 @@ The down caret next to the search field provides access to the Data Exports func
 
 ![Bulk Operations](../images/navigation/NavGen_Bulk.jpg)
 
+Only 15 items are displayed in the summary view at first.  If there are additional items to be displayed, at the bottom of the list there will be an option to load more.
+
+![Load more in Summary View](../images/navigation/NavGen_LoadMore.jpg)
+
 At the bottom of the summary pane is a count of the number of items displayed.
 
 ![Summary Count](../images/navigation/NavGen_SummaryCount.jpg)
