@@ -159,4 +159,8 @@ The Proposal Team Development section is available to the Proposal Team to use i
 ![Proposal Team Development](../images/data/DataEd_PTDev.jpg)
 
 # Proposal Management
-This section contains data about the proposal useful for Virginia Tech management purposes, including several questions regarding the use of Virginia Tech resources and fields capturing the submission information.
+This section contains data about the proposal useful for Virginia Tech management purposes, including several questions regarding the use of Virginia Tech resources and fields capturing the submission information.  This section also includes the tracking of Approvals in the Approval Decision subsection that only appears once the proposal has been submitted for routing.
+
+![Proposal Management section](../images/data/DataEd_PropManSection.jpg)
+
+The Submitted Proposal Details section must be completed before a Proposal can be closed with the reason of Submitted.

@@ -1,6 +1,6 @@
 **Approvals / Proposal Routing**
 
-When a proposal is ready to routed for Departmental and College or Institute approval, any full access User can initiate the routing process.  All approvers and delegates assigned to the proposal are notified and must log in to Summit to review and approve the proposal.  Once the proposal is approved by required parties, the proposal may be submitted to the sponsor.
+The Proposal Routing and Approval function in Summit allows for Users to submit proposals for routing.  Doing so alerts the appropriate approvers there is a proposal awaiting their review and approval.  Once the proposal is approved by all required parties, the Approved status is indicated in the proposal and it may then be submitted to the sponsor.
 
 # Approval Navigation
 The Approval Navigation is visible to all Users though only Approvers will see proposals on which they are approvers here.
@@ -65,31 +65,61 @@ The file log lists all files attached to the proposal.  The most recent version 
 ![File Log Modal](../images/approvals/AppPro_FileLog.jpg)  - NEED IMAGE
 
 # Approval Process
+When a proposal is ready to routed for Departmental and College or Institute approval, any full access User can initiate the routing process.  All approvers and delegates assigned to the proposal are notified and must log in to Summit to review and approve the proposal.  The Proposal Editor tracks where the proposal is in the process.
 
 ## Submit for routing
-button and icons
+All Users with full access can submit a proposal for routing by choosing the "Submit to Routing" option on the Proposal action menu
+
+![Submit for Routing Action](../images/approvals/AppPro_SubmitAction.jpg)
+
+Choosing this option will activate a dialogue box where the User must confirm they want to submit the proposal for routing.  If the Proposal does not have the Activity Type field completed, the dialgue box will also require that field to be entered.
+
+![Submit for Routing dialogue box](../images/approvals/AppPro_SubmitDialogue.jpg)
+
+Once the proposal is in routing, the status changes to "In Routing." The chain icon indicates the proposal is in routing and has not yet been approved by all parties.  This status is captured in the Proposal Header, Summary Pane and Calendar View.
+
+![In Routing Icons](../images/approvals/AppPro_InRoutingIcons.jpg)
 
 ## Approver Assignment
-(how they get assigned etc)
+When a proposal is submitted to routing, organizations and their designated approvers and delegates are assigned to approve it.  At least one approver or delegate from each assigned organization must approve the proposal.  
 
-The approvers/delegates are managed by departmental representatives in the Enterprise Directory"
+**How organizations are assigned**
+Organizations are assigned based upon the data in the Proposal editor. Each proposal will always have a submitting org assigned.  In addition, the following will also be assigned as applicable:
+ - Responsible organization for the PI and Co-PI regardless of credit percentage.
+ - Proposal Team member with credit
 
-submitting org, responsible orgs for PI, CO PI with or without credit, and proposal team members with credit and any organizations providing cost share.. if they have parent orgs those are also in the chains
+![Responsible Org in Routing](../images/approvals/AppPro_RespOrg.jpg)
+ - Any organization providing Cost Share
+ - Parent organization of any of the above.  Parent Organization is a designation in the Summit Organization Editor.  See the Management/Organization section for further information.
 
- ch org has its own sequence of required approvals, but each sequence is done in parallel
-
- we account for the fact that the same org may appear in more than one sequence (if an org approves in one sequence) it effectively approves in every sequence in which the org appears
-
- believe that it will only show you the approval for the org that is currently unblocked (i.e. not waiting on some subordinate approver).  So if you are (for whatever reason) you an approver for both EE and CoE, it will say that you are approving on behalf of EE.
-1:09 If you happen to be an approver for two orgs in two different sequences, it will tell you that you are approving it on behalf of each org.  So if CE and ME are on the same proposal and you’re an approver for both of them, it will say that you are approving on behalf of CE and on behalf of ME.
-1:10 gotta run... Michael is also hanging out here, and can answer most any of these questions.
+**How approvers are assigned**  
+Specific approvers and their delegates for each organization are managed by departmental representatives in the Enterprise Directory.  The Organization Editor, available to OSP personnel, lists all approvers and delegates listed in the Enterprise Directory.
 
 ## Approver Notifications
+A notification is emailed to all Approvers and delegates assigned to a proposal once it is their turn in the approval chain to approve.  For example, all departments will receive a notification that approval is required, but a college will not receive notification until the department has approved it.  If a college is in more than one approval chain, it will not receive a notification until all the departments under it have approved. 
+
+![Parent not notified until both children approve](../images/approvals/AppPro_ParentNot,jpg)
+
+For example, if the proposal needs to be approved by both Mechanical Engineering (ME) and Aerospace and Ocean Engineering (AOE), the College of Engineering will not be notified until both ME and AOE have approved.
 
 ## Approving the Proposal
-button and icons
+Approvers log in to Summit and see a list of proposals waiting for their approval in "Approvals / To Be Approved."  
+
+button and icons,
+
+
+Each org has its own sequence of required approvals, but each sequence is done in parallel- won't get notified of need to approve (won't be in "to be approved???") until all departments under the college have approved
+
+we account for the fact that the same org may appear in more than one sequence (if an org approves in one sequence) it effectively approves in every sequence in which the org appears
+
+believe that it will only show you the approval for the org that is currently unblocked (i.e. not waiting on some subordinate approver).  So if you are (for whatever reason) you an approver for both EE and CoE, it will say that you are approving on behalf of EE.
+
+1If you happen to be an approver for two orgs in two different sequences, it will tell you that you are approving it on behalf of each org.  So if CE and ME are on the same proposal and you’re an approver for both of them, it will say that you are approving on behalf of CE and on behalf of ME.
+
 
 # Approvals in the Proposal
+ can search by approval status
+
 
 **Summary**
 

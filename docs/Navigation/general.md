@@ -10,6 +10,7 @@ The left hand column is the highest level of navigation and will include a list 
 # Summary Pane
 The middle column displays a list of the specific items available in the navigation item.  For example, if the user has clicked on the Proposal navigation item, the Summary Pane will display a list of all proposals to which they have access.
 
+## Search
 The Summary Pane includes a search field located at the top of the pane.  Typing in the search field will narrow the list of items displayed in the Summary Pane. The items that can be entered as search criteria include: PI Name, Sponsor Name, Submitting Org, Creator Name, and Proposal ID.
 
 ![Search Field](../images/navigation/NavGen_Search.jpg)
@@ -26,6 +27,16 @@ At the bottom of the summary pane is a count of the number of items displayed.
 
 ![Summary Count](../images/navigation/NavGen_SummaryCount.jpg)
 
+## Additional Features
+Next to the search field is a down caret where additional features are available.  
+
+![Additional Features down caret](../images/navigation/NavGen_DownCaret.jpg)
+
+The first option is to access the Bulk Operations feature.  See the Management / Bulk Operations section for further information on this feature.
+
+The second option is to access the calendar view.  This feature presents all of the proposals listed in the summary view in a calendar format.
+
+![Calendar View Feature](../images/navigation/NavGen_CalendarView.jpg)
 
 # Editor
 The third pane located on the right and occupying the majority of the screen is the Editor.  The Editor contains all the information about the specific item on which the User clicked in the Summary Pane.   For example, if the user is in the Navigation Item “My Proposals” and clicks on the proposal for Dr. Ernest in the Summary Pane, the Editor will display the details for that proposal.  Each type of navigation item has a unique set of fields in the Editor providing the details about the item.  
@@ -65,10 +76,10 @@ A log of every file attached in the proposal is located to the right of the Comm
 
 ![Files Log](../images/navigation/NavGen_FilesView.jpg)
 
-### Requirements Checklist
+### Requirements Log
+A log of every requirement in the proposal is located to the left of the Action Menu.  The Requirements log is an interactive list of all the requirements with their status, location and information when and by whom it was last updated.  
 
-
-
+![Requirments Log](../images/tools/ToolReq_ReqLog.jpg)
 
 # Global Navigation
 In addition to the three panes, there are several global functions consistent throughout the system:
