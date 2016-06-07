@@ -67,7 +67,7 @@ The file log lists all files attached to the proposal.  The most recent version 
 ![File Log Modal](../images/approvals/AppPro_FileLog.jpg)  - NEED IMAGE
 
 # Approval Process
-When a proposal is ready to routed for Departmental and College or Institute approval, any full access User can initiate the routing process.  All approvers and delegates assigned to the proposal are notified and must log in to Summit to review and approve the proposal.  The Proposal Editor tracks where the proposal is in the process.
+When a proposal is ready to routed for Departmental and College or Institute approval, any full access User can initiate the routing process.  All approvers and delegates assigned to the proposal are notified and must log in to Summit to review and approve the proposal.  Each organization on the proposal has its own approval chain, but the approvals for each chain can be done in parallel and do not need to wait on the other chains. For example, there may be two departments in two different colleges assigned to approve the proposal.  Both departments will be notified as the same time. Each college will be notified once their department has approved. The Proposal Editor tracks where the proposal is in the process and documents which approvals are pending and which are complete.
 
 ## Submit for routing
 All Users with full access can submit a proposal for routing by choosing the "Submit to Routing" option on the Proposal action menu
