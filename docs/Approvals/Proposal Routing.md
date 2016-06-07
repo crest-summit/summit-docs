@@ -24,13 +24,13 @@ All proposal that have been approved by all required Organizations are listed in
 # Approval Editor
 Choosing a proposal from the summary view of any of the Approval folders will display a read-only Editor that contains subset of data from the Proposal Editor.  
 
-![Approval Editor](../images/approvals/AppPro_Editor.jpg) - NEED IMAGE
+![Approval Editor](../images/approvals/AppPro_Editor.jpg)
 
 **Header**
 
 The Header includes the proposal number, the PI, the proposal label and the Sponsor name.
 
-![Approver Editor Header](../images/approvals/AppPro_Header.jpg)  - NEED IMAGE
+![Approver Editor Header](../images/approvals/AppPro_Header.jpg)
 
 **Approval Checkbox**
 
@@ -53,7 +53,9 @@ If one organization is in multiple chains, it will be listed in each but the app
 **Work Summary**
 This section is a read-only summary of the data in the Proposal Editor.  
 
-![Work Summary](../images/approvals/AppPro_WorkSummary.jpg)  - NEED IMAGE
+![Work Summary](../images/approvals/AppPro_WorkSummary.jpg)
+
+Information that is grayed out in the Budget Information section indicates the proposal budget does not include these circumstances.
 
 **Files**
 The files log is located at the top of the approval editor next to the save button.  
@@ -96,31 +98,48 @@ Organizations are assigned based upon the data in the Proposal editor. Each prop
 Specific approvers and their delegates for each organization are managed by departmental representatives in the Enterprise Directory.  The Organization Editor, available to OSP personnel, lists all approvers and delegates listed in the Enterprise Directory.
 
 ## Approver Notifications
-A notification is emailed to all Approvers and delegates assigned to a proposal once it is their turn in the approval chain to approve.  For example, all departments will receive a notification that approval is required, but a college will not receive notification until the department has approved it.  If a college is in more than one approval chain, it will not receive a notification until all the departments under it have approved. 
+A notification is emailed to all Approvers and delegates assigned to a proposal once it is their turn in the approval chain to approve.  For example, all departments will receive a notification that approval is required, but a college will not receive notification until the department has approved it.  If a college is in more than one approval chain, it will not receive a notification until all the departments under it have approved.
 
 ![Parent not notified until both children approve](../images/approvals/AppPro_ParentNot,jpg)
 
 For example, if the proposal needs to be approved by both Mechanical Engineering (ME) and Aerospace and Ocean Engineering (AOE), the College of Engineering will not be notified until both ME and AOE have approved.
 
 ## Approving the Proposal
-Approvers log in to Summit and see a list of proposals waiting for their approval in "Approvals / To Be Approved."  
+Approvers log in to Summit and see a list of proposals waiting for their approval in "Approvals / To Be Approved."  Choosing the Proposal in the Summary Pane will display a read-only view of the the basic Proposal details in the Editor. To approve the proposal, the User checks the box at the top of the Editor indicating they have reviewed and approve the proposal.
 
-button and icons,
+![Approval checkbox](../images/approvals/AppPro_Checkbox.jpg)
 
+Once the User checks the box the proposal will no longer be in their "To be approved."  
 
-Each org has its own sequence of required approvals, but each sequence is done in parallel- won't get notified of need to approve (won't be in "to be approved???") until all departments under the college have approved
+Approvers listed in multiple approval chains will only receive a notification when all the chains are ready for their approval.  When they check the approval box, they will approve for each chain.  In the example below, the approver will approve for the College of Engineering in both chains when he clicks the approved checkbox:
 
-we account for the fact that the same org may appear in more than one sequence (if an org approves in one sequence) it effectively approves in every sequence in which the org appears
-
-believe that it will only show you the approval for the org that is currently unblocked (i.e. not waiting on some subordinate approver).  So if you are (for whatever reason) you an approver for both EE and CoE, it will say that you are approving on behalf of EE.
-
-1If you happen to be an approver for two orgs in two different sequences, it will tell you that you are approving it on behalf of each org.  So if CE and ME are on the same proposal and you’re an approver for both of them, it will say that you are approving on behalf of CE and on behalf of ME.
-
+![Approver in Multiple Chains](../images/approvals/AppPro_MultChain.jpg)
 
 # Approvals in the Proposal
- can search by approval status
+## Summary
+can search by approval status
 
 
-**Summary**
 
-**Editor**
+##Editor
+
+**Header**
+
+Proposal in Routing will display the "In Routing" chain icon and indicator in the header of the proposal.
+
+![In Routing status in header](../images/approvals/AppPro_InRoutingHeader.jpg)
+
+Once the proposal has been approved by all organizations, the status changes to Approved.  The header will then display the "Approved" checkmark icon and indicator.
+
+![Approved status in header](../images/approvals/AppPro_ApprovedHeader.jpg)
+
+**Approval Decision Section**
+
+In the Proposal Editor, Users can track the approval process in the Approval Decision section.
+
+![Approval Decision section of Proposal Editor](../images/approvals/AppPro_AppDecSection.jpg)
+
+This section shows which organizations have approved and which approvals are still pending.  Notice the following in the above:
+ - Organizations that have approved have a checkmark
+ - The name of the approver and the time they approved appears next to the Organization name
+ - The pending icon (question mark) appears to the left of any organization that 
