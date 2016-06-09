@@ -51,6 +51,7 @@ The User's Organization will be emphasized in blue when an approval is still req
 If one organization is in multiple chains, it will be listed in each but the approver for that organization will only need to approve once.
 
 **Work Summary**
+
 This section is a read-only summary of the data in the Proposal Editor.  
 
 ![Work Summary](../images/approvals/AppPro_WorkSummary.jpg)
@@ -58,13 +59,14 @@ This section is a read-only summary of the data in the Proposal Editor.
 Information that is grayed out in the Budget Information section indicates the proposal budget does not include these circumstances.
 
 **Files**
+
 The files log is located at the top of the approval editor next to the save button.  
 
 ![Files log access](../images/approvals/AppPro_AccessFiles.jpg)
 
 The file log lists all files attached to the proposal.  The most recent version of each file can be accessed by clicking on the file name.
 
-![File Log Modal](../images/approvals/AppPro_FileLog.jpg)  - NEED IMAGE
+![File Log Modal](../images/approvals/AppPro_FileLog.jpg)
 
 # Approval Process
 When a proposal is ready to routed for Departmental and College or Institute approval, any full access User can initiate the routing process.  All approvers and delegates assigned to the proposal are notified and must log in to Summit to review and approve the proposal.  Each organization on the proposal has its own approval chain, but the approvals for each chain can be done in parallel and do not need to wait on the other chains. For example, there may be two departments in two different colleges assigned to approve the proposal.  Both departments will be notified as the same time. Each college will be notified once their department has approved. The Proposal Editor tracks where the proposal is in the process and documents which approvals are pending and which are complete.
@@ -100,7 +102,7 @@ Specific approvers and their delegates for each organization are managed by depa
 ## Approver Notifications
 A notification is emailed to all Approvers and delegates assigned to a proposal once it is their turn in the approval chain to approve.  For example, all departments will receive a notification that approval is required, but a college will not receive notification until the department has approved it.  If a college is in more than one approval chain, it will not receive a notification until all the departments under it have approved.
 
-![Parent not notified until both children approve](../images/approvals/AppPro_ParentNot,jpg)
+![Parent not notified until both children approve](../images/approvals/AppPro_ParentNot.jpg)
 
 For example, if the proposal needs to be approved by both Mechanical Engineering (ME) and Aerospace and Ocean Engineering (AOE), the College of Engineering will not be notified until both ME and AOE have approved.
 
@@ -117,11 +119,15 @@ Approvers listed in multiple approval chains will only receive a notification wh
 
 # Approvals in the Proposal
 ## Summary
-can search by approval status
+The Summary Pane displays the routing chain icon or the approved icon on the left of the summary for the proposal
 
+![Routing and Approval Icons in Summary View](../images/approvals/AppPro_SumIcons.jpg)
 
+Users can also search by proposal status in the summary view.
 
-##Editor
+![Search by Status](../images/approvals/AppPro_StatusSearch.jpg)
+
+## Editor
 
 **Header**
 
@@ -140,6 +146,10 @@ In the Proposal Editor, Users can track the approval process in the Approval Dec
 ![Approval Decision section of Proposal Editor](../images/approvals/AppPro_AppDecSection.jpg)
 
 This section shows which organizations have approved and which approvals are still pending.  Notice the following in the above:
- - Organizations that have approved have a checkmark
- - The name of the approver and the time they approved appears next to the Organization name
- - The pending icon (question mark) appears to the left of any organization that 
+ - Organizations that have approved have a checkmark.
+ - The name of the person who approved and the time they approved displays on the right.
+ - The pending icon (question mark) appears to the left of the organization name when that organization's approval is required for the approval process to proceed to the next level.
+
+A list of all approvers and delegates is available by clicking on the caret next to the organization name:
+
+![List of Approvers](../images/approvals/AppPro_ApproverList.jpg)
