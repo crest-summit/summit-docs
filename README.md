@@ -38,11 +38,20 @@ mkdocs, version 0.15.2
 
 ### Building the Docs
 
-At the top level of working copy:
+At the top level of a working copy:
 ```
-mkdocs build
+mkdocs build --clean
 ant 
 ```
 
 The result will be a `summit-docs.war` file that can be deployed in Wildfly.
 
+### Deploying the Docs
+
+At the top level of a working copy:
+```
+scp target/summit-docs.war summit@summit-dev.research.vt.edu:tmp/
+ssh summit@summit-dev.research.vt.edu
+summit-denali.sh dev cli
+deploy ~/tmp/summit-docs.war --name=summit-docs.war --force
+```
