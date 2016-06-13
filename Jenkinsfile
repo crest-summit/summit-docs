@@ -8,7 +8,7 @@ node {
     checkout scm
 
     stage 'mkdocs build'
-    sh "docker run -v $location:/documents moird/mkdocs mkdocs build"
+    sh "docker run -v $location:/documents moird/mkdocs mkdocs build --clean"
 
     stage 'Create Docker image'
     docker.build "summit/docs"
