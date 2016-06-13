@@ -12,4 +12,7 @@ node {
 
     stage 'Create Docker image'
     docker.build "summit/docs"
+
+    stage 'Run image in QA'
+    sh "docker-compose up --force-recreate -d"
 }
