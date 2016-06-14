@@ -35,6 +35,9 @@ mkdocs, version 0.15.2
 
 ### Atom Setup
 
+## Automatic Deployment
+
+When updates are pushed to this repository the documentation set is automatically updated and deployed. You can access the documentation at http://docs.summit-qa.research.vt.edu
 
 ### Building the Docs
 
