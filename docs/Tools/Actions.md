@@ -34,13 +34,15 @@ The options to Advance depend upon the Activity Type.  The following shows which
 - Other -> Revision
 
 ## Advance Process
-To Advance work, the User must start in the previously submitted proposal. The user accesses the Action Menu and selects the Advance action to create a new proposal.  
+To Advance work, the User should start in the previously submitted proposal. The user accesses the Action Menu and selects the Advance action to create a new proposal.  
+
+    Note: Advance is available for Open, Submitted and Closed proposals, but will usually only be used after a proposal has been submitted to the sponsor and further interaction with the sponsor is required.
 
 If the proposal being advanced has an identified Activity Type, the User will be asked to identify the Activity Type of the new work.  If the proposal being advanced does not have the Activity Type field completed, the User will be asked to identify the Activity Type of the original and new work.
 
 ![Advance Action to Initiator Dialogue Box](../images/tools/ToolAct_AdvanceDialogue.jpg)
 
-After identifying the Activity Type(s), the User will then be taken through the normal "Get Started" wizard to create the new proposal.  The initiator will include of the data from the proposal being advanced, except Sponsor Deadline and Target Date. All fields are editable so may be updated as necessary.
+After identifying the Activity Type(s), the User will then be taken through the normal "Get Started" wizard to create the new proposal.  The initiator will include data from the proposal being advanced, except Sponsor Deadline and Target Date. All fields are editable so may be updated as necessary.
 
 Creating Advanced work does the following:
 

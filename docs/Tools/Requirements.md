@@ -26,6 +26,8 @@ When there is a dropdown field, all Users have access to change the status.
 **"--"**
 Indicates that the requirement has not yet been reviewed to determine if it should be designated as required or not applicable.   This is the default state of the dropdown boxes.
 
+![Dash dropdown default](../images/tools/ToolReq_DashDropdown.jpg)
+
 **"N/A"**
 Requirement is not applicable to this proposal and is therefore not a requirement.  When an item is marked as “N/A,” it fades to light gray.  
 ![n/a requirement designation](../images/tools/ToolReq_NAReq.jpg)
@@ -77,19 +79,24 @@ An Action gear appear next to each checklist item when the User hovers over the 
 
 ![Action Gear Options](../images/tools/ToolReq_ReqActionGear.jpg)
 
-**Mark Completed**
+**Mark Complete**
+
 This is available only for unrestricted items marked Required.  Only Pre-Award Users will see this option on restricted items. Choosing this action will check the checkbox and hide the dropdown.
 
 **Mark Imcomplete**
+
 This is available only to unrestricted items marked Complete.  Only Pre-Award Users will see this option on restricted items. Choosing this action will uncheck the complete box, and unhide the dropdown menu reverting to the Required status.
 
-**Add Comments**
+**Add Comment**
+
 This is available to all checklist items and all Users.  Choosing this action allows the User to make a comment on the item that is added to the comments log.  See the Tools/Comments section for further details.
 
 **Attach Files**
+
 This is available to all checklist items and all Users.  Choosing this action allows the User to attach one or more files to be associated with the checklist item.
 
 **Duplicate**
+
 This is available only to items marked Required, whether completed or not.  All Users have access to duplicate.  Choosing this action will create a new checklist item with the label in the “Required” state and the complete cleared (if the original was already completed).   When, the User is given the option to add a distinguishing description to the original title and duplicated title (for example, to distinguish the approval needed at the department level and college level).   The duplicated item can be removed before it is saved, but cannot be deleted after saving (mark it n/a if it is no longer applicable).
 
 ![Duplicate Requirement](../images/tools/ToolReq_Duplicate.jpg)
