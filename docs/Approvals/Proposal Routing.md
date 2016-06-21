@@ -87,6 +87,15 @@ Once the proposal is in routing, the status changes to "In Routing." The chain i
 ![In Routing Icons](../images/approvals/AppPro_InRoutingIcons.jpg)
 
 ## Validations for Routing
+When a User submits a proposal for routing as described above, if all of the required fields are not completed, a toast notification will appear indicating which fields must be complete before routing can begin.  The following is a list of all fields required before routing:
+
+- All questions in the Compliance sections
+- The following fields are entered: Proposal Label, Proposal Full Title, Program Type, Research Theme, Research Initiative, Building, Period of Performance, Performance Location, Indirect Type, Indirect Rate, Indirect Rate Reason, Subcontracts, Special Indirect Distribution, Subfunds Needed, Special Administrative Costs, Total Direct Costs, Total Indirect Costs 
+- If Cost Share is marked "yes," then Total Cost Share, Rationale and Requirement fields are also required
+- If Personnel Cost Share is marked "yes," then at least one person must be entered with an organization, percent effort, salary, fringe and fund source
+- If Non-Personnel Direct Cost Share is marked "yes," then at least one item must be added with Type, Organization, Total for all years and Funding source
+- If Indirect Cost Share is marked "yes," then at least one of the fields must be completed
+- If Third Party Cost Share is marked "yes," then at least one contributor must be added with the Total Cost Share Commitment and Type fields completed
 
 
 ## Approver Assignment

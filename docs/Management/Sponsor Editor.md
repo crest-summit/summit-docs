@@ -1,6 +1,6 @@
 **Management / Sponsor Editor**
 
-The Sponsor Management section was designed as a tool to manage the Sponsors in Summit.  A Promoted Sponsor is one for which the official name, type, VT Identifier and any applicable abbreviation has been included.  Also included in Promoted Sponsors is a keyword field from which OVPR can manage specific requirements and notification (see Sponsor Keywords section below).  
+The Sponsor Management section was designed as a tool to manage the Sponsors in Summit.  A Promoted Sponsor is one for which the official name, type, VT Identifier and any applicable abbreviation has been included.  Also included in Promoted Sponsors is a keyword field from which OVPRI can manage specific requirements and notification (see Sponsor Keywords section below).  
 
 # Overview
 ![Sponsor](../images/management/ManSpo_SponsorNav.jpg)

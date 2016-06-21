@@ -11,7 +11,7 @@ The left hand column is the highest level of navigation and will include a list 
 The middle column displays a list of the specific items available in the navigation item.  For example, if the user has clicked on the Proposal navigation item, the Summary Pane will display a list of all proposals to which they have access.
 
 ## Search
-The Summary Pane includes a search field located at the top of the pane.  Typing in the search field will narrow the list of items displayed in the Summary Pane. The items that can be entered as search criteria include: PI Name, Sponsor Name, Submitting Org, Creator Name, and Proposal ID.
+The Summary Pane includes a search field located at the top of the pane.  Typing in the search field will narrow the list of items displayed in the Summary Pane. The items that can be entered as search criteria include: PI Name, Sponsor Name, Submitting Org, Creator Name, Proposal ID and Activity Type.
 
 ![Search Field](../images/navigation/NavGen_Search.jpg)
 

@@ -18,6 +18,7 @@ The concept of Advancing a proposal is centered around keeping related work conn
 
 ## Activity Types
 Each new submission to a sponsor requires the Activity Type to be identified with one of the following:
+
 - White Paper: A statement of work sent to the Sponsor that will not result in an award until a Proposal has been submitted.
 - Letter of Intent: Notice to the Sponsor of intent to submit a Proposal.
 - Pre-Proposal: A statement of work and/or budget sent to the Sponsor before a Proposal that does not result in an award.
@@ -26,6 +27,7 @@ Each new submission to a sponsor requires the Activity Type to be identified wit
 - Other: New work associated with a previous award such as a supplement, continuation or renewal.
 
 The options to Advance depend upon the Activity Type.  The following shows which types can be advanced to which:
+
 - White Paper  -> Pre-Proposal, Proposal, Revision
 - Letter of Intent -> White Paper, Pre-Proposal, Proposal, Revision
 - Pre-Proposal -> Proposal, Revision
