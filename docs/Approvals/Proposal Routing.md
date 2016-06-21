@@ -44,11 +44,13 @@ This section lists all of the Organizations required to approve the proposal.  I
 
 ![One vs Multiple Approval Chains](../images/approvals/AppPro_ApprovalDecisions.jpg)
 
-The User's Organization will be emphasized in blue when an approval is still required.  An organization that has no parent organization will have no chain of approvers but only have itself in the list. All organizations that have approved will have the approved indicator.
+The above image illustrates the following:
 
-![Parent Orgs](../images/approvals/AppPro_Parent.jpg)
-
-If one organization is in multiple chains, it will be listed in each but the approver for that organization will only need to approve once.
+- The User's Organization will be emphasized in blue when an approval is still required.  
+- An organization that has no parent organization will have no chain of approvers but only have itself in the list.
+- All organizations that have approved will have the approved indicator.
+- The name of the approver and the date and time of approval are listed for all approvals.
+- If one organization is in multiple chains, it will be listed in each but the approver for that organization will only need to approve once.
 
 **Work Summary**
 
@@ -84,20 +86,43 @@ Once the proposal is in routing, the status changes to "In Routing." The chain i
 
 ![In Routing Icons](../images/approvals/AppPro_InRoutingIcons.jpg)
 
+## Validations for Routing
+
+
 ## Approver Assignment
 When a proposal is submitted to routing, organizations and their designated approvers and delegates are assigned to approve it.  At least one approver or delegate from each assigned organization must approve the proposal.  
 
 **How organizations are assigned**
+
 Organizations are assigned based upon the data in the Proposal editor. Each proposal will always have a submitting org assigned.  In addition, the following will also be assigned as applicable:
+
  - Responsible organization for the PI and Co-PI regardless of credit percentage.
  - Proposal Team member with credit
 
 ![Responsible Org in Routing](../images/approvals/AppPro_RespOrg.jpg)
+
  - Any organization providing Cost Share
  - Parent organization of any of the above.  Parent Organization is a designation in the Summit Organization Editor.  See the Management/Organization section for further information.
 
 **How approvers are assigned**  
+
 Specific approvers and their delegates for each organization are managed by departmental representatives in the Enterprise Directory.  The Organization Editor, available to OSP personnel, lists all approvers and delegates listed in the Enterprise Directory.
+
+## Conditional Approval
+
+Organizations may choose to approve proposals only under specific conditions.  If an organization has chosen to approve only in one or more of the approval conditions, they will not be in the approval chain for proposals not meeting the conditions. If an organization does not indicate it must only approve under certain circumstances, it will be in the approval chain for all proposals.
+
+The conditions for which an organization may choose to limit its required approval are:
+- Cost Share
+- Special Administrative Costs on budget
+- Special Distribution of Indirect
+
+Organizations that conditionally approve are indicated in the Organization Editor.  Pre-Award users have access to view this information.  To request a change in the conditional status of an organization, contact the Organization's Pre-Award Administrator or summithelp@vt.edu.
+
+![Conditional Approval Org not shown in chain](../images/approvals/AppPro_ConditionalChain.jpg)
+
+For example, if AOE has indicated it only wishes to review and approve proposals with Cost Share, it will not see the proposal because it does not have Cost Share in the budget.  The image above shows an proposal being submitted with AOE as the submitting org and ME as a Co-PI org.  AOE is not included in the first chain because the proposal does not meet the conditions indicted for AOE.
+
 
 ## Approver Notifications
 A notification is emailed to all Approvers and delegates assigned to a proposal once it is their turn in the approval chain to approve.  For example, all departments will receive a notification that approval is required, but a college will not receive notification until the department has approved it.  If a college is in more than one approval chain, it will not receive a notification until all the departments under it have approved.

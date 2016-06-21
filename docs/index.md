@@ -11,7 +11,7 @@ For questions about a specific proposal, contact the Pre-Award Associate listed 
 
 ![Pre-Award Associate Listed in Proposal](./images/Ind_PreAward.jpg)
 
-To report an error message email a copy of the message with the proposal ID to summithelp@vt.edu
+To report an error message, email a copy of the message with the proposal ID to summithelp@vt.edu
 
 # Video Tutorials
 Access short 2 - 5 minutes videos showing how to use specific functions in Summit.

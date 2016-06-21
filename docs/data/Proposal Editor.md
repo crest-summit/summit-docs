@@ -66,6 +66,14 @@ All personnel are given full access by default when they are added to the propos
 
 ![Access Error](../images/data/DataEd_AccessError.jpg)
 
+The Limited View of the proposal includes a read-only view of the proposal team members, their roles, responsible organizations, percent credit and access level as well as the basic submission and sponsor information.
+
+![Limited View](../images/data/DataEd_LimitedView.jpg)
+
+The User will see the "eye" icon indicating View Only on the Summary View for any proposals for which they have been given Limited Access.
+
+![Limited View Summary Pane Indicator](../images/data/DataEd_LimitedIcon.jpg)
+
 ## Personnel Requirements
 Within the Personnel Section is a Requirements Subsection listing all requirements regarding personnel that need to be reviewed before the proposal is submitted.  See the Tools/Requirements section for more information on using the Requirements feature.
 
