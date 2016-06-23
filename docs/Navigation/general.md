@@ -107,6 +107,17 @@ If the User tries to navigate away from an unsaved proposal that also has errors
 
 ![Unsaved Changes with Error](../images/navigation/NavGen_UnsavedErrors.jpg)
 
+## Pop Up Notifications
+A notification will "pop up" at the bottom of the screen when there is a warning or alert the User must address before proceeding or as an informational notice when a proposal changes states.  
+
+The warning or alert notifications are in orange and will remain on the screen until the User clicks the "x" to dismiss it
+
+![Error Toast Notification](../images/navigation/NavGen_ErrorToast.jpg)
+
+The informational notifications are in green and will disappear after a short interval.
+
+![Informational Toast Notifications](../images/navigation/NavGen_InfoToast.jpg)
+
 ## Get Started Button
 Each navigation item has a button above the Summary Pane for the User to Get Started on a new item.  The button relates to the navigation item so that when the user is in a proposal, the Get Started button allows for initiating a proposal.
 

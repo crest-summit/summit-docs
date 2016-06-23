@@ -34,6 +34,7 @@ When the User wishes to develop multiple budgets simultaneously, it is recommend
 
 # Approval and Acceptance
 The approval and acceptance feature of the Budget Development checklist facilitates finalizing the budget.  The terms are defined as follows:
+
 - **Approval**: The OSP designation that the budget is in compliance with sponsor guidelines and university policy
 - **Acceptance**: Proposal Team or Support Staff designation that the budget accurately represents the costs of doing the work described in the technical proposal.
 
