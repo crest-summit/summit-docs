@@ -1,0 +1,5 @@
+docs:
+  image: summit/docs
+  environment:
+    VIRTUAL_HOST: docs.summit-qa.research.vt.edu
+    TZ: America/New_York

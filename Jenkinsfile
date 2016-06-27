@@ -14,5 +14,5 @@ node {
     docker.build "summit/docs"
 
     stage 'Run image in QA'
-    sh "docker-compose up --force-recreate -d"
+    sh "docker-compose -f docker-compose-qa.yml up --force-recreate -d"
 }

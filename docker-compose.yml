@@ -1,5 +1,6 @@
 docs:
-  image: summit/docs
-  environment:
-    VIRTUAL_HOST: docs.summit-qa.research.vt.edu
-    TZ: America/New_York
+  image: moird/mkdocs
+  volumes:
+    - ./:/documents
+  ports:
+    - "8000:8000"

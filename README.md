@@ -5,56 +5,38 @@
 The documentation makes use of a project called MkDocs (http://www.mkdocs.org/).  This tool allows documentation to be written in Markdown and compiles the Markdown into a site structure using a site template.
 
 
+### Setup - Docker
 
-### Setup - Mac
-
-In order to install everything, you'll need to drop into the command line! :O
-
-```
-$ python --version
-Python 2.7.2
-$ pip --version
-pip 1.5.2
-```
-
-According to MkDocs, you must have Python version 2.6, 2.7, 3.3, 3.4 or 3.5.
-
-To install mkdocs, run
+The project comes with two docker-compose scripts - one for development and the other for the Summit QA environment.
 
 ```
-pip install mkdocs
+docker-compose up -d
 ```
 
-After that, you should be able to run the following and see an answer (the version number might be different)...
-
-```
-mkdocs --version
-mkdocs, version 0.15.2
-```
+Once the image is pulled and running, you can open http://localhost:8000 to view the docs.  As changes are made to the files, the site is rebuilt and viewable in the browser. 
 
 
 ### Atom Setup
+
+
+
+
 
 ## Automatic Deployment
 
 When updates are pushed to this repository the documentation set is automatically updated and deployed. You can access the documentation at http://docs.summit-qa.research.vt.edu
 
-### Building the Docs
+### Jenkins build
 
-At the top level of a working copy:
-```
-mkdocs build --clean
-ant 
-```
+The ```Jenkinsfile``` contained in the project provides the script to compile the markdown files and build a Docker image.
 
-The result will be a `summit-docs.war` file that can be deployed in Wildfly.
 
-### Deploying the Docs
+### Building the Docs Manually
 
-At the top level of a working copy:
+To build the docs manually, run the following command:
+
 ```
-scp target/summit-docs.war summit@summit-dev.research.vt.edu:tmp/
-ssh summit@summit-dev.research.vt.edu
-summit-denali.sh dev cli
-deploy ~/tmp/summit-docs.war --name=summit-docs.war --force
-```
+docker run -v $(pwd):/documents moird/mkdocs mkdocs build --clean
+``` 
+
+The built documents will then be found in the ```/site``` folder.
