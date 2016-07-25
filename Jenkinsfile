@@ -24,9 +24,9 @@ node {
 
     stage 'Dev Deploy'
     withCredentials([[$class: 'AmazonWebServicesCredentialsBinding', accessKeyVariable: 'AWS_ACCESS_KEY_ID', credentialsId: 'aws-jenkins-credentials', secretKeyVariable: 'AWS_SECRET_ACCESS_KEY']]) {
-        sh "docker run --rm -e AWS_ACCESS_KEY_ID=${env.AWS_ACCESS_KEY_ID} -e AWS_SECRET_ACCESS_KEY=${env.AWS_SECRET_ACCESS_KEY} -v $location:/aws mikesir87/aws-cli jq '.family=\"docs-dev\" | .containerDefinitions[0].image=\"606752838354.dkr.ecr.us-east-1.amazonaws.com/summit/docs:build-2\"' task-definition.json > updated-task-definition.json"
-        sh "docker run --rm -e AWS_ACCESS_KEY_ID=${env.AWS_ACCESS_KEY_ID} -e AWS_SECRET_ACCESS_KEY=${env.AWS_SECRET_ACCESS_KEY} -v $(pwd):/aws mikesir87/aws-cli aws ecs register-task-definition --cli-input-json file://updated-task-definition.json"
-        sh "docker run --rm -e AWS_ACCESS_KEY_ID=${env.AWS_ACCESS_KEY_ID} -e AWS_SECRET_ACCESS_KEY=${env.AWS_SECRET_ACCESS_KEY} -v $(pwd):/aws mikesir87/aws-cli aws ecs update-service --cluster static-dev --service docs-dev-service --task-definition docs-dev
+        sh "docker run --rm -e AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID} -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY} -v $location:/aws mikesir87/aws-cli jq '.family=\"docs-dev\" | .containerDefinitions[0].image=\"606752838354.dkr.ecr.us-east-1.amazonaws.com/summit/docs:build-2\"' task-definition.json > updated-task-definition.json"
+        sh "docker run --rm -e AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID} -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY} -v $(pwd):/aws mikesir87/aws-cli aws ecs register-task-definition --cli-input-json file://updated-task-definition.json"
+        sh "docker run --rm -e AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID} -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY} -v $(pwd):/aws mikesir87/aws-cli aws ecs update-service --cluster static-dev --service docs-dev-service --task-definition docs-dev
 
     }
 }
