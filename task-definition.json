@@ -1,0 +1,22 @@
+{
+  "containerDefinitions": [
+    {
+      "volumesFrom": [],
+      "memory": 300,
+      "portMappings": [
+        {
+          "hostPort": 10080,
+          "containerPort": 80,
+          "protocol": "tcp"
+        }
+      ],
+      "essential": true,
+      "mountPoints": [],
+      "name": "docs-nginx",
+      "environment": [],
+      "image": "IMAGE",
+      "cpu": 100
+    }
+  ],
+  "family": "FAMILY"
+}
