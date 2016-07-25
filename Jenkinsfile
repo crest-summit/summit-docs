@@ -19,6 +19,6 @@ node {
     stage 'Push image to ECR'
     docker.withRegistry('https://606752838354.dkr.ecr.us-east-1.amazonaws.com', 'ecr:aws-jenkins-credentials') {
         docker.image('summit/docs').push('latest');
-        docker.image('summit/docs').push("build-${env.BUILD_NUMER}");
+        docker.image('summit/docs').push("build-${env.BUILD_NUMBER}");
     }
 }
