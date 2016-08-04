@@ -14,9 +14,16 @@ For questions about a specific proposal, contact the Pre-Award Associate listed 
 To report an error message, email a copy of the message with the proposal ID to summithelp@vt.edu
 
 # Video Tutorials
-Access short 2 - 5 minutes videos showing how to use specific functions in Summit.
+Access short 2 - 5 minutes videos, as well as longer overviews and demonstrations, showing how to use specific functions in Summit on the [Summit Help You Tube channel](https://www.youtube.com/channel/UC882QBwFDrfXbILKRvq2aiA).
 
-Links to Tutorials Coming Soon
+Several Key videos:
+- [Summit Overview](https://www.youtube.com/watch?v=uwGLAqFzC_Q)
+
+- [How to Approve a Proposal](https://www.youtube.com/watch?v=LTTEQPm2Wb8)
+
+- [Initiating a Proposal in Summit](https://www.youtube.com/watch?v=muAyluSU1V8)
+
+
 
 # FAQs
 Coming Soon

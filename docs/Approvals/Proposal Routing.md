@@ -21,6 +21,9 @@ All proposals on which the User is listed an approver or delegate that have not 
 
 All proposal that have been approved by all required Organizations are listed in the Summary Pane.  The checkmark icon indicated all required approvals have been granted.
 
+**Canceled**
+INSERT SOMETHING HERE
+
 # Approval Editor
 Choosing a proposal from the summary view of any of the Approval folders will display a read-only Editor that contains subset of data from the Proposal Editor.  
 
@@ -71,7 +74,7 @@ The file log lists all files attached to the proposal.  The most recent version 
 ![File Log Modal](../images/approvals/AppPro_FileLog.jpg)
 
 # Approval Process
-When a proposal is ready to be routed for Departmental and College or Institute approval, any full access User can initiate the routing process.  All approvers and delegates assigned to the proposal are notified and must log in to Summit to review and approve the proposal.  Each organization on the proposal has its own approval chain, but the approvals for each chain can be done in parallel and do not need to wait on the other chains. For example, there may be two departments in two different colleges assigned to approve the proposal.  Both departments will be notified as the same time. Each college will be notified once their department has approved. The Proposal Editor tracks where the proposal is in the process and documents which approvals are pending and which are complete.
+When a proposal is ready to be routed for Departmental and College or Institute approval, any full access User can initiate the routing process.  All approvers and delegates assigned to the proposal are notified and must log in to Summit to review and approve the proposal.  Each organization on the proposal has its own approval chain, but the approvals for each chain can be done in parallel and do not need to wait on the other chains. For example, there may be two departments in two different colleges assigned to approve the proposal.  Both departments will be notified at the same time. Each college will be notified once their department has approved. The Proposal Editor tracks where the proposal is in the process and documents which approvals are pending and which are complete.
 
 ## Submit for routing
 All Users with full access can submit a proposal for routing by choosing the "Submit to Routing" option on the Proposal action menu
@@ -90,7 +93,7 @@ Once the proposal is in routing, the status changes to "In Routing." The chain i
 When a User submits a proposal for routing as described above, if all of the required fields are not completed, a toast notification will appear indicating which fields must be complete before routing can begin.  The following is a list of all fields required before routing:
 
 - All questions in the Compliance sections
-- The following fields are entered: Proposal Label, Proposal Full Title, Program Type, Research Theme, Research Initiative, Building, Period of Performance, Performance Location, Indirect Type, Indirect Rate, Indirect Rate Reason, Subcontracts, Special Indirect Distribution, Subfunds Needed, Special Administrative Costs, Total Direct Costs, Total Indirect Costs 
+- The following fields are entered: Proposal Label, Proposal Full Title, Program Type, Research Theme, Research Initiative, Building, Period of Performance, Performance Location, Indirect Type, Indirect Rate, Indirect Rate Reason, Subcontracts, Special Indirect Distribution, Subfunds Needed, Special Administrative Costs, Total Direct Costs, Total Indirect Costs
 - If Cost Share is marked "yes," then Total Cost Share, Rationale and Requirement fields are also required
 - If Personnel Cost Share is marked "yes," then at least one person must be entered with an organization, percent effort, salary, fringe and fund source
 - If Non-Personnel Direct Cost Share is marked "yes," then at least one item must be added with Type, Organization, Total for all years and Funding source
@@ -141,7 +144,7 @@ A notification is emailed to all Approvers and delegates assigned to a proposal 
 For example, if the proposal needs to be approved by both Mechanical Engineering (ME) and Aerospace and Ocean Engineering (AOE), the College of Engineering will not be notified until both ME and AOE have approved.
 
 ## Approving the Proposal
-Approvers log in to Summit and see a list of proposals waiting for their approval in "Approvals / To Be Approved."  Choosing the Proposal in the Summary Pane will display a read-only view of the the basic Proposal details in the Editor. To approve the proposal, the User checks the box at the top of the Editor indicating they have reviewed and approve the proposal.
+Approvers log in to Summit and see a list of proposals waiting for their approval in "Approvals / To Be Approved."  Choosing the Proposal in the Summary Pane will display a read-only view of the basic Proposal details in the Editor. To approve the proposal, the User checks the box at the top of the Editor indicating they have reviewed and approve the proposal.
 
 ![Approval checkbox](../images/approvals/AppPro_Checkbox.jpg)
 
