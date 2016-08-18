@@ -23,7 +23,7 @@ Several Key videos:
 
 - [How to Submit a Proposal for Routing and Approval](https://www.youtube.com/watch?v=dVuW3nVRUng)
 
-- [How to Approve a Proposal](https://www.youtube.com/watch?v=LTTEQPm2Wb8)
+- [How to Approve a Proposal](https://www.youtube.com/watch?v=sfmdQqFPBPc)
 
 
 
