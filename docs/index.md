@@ -21,6 +21,8 @@ Several Key videos:
 
 - [Initiating a Proposal in Summit](https://www.youtube.com/watch?v=muAyluSU1V8)
 
+- [Developing a Budget using Summit](https://www.youtube.com/watch?v=luRD8pZlVDg)
+
 - [How to Submit a Proposal for Routing and Approval](https://www.youtube.com/watch?v=dVuW3nVRUng)
 
 - [How to Approve a Proposal](https://www.youtube.com/watch?v=sfmdQqFPBPc)
