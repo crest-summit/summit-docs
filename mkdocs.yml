@@ -10,7 +10,7 @@ pages:
   - 'Proposal Navigation': 'Navigation/proposal.md'
 - Data:
   - 'Initiator': 'data/Proposal Initiator.md'
-  - 'Editor (Sections)': 'data/Proposal Editor.md'
+  - 'Proposal Editor': 'data/Proposal Editor.md'
   - 'Budget Development': 'data/Budget Development.md'
 - Approvals:
   - 'Proposal Routing': 'Approvals/Proposal Routing.md'

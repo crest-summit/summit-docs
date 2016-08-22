@@ -113,7 +113,7 @@ After a Budget Request is made, this section will display the data fields associ
 ## Development and Requirements
 The Budget Development subsection contains the budget documents and budget details included in the original budget request information.  The Budget Development Requirements subsection includes a list of standard proposal requirements relating to the budget.  Answering yes to the questions in this section will create new items requirements section.  For example, if there is a "yes" answer to "Subcontracts" the subcontractor section will become active and when there is a "yes" answer for "Does this budget involve Special Administrative Costs?" a new item will be added to the budget development requirements.
 
-DataEd_AdminCostsExample  IMAGE HERE - NEED IMAGE SHOT
+![Special Admin Costs Requirement](../images/data/DataEd_SpecialAdminReq.jpg)
 
 The Budget Development Requirement is a special requirement with enhanced capabilities. It is meant to be used for the communication around the development of the final budget(s).  Using the standard Requirements actions, budget development allows for attaching files, viewing and reverting to previous versions of files, commenting and replying as well as a unique feature of approving or rejecting a document.  See the Data/Budget Development and Tools/Requirements sections for details on using this feature.
 
