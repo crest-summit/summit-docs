@@ -3,13 +3,13 @@
 # Proposal Navigation Folders
 The Proposal Navigation is divided into several sub-items to facilitate management of the individual User’s work.
 
-![Navigation Folders](../images/Navigation/NavProp_Navigation.jpg)
+![Navigation Folders](../images/navigation/NavProp_Navigation.jpg)
 
 ## My Open
 The “My Open” navigation item displays all open proposals on which the User is listed as PI or Support Staff Lead.  
 The Summary Pane for Open proposals includes the following information for each proposal in the list:
 
-![Open Summary Text](../images/Navigation/NavProp_OpenSummaryText.jpg)
+![Open Summary Text](../images/navigation/NavProp_OpenSummaryText.jpg)
 
 The full name of the organization and sponsor can be seen by hovering over the item in the summary
 
@@ -18,7 +18,7 @@ Pending proposals are displayed in the Summary View in order by target date with
 ## All Open
 The “All Open” navigation item displays all current open proposals on which the User is listed as part of the Support Staff or Proposal Team, regardless of role or Submitting Org.   Proposals in All Open are displayed in order by target date with the most recent first.
 
-![All Open Subfolders](../images/Navigation/NavProp_AllOpenSubFolders.jpg)
+![All Open Subfolders](../images/navigation/NavProp_AllOpenSubFolders.jpg)
 
 The “All Open” navigation item expands to display a folder for each PI on which the User is listed as part of the Support Staff or Proposal Team.
 
@@ -43,12 +43,12 @@ The “My Closed” navigation item displays all closed on which the User is lis
 
 The Summary Pane for Closed proposals includes the following information for each proposal in the list:
 
-![Closed Summary Text](../images/Navigation/NavProp_ClosedSummaryText.jpg)
+![Closed Summary Text](../images/navigation/NavProp_ClosedSummaryText.jpg)
 
 ## All Closed
 The “All Closed” navigation item displays all closed proposals, on which the User is listed as part of the Support Staff or Proposal Team regardless of the role or Submitting Org.   Proposals in All Closed are displayed in order by closure date, with the most recent on top.
 
-![All Closed](../images/Navigation/NavProp_AllClosed.jpg)
+![All Closed](../images/navigation/NavProp_AllClosed.jpg)
 
 # Proposal Summary View Indicators
 Within the Summary view for proposals, there are several indicators that will appear in specific circumstances as a quick reference for the User.
@@ -56,17 +56,17 @@ Within the Summary view for proposals, there are several indicators that will ap
 ### New and Unviewed Proposals
 Within the User’s My Open Proposals, any newly created and unviewed proposals display in bold with a blue bar on the left side of the Summary.  This indicator only appears in My Open, not All Open or other navigation items.
 
-![Unviewed Proposals](../images/Navigation/NavProp_Unviewed.jpg)   
+![Unviewed Proposals](../images/navigation/NavProp_Unviewed.jpg)   
 
 ### Sponsor Deadline
 If the proposal has a sponsor deadline in addition to a target due date, a calendar icon will display to the left of the target date. Hovering over the calendar icon will reveal the sponsor deadline.  Note that the target date defaults to the sponsor deadline if no target date was entered but a sponsor deadline was.
 
-![Deadline in Summary](../images/Navigation/NavProp_Deadline.jpg)
+![Deadline in Summary](../images/navigation/NavProp_Deadline.jpg)
 
 ### Administrative Review
 When a proposal is in Admin Review, a warning icon will display at the top right of the Summary View.  The icon appears in My Open and All Open navigation items.
 
-![Admin Review in Summary](../images/Navigation/NavProp_AdminReview.jpg)
+![Admin Review in Summary](../images/navigation/NavProp_AdminReview.jpg)
 
 Proposals appear in Admin Review in the following circumstances:
 -	When the Administrative and/or Technical Documents have not been marked received by OSP according to OSP Policy 10-01, the system will automatically mark the proposal for Administrative Review
@@ -76,7 +76,7 @@ Pre-Award Management is responsible for reviewing all proposals in Admin Review 
 ### Submitted but not Closed
 If a proposal has been marked as submitted but not yet closed, a submitted icon will display at the top right of the Summary View.  The Icon appears in the My Open and All Open navigation items
 
-![Submitted but Not Closed in Summary](../images/Navigation/NavProp_SubNotClosed.jpg)
+![Submitted but Not Closed in Summary](../images/navigation/NavProp_SubNotClosed.jpg)
 
 # Proposal Editor View Status Indicators
 The Proposal Editor Header displays several status indicators as applicable:
@@ -84,27 +84,27 @@ The Proposal Editor Header displays several status indicators as applicable:
 ##Admin Review Status
 When a proposal is in Admin Review, the status will display in the header.  The label is displayed in My Open, All Open and Admin Review navigation items.
 
-![Admin Review in Header](../images/Navigation/NavProp_HeaderAdminReview.jpg)
+![Admin Review in Header](../images/navigation/NavProp_HeaderAdminReview.jpg)
 
 ##Submitted but not Closed
 When a proposal has been marked as Submitted (using the Action Menu) but not Closed, the status will display in the header.  The label is displayed in My Open and All Open.
 
-![Submitted in Header](../images/Navigation/NavProp_HeaderSubmitted.jpg)
+![Submitted in Header](../images/navigation/NavProp_HeaderSubmitted.jpg)
 
 ##Closed Reason
 When a proposal has been marked as Closed by Pre-Award, the reason for closure will display in the header.  The label is displayed in My Closed and All Closed.
 
-![Closed in Header](../images/Navigation/NavProp_HeaderClosed.jpg)
+![Closed in Header](../images/navigation/NavProp_HeaderClosed.jpg)
 
 # Color Tags
 An optional feature that allows the User to color code each proposal is available through the color tag feature.  The color tags can be accessed by right clicking on the proposal in the summary pane or accessing the action menu:
 
-![Choosing Color Tags](../images/Navigation/NavProp_ChoosingColorTags.jpg)
+![Choosing Color Tags](../images/navigation/NavProp_ChoosingColorTags.jpg)
 
 Color tags are unique to each User.  They will appear on the User’s proposals in both My Open and All Open, though other User’s will not see them.  Color tags are only visible to the User applying them.
 
 When a proposal is color tagged, the User will see the colors in the summary pane and on the of left of the toolbar.
 
-![Color Tag Locations](../images/Navigation/NavProp_ColorTagLocations.jpg)
+![Color Tag Locations](../images/navigation/NavProp_ColorTagLocations.jpg)
 
 Color tags can be removed by unchecking the color in either the right click menu or the action menu.
