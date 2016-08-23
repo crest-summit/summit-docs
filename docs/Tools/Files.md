@@ -55,7 +55,7 @@ Available for all Users on all files.  This feature allows the User to designate
 
 Available to all Users for files marked “Signature Needed.”  This feature allows the User to remove the “Signature Needed” designation on the file.  This can be used when the signature is no longer needed or once the User has uploaded the signed document.
 
-![Remove Signature Needed on File](../images/tools/ToolFile_SigNotNeeded)
+![Remove Signature Needed on File](../images/tools/ToolFile_SigNotNeeded.jpg)
 
 # File Log
 A log of every file attached in the proposal is located to the right of the Comments Log.  The Files log is an interactive list of all the current versions of the files.  All the actions associated with a file except comment are accessible in the Files log.  Clicking on the file location will take the User to the file in the proposal editor.  Clicking on the file name will open the file in a separate window.
