@@ -22,7 +22,9 @@ All proposals on which the User is listed an approver or delegate that have not 
 All proposal that have been approved by all required Organizations are listed in the Summary Pane.  The checkmark icon indicated all required approvals have been granted.
 
 **Canceled**
-INSERT SOMETHING HERE
+When a proposal needs to be updated while it routing, the routing can be canceled, updated, and then re-routed.  If a proposal needs to be updated after all approvals are received, the approval can be discarded and then the proposal updated and re-routed.  The Canceled folder contains all approvals that have been canceled or discarded, with a notification at the top indicating the circumstances.
+
+![Canceled Notice](../images/approvals/AppPro_CanceledNotice.jpg)
 
 # Approval Editor
 Choosing a proposal from the summary view of any of the Approval folders will display a read-only Editor that contains subset of data from the Proposal Editor.  
@@ -81,16 +83,16 @@ All Users with full access can submit a proposal for routing by choosing the "Su
 
 ![Submit for Routing Action](../images/approvals/AppPro_SubmitAction.jpg)
 
-Choosing this option will activate a dialogue box where the User must confirm they want to submit the proposal for routing.  If the Proposal does not have the Activity Type field completed, the dialgue box will also require that field to be entered.
+Choosing this option will activate a dialogue box where the User must choose a budget file to be used for routing.  Only budgets files that have been approved by Pre-Award can be routed.  Choosing a budget here will allow the approvers to view this file and indicate that it is the version being submitted to the sponsor.
 
-![Submit for Routing dialogue box](../images/approvals/AppPro_SubmitDialogue.jpg)
-
-Once the proposal is in routing, the status changes to "In Routing." The chain icon indicates the proposal is in routing and has not yet been approved by all parties.  This status is captured in the Proposal Header, Summary Pane and Calendar View.
-
-![In Routing Icons](../images/approvals/AppPro_InRoutingIcons.jpg)
+![Choosing a Budget for Routing](../images/approvals/AppPro_ChooseBudget.jpg)
 
 ## Validations for Routing
-When a User submits a proposal for routing as described above, if all of the required fields are not completed, a toast notification will appear indicating which fields must be complete before routing can begin.  The following is a list of all fields required before routing:
+After the budget has been choose, when the user clicks the "Submit for Routing" button, the system will confirm all required fields have been completed.  If all of the required fields are not completed, a notification will appear in the lower right indicating which fields must be complete before routing can begin.  
+
+![Notification with missing fields for routing](../images/approvals/AppPro_Toast.jpg)
+
+The following is a list of all fields required before routing:
 
 - All questions in the Compliance sections
 - The following fields are entered: Proposal Label, Proposal Full Title, Program Type, Research Theme, Research Initiative, Building, Period of Performance, Performance Location, Indirect Type, Indirect Rate, Indirect Rate Reason, Subcontracts, Special Indirect Distribution, Subfunds Needed, Special Administrative Costs, Total Direct Costs, Total Indirect Costs
@@ -100,6 +102,14 @@ When a User submits a proposal for routing as described above, if all of the req
 - If Indirect Cost Share is marked "yes," then at least one of the fields must be completed
 - If Third Party Cost Share is marked "yes," then at least one contributor must be added with the Total Cost Share Commitment and Type fields completed
 
+## In Routing status
+Once the proposal is in routing, the status changes to "In Routing." The chain icon indicates the proposal is in routing and has not yet been approved by all parties.  This status is captured in the Proposal Header, Summary Pane and Calendar View.
+
+![In Routing Icons](../images/approvals/AppPro_InRoutingIcons.jpg)
+
+All required fields become read-only fields after a proposal is submitted for routing.  
+
+![Locked Fields](../images/approvals/AppPro_LockedFields.jpg)
 
 ## Approver Assignment
 When a proposal is submitted to routing, organizations and their designated approvers and delegates are assigned to approve it.  At least one approver or delegate from each assigned organization must approve the proposal.  
@@ -150,9 +160,27 @@ Approvers log in to Summit and see a list of proposals waiting for their approva
 
 Once the User checks the box the proposal will no longer be in their "To be approved."  
 
-Approvers listed in multiple approval chains will only receive a notification when all the chains are ready for their approval.  When they check the approval box, they will approve for each chain.  In the example below, the approver will approve for the College of Engineering in both chains when he clicks the approved checkbox:
+Approvers listed in multiple approval chains will only receive a notification when all the chains are ready for their approval.  When they check the approval box, they will approve for all chains and not need to approve for each separately.  In the example below, the approver will approve for the College of Engineering in both chains when he clicks the approved checkbox:
 
 ![Approver in Multiple Chains](../images/approvals/AppPro_MultChain.jpg)
+
+## Canceling the Routing
+If during the routing process the required fields need to be updated or the proposal no longer needs to be approved, the routing may be canceled.  To cancel routing, anyone on the Proposal Team or Support Staff may use the Action Menu and choose the "Cancel Routing" options.   This will open a dialogue box in which the reason for canceling must be indicated.  For example, if major budgeting changes are required, a new budget would need to be routed for review and approval.
+
+![Cancel Routing](../images/approvals/AppPro_CancelRouting.jpg)
+
+Canceling routing will hide the approval decisions section, allow editing to all required fields and remove the In Routing status.   The proposal can then be updated and re-routed.  The reason for canceling will be indicated in the approver's view along with when, and by whom it was canceled.
+
+![Canceled Notice](../images/approvals/AppPro_CanceledNotice.jpg)
+
+## Discarding the Approval
+If after a proposal has been routed and is in the Approved status and the required fields need to be updated, the approval may be discarded.  To discard the approval, anyone on the Proposal Team or Support Staff may use the Action Menu and chose the "Discard Approval" option.  This will open a dialogue box in which the reason for discarding must be indicated.  For example, if additional cost share is required, a new budget would need to be routed for review and approval.
+
+![Discard Routing](../images/approvals/AppPro_Discard.jpg)
+
+Discarding the approval will clear the approval status, hide the approval decision section and allow editing to all required fields.  The proposal can then be updated and re-routed. The reason for discarding the approval will be indicated in the approver's view along with when, and by whom it was discarded.
+
+![Discard Notice](../images/approvals/AppPro_DiscardNotice.jpg)
 
 # Approvals in the Proposal
 ## Summary
@@ -178,15 +206,14 @@ Once the proposal has been approved by all organizations, the status changes to 
 
 **Approval Decision Section**
 
-In the Proposal Editor, Users can track the approval process in the Approval Decision section.
+In the Proposal Editor, Users can track the approval process in the Approval Decision section.  This section shows which organizations have approved and which approvals are still pending.
 
 ![Approval Decision section of Proposal Editor](../images/approvals/AppPro_AppDecSection.jpg)
 
-This section shows which organizations have approved and which approvals are still pending.  Notice the following in the above:
+ Notice the following in the above:
+ - A link to the budget chosen for routing is located at the top of the section
+ - The pending icon (question mark) appears to the left of the organization name when that organization's approval is required for the approval process to proceed to the next level.
+ - Clicking the down caret next to the organization name displays a list of the approver and approver delegates
  - Organizations that have approved have a checkmark.
  - The name of the person who approved and the time they approved displays on the right.
- - The pending icon (question mark) appears to the left of the organization name when that organization's approval is required for the approval process to proceed to the next level.
-
-A list of all approvers and delegates is available by clicking on the caret next to the organization name:
-
-![List of Approvers](../images/approvals/AppPro_ApproverList.jpg)
+ - If an organization does not need to approve due to conditional approval preferences, it is is indicated to the left of the organization name.

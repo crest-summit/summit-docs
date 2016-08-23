@@ -15,7 +15,7 @@ On the Initiate Proposal Screen, the User selects the type of work they are init
 
 ![Proposal Initiator Start Screen](../images/navigation/NavIni_Start.jpg)
 
-If the User chooses the first option for new work, the Activity Type must be identified as well.
+If the User chooses the first option for new work, the Type of Work must be identified as well.
 
 ![Proposal Initiator new work drop down](../images/navigation/NavIni_ActType.jpg)
 

@@ -17,7 +17,7 @@ Advancing means taking one type of submission to the Sponsor and moving it to th
 The concept of Advancing a proposal is centered around keeping related work connected in Summit and was designed to reduce re-entry of data. When advancing work from one type of proposal to another, Users should use this action to create a related proposal instead of the "Get Started" button to create an entirely new unrelated proposal.
 
 ## Activity Types
-Each new submission to a sponsor requires the Activity Type to be identified with one of the following:
+Each new submission to a sponsor requires the Type of Work to be identified with one of the following:
 
 - White Paper: A statement of work sent to the Sponsor that will not result in an award until a Proposal has been submitted.
 - Letter of Intent: Notice to the Sponsor of intent to submit a Proposal.
@@ -26,7 +26,7 @@ Each new submission to a sponsor requires the Activity Type to be identified wit
 - Revision: An update to an existing item before an award has been issued.
 - Other: New work associated with a previous award such as a supplement, continuation or renewal.
 
-The options to Advance depend upon the Activity Type.  The following shows which types can be advanced to which:
+The options to Advance depend upon the Type of Work.  The following shows which types can be advanced to which:
 
 - White Paper  -> Pre-Proposal, Proposal, Revision
 - Letter of Intent -> White Paper, Pre-Proposal, Proposal, Revision
@@ -66,10 +66,10 @@ Duplicating a proposal is available to all Users in every proposal status.  Dupl
 
 ![Duplicate Dialogue Box](../images/tools/ToolAct_Duplicate.jpg)
 
-The middle section in the dialogue box requires the User to indicate if either or both proposal team and submission information will be duplicated.  At least one must be answered yes in order to duplicate the proposal.
-If the User indicates the Submission Type is “Revision” or “Other,” an additional field for the Proposal ID or Grant Number is required.  After the User answers the Sponsor Deadline question, the Target Date question will appear.
+The middle section in the dialogue box requires the User to indicate if either or both proposal team and submission information will be duplicated.  At least one must be answered yes in order to duplicate the proposal.  If the User indicates the Submission Type is “Revision” or “Other,” an additional field for the Proposal ID or Grant Number is required.  After the User answers the Sponsor Deadline question, the Target Date question will appear.
 
 A proposal duplicated by the Proposal Team or Support Staff is automatically assigned to the Pre-Award Associate assigned to the Submitting Org regardless of the Pre-Award Associate assigned to the original (duplicated) proposal.  A proposal duplicated by a Pre-Award Associate is assigned to that User regardless of the Submitting Org assignment.  In either case, the proposal can be reassigned by a Pre-Award User if necessary.
+
 # Close
 The Close action is only available for open proposals and to Pre-Award Users.  This action moves the proposal from the Open Navigation Items to the Closed Navigation Items.  When the User chooses this option, a dialogue box appears prompting them to enter the required Reason for Closure and add an optional note/comment.  
 
