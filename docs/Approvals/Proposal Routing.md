@@ -22,6 +22,7 @@ All proposals on which the User is listed an approver or delegate that have not 
 All proposal that have been approved by all required Organizations are listed in the Summary Pane.  The checkmark icon indicated all required approvals have been granted.
 
 **Canceled**
+
 When a proposal needs to be updated while it routing, the routing can be canceled, updated, and then re-routed.  If a proposal needs to be updated after all approvals are received, the approval can be discarded and then the proposal updated and re-routed.  The Canceled folder contains all approvals that have been canceled or discarded, with a notification at the top indicating the circumstances.
 
 ![Canceled Notice](../images/approvals/AppPro_CanceledNotice.jpg)
