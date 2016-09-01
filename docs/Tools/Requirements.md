@@ -24,15 +24,18 @@ When there is a dropdown field, all Users have access to change the status.
 
 ## Dropdown Options
 **"--"**
+
 Indicates that the requirement has not yet been reviewed to determine if it should be designated as required or not applicable.   This is the default state of the dropdown boxes.
 
 ![Dash dropdown default](../images/tools/ToolReq_DashDropdown.jpg)
 
 **"N/A"**
+
 Requirement is not applicable to this proposal and is therefore not a requirement.  When an item is marked as “N/A,” it fades to light gray.  
 ![n/a requirement designation](../images/tools/ToolReq_NAReq.jpg)
 
 **"Required"**
+
 Item is an applicable requirement for this proposal but has not yet been completed.  When an item is marked as "Required" a checkbox appears to the right of the dropdown, giving the user the ability to mark it as complete.  
 ![required designation makes checkbox appear](../images/tools/ToolReq_Req.jpg)
 
@@ -54,7 +57,6 @@ The third section is the requirement detail.  This is the title or description o
 Each Requirement includes a different label depending upon which state it is in.  For example, before it has been reviewed and is in the default "--" state, the label may be in a question form.  When it is required it will be a description of who needs to do what and when it is complete it will state what has been done.
 
 ![Requirement Labels](../images/tools/ToolReq_Labels.jpg)
-
 
 ## Requirement Help
 There are two types of help text associated with Requirements.  Each requirement may have one, both or neither of the following:
@@ -112,12 +114,13 @@ Once a file is uploaded, there are several sections of the file view:
 
 For details on using the files, see the Tools/Files section.
 
-##File Action Menu
+## File Action Menu
 In addition to the actions available on the Checklist item, each file that is uploaded to a checklist item has a set of actions available to it.  An action gear will appear next to the file when the User hovers over a file:
 
 ![File Action Gear](../images/tools/ToolReq_FileActionMenu.jpg)
 
 **Add Comments**
+
 Available to all Users for all Files.  Choosing this action will allow the User to type into a comment box which can be canceled or saved.  See Tools/Comments section below for further details.
 
 ![Adding a Comment to a file](../images/tools/ToolReq_AddCommentToFile.jpg)
@@ -127,6 +130,7 @@ If there is already a comment, clicking this will create a reply to the current 
 ![Adding a Comment to a File for a Reply](../images/tools/ToolReq_ReplyOnFile.jpg)
 
 **Upload New Version**
+
 Once a file is uploaded from the Checklist Action Gear, there is an option to “Upload New Version.”  Uploading a new version allows the user to “replace” the current version with an update.  Clicking on this action will bring a popup window allowing the User to drag or search for the file.
 
 ![Upload Version of New File](../images/tools/ToolReq_UploadNewVersion.jpg)
@@ -134,11 +138,13 @@ Once a file is uploaded from the Checklist Action Gear, there is an option to �
     Note:  Uploading a new version replaces the current version.  To add a separate document with its own versions, use the Action Gear on the Requirement item (see further details in the Data/Budget Development section)
 
 **Delete File**
+
 Available to all Users for all Files.  This action will delete **all versions of the file**, not just the most recent file that is visible.  All comments will be deleted along with all versions.
 
 ![Deleting File and all Versions](../images/tools/ToolReq_DeleteAllVersions.jpg)
 
 **View and Revert**
+
 Available to all Users for all files that have more than one version uploaded.  This action allows the User to see a list of all versions of a specific file.
 
 ![Viewing all Versions of File](../images/tools/ToolReq_ViewAllVersions.jpg)
@@ -152,14 +158,17 @@ Once a User has reverted to a previous version, the “View Previous Versions”
 ![Previous Version in list of Versions](../images/tools/ToolReq_VersionHistory.jpg)
 
 **Accept/Approve**
+
 This action is available only on the Budget Development documents. Choosing these options will update the label.  See Data/Budget Development section for further details.
 
 **Include in Submission**
+
 Available to all Users on all files.  This feature allows the User to designate which files will be included in the proposal submission to the Sponsor.  When it is chosen, an indicator will appear above the document and in the Files log.  It is recommended to use this feature to indicate to the Pre-Award Associate, Support Staff or other team members that the current version displayed is to be included in the proposal submission packet.
 
 ![Include in Submission](../images/tools/ToolFile_Submission.jpg)
 
 **Signature Needed**
+
 Available for all Users on all files.  This feature allows the User to designate which files require a signature.  When it is chosen, an indicator will appear above the document as well as in the Files log.  It is recommended to use this feature to indicate to the Pre-Award Associate, Support Staff or other team members that the current version of the document needs to be signed.  Comments can be used to indicate who needs to sign.
 
 ![Signature Needed on File](../images/tools/ToolFile_SigNeeded.jpg)
