@@ -7,8 +7,9 @@ stages:
 
 build:
   stage: build
+  image: moird/mkdocs
   script:
-    - docker run -v $(pwd):/documents moird/mkdocs mkdocs build --clean
+    - moird/mkdocs mkdocs build --clean
   artifacts:
     name: site-build
     expire_in: 1 week
