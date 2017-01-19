@@ -40,4 +40,16 @@ pprd-deploy:
     - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
     - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
     - aws --region=us-east-1 s3 sync --delete site/ s3://${PPRD_BUCKET_NAME}/
+
+prod-deploy:
+  stage: prod-deploy
+  environment: production
+  when: manual
+  only:
+    - master
+  image: mikesir87/aws-cli
+  script:
+    - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
+    - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
+    - aws --region=us-east-1 s3 sync --delete site/ s3://${PROD_BUCKET_NAME}/
   
