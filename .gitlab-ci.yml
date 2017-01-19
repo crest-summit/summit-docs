@@ -1,0 +1,35 @@
+stages:
+  - build
+  - dev-deploy
+  - pprd-deploy
+  - prod-deploy
+
+
+build:
+  stage: build
+  script:
+    - docker run -v $(pwd):/documents moird/mkdocs mkdocs build --clean
+  artifacts:
+    name: site-build
+    expire_in: 1 week
+    paths:
+      - site/
+    
+
+dev-deploy:
+  stage: dev-deploy
+  environment: dev
+  only:
+    - master
+  script:
+    - docker run -v $(pwd):/app -e AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY mikesir87/aws-cli aws --region=us-east-1 s3 sync --delete /app/site/ s3://${DEV_BUCKET_NAME}/
+
+pprd-deploy:
+  stage: pprd-deploy
+  environment: pprd
+  when: manual
+  only:
+    - master
+  script:
+    - docker run -v $(pwd):/app -e AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY mikesir87/aws-cli aws --region=us-east-1 s3 sync --delete /app/site/ s3://${PPRD_BUCKET_NAME}/
+  
