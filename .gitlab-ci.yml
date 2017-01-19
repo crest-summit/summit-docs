@@ -9,7 +9,7 @@ build:
   stage: build
   image: moird/mkdocs
   script:
-    - moird/mkdocs mkdocs build --clean
+    - mkdocs build --clean
   artifacts:
     name: site-build
     expire_in: 1 week
