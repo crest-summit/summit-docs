@@ -57,6 +57,8 @@ prod-deploy:
 sbox-deploy:
   stage: sandbox-deploy
   environment: sandbox
+  # Won't need this once GitLab issue #26360 is resolved (https://gitlab.com/gitlab-org/gitlab-ce/issues/26360)
+  when: manual
   only:
     - master
   image: mikesir87/aws-cli
