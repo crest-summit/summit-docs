@@ -212,9 +212,16 @@ In the Proposal Editor, Users can track the approval process in the Approval Dec
 ![Approval Decision section of Proposal Editor](../images/approvals/AppPro_AppDecSection.jpg)
 
  Notice the following in the above:
+
  - A link to the budget chosen for routing is located at the top of the section
+
  - The pending icon (question mark) appears to the left of the organization name when that organization's approval is required for the approval process to proceed to the next level.
+
  - Clicking the down caret next to the organization name displays a list of the approver and approver delegates
+
  - Organizations that have approved have a checkmark.
+
  - The name of the person who approved and the time they approved displays on the right.
+
  - If an organization does not need to approve due to conditional approval preferences, it is is indicated to the left of the organization name.
+ 

@@ -96,6 +96,28 @@ When a proposal has been marked as Closed by Pre-Award, the reason for closure w
 
 ![Closed in Header](../images/navigation/NavProp_HeaderClosed.jpg)
 
+# Favorites
+Each User can designate a specific proposal as a “favorite” by clicking on the star in the summary pane.  
+
+![Favorites](../images/navigation/NavProp_Favorites.jpg)
+
+When the star is solid, it is a favorite.  Clicking on it again makes it an outline and “unfavorites” it.   Proposals designated as favorites will be in the user’s My Open proposals.
+
+# Lead Support Staff
+Each support staff person can designate themselves as a lead support staff using the proposal action menu and choosing Mark Me As Lead Support. This moves the proposal into their “My Open” folder. There is no limit or minimum requirement to how many lead support staff are on a proposal.  
+
+![Mark Me As Lead Action](../images/navigation/NavProp_MarkMe.jpg)
+
+Lead Support Staff will be designated as lead next to their name and will see the designation at the top right of the proposal header.  
+
+![Lead Designation](../images/navigation/NavProp_LeadDesignation.jpg)
+
+Each User can also use the “Remove me as lead support staff” action which will move the proposal out of My Open.  Note that you can have a proposal in My Open by using the favorites option without needing to be lead support staff.
+
+![Remove Me As Lead Action](../images/navigation/NavProp_RemoveMe.jpg)
+
+    **Note: Only support staff marked as Lead Support Staff will receive internal notifications on a proposal.**
+
 # Color Tags
 An optional feature that allows the User to color code each proposal is available through the color tag feature.  The color tags can be accessed by right clicking on the proposal in the summary pane or accessing the action menu:
 
