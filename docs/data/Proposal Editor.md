@@ -11,7 +11,7 @@ This field contains the Submitting Organization included in the Proposal Initiat
 
 If the Submitting Organization is changed in the Proposal Editor:
 -	The Pre-Award Associate remains the same.  If the new organization should be assigned to a new Pre-Award Administrator, it can be done manually at the Pre-Award Associate’s discretion.
--	Support Staff are not automatically removed from the proposal, but can be deleted manually.  The User is given a warning if there is additional support staff from this new organization that should be added to the Support Staff section.   
+-	Support Staff associated with a new Submitting Organization are automatically added.  Support Staff associated with an Submitting Organization that was removed will no longer have access (unless they are also associated with a Responsible Organization as described below).   
 
 ![Additional Support Staff](../images/data/DataEd_AdditionalSupportStaff.jpg)
 
