@@ -50,7 +50,7 @@ Notifications remain in the Notifications list until deleted by the User.  To de
 Notifications can also be deleted in bulk
 - To delete all notifications, click on the "Clear All" at the top
 
-![Clear All Notifications](../images/navigation/NavNot_ClearAll.jpp)
+![Clear All Notifications](../images/navigation/NavNot_ClearAll.jpg)
 
 - To delete all notifications on a specific proposal, click "Clear Item" at the top of the group of proposal notifications:
 

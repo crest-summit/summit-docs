@@ -63,3 +63,16 @@ A log of every file attached in the proposal is located to the right of the Comm
 ![File Log View](../images/tools/ToolFile_FileLog.jpg)
 
 The File Log includes a total count of files, the total number needing signature and the total number to be included in submission.  Each file is listed with it's location in the Proposal, the file name, who last updated it, when, and the size.  Also included are any status indicators and an action menu.  The action menu allows for all standard file actions except comments.
+
+#Undelete Files
+Pre-Award Users have the ability to view and undelete files from the File Log.
+
+![Show Deleted Files Option for Pre-Award Users](../images/tools/ToolFile_ShowDeleted.jpg)
+
+At the bottom left of the Files Log, Pre-Award Users will see an option to show Deleted Files (see above).  Choosing this option will show the deleted files in the log.  Deleted files appear crossed through.
+
+![Deleted Files shown in Files Log](../images/tools/ToolFile_ShowingDeleted.jpg)
+
+The action gear menu on a deleted file has the option to Restore the file.  Doing so will "undelete" the file and it will then appear in the File Log and Editor as it did before it was deleted.
+
+![Restore deleted files](../images/tools/ToolFile_Restore.jpg)

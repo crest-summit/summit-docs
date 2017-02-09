@@ -11,14 +11,12 @@ This field contains the Submitting Organization included in the Proposal Initiat
 
 If the Submitting Organization is changed in the Proposal Editor:
 -	The Pre-Award Associate remains the same.  If the new organization should be assigned to a new Pre-Award Administrator, it can be done manually at the Pre-Award Associate’s discretion.
--	Support Staff are not automatically removed from the proposal, but can be deleted manually.  The User is given a warning if there is additional support staff from this new organization that should be added to the Support Staff section.   
-
-![Additional Support Staff](../images/data/DataEd_AdditionalSupportStaff.jpg)
+-	Support Staff associated with a new Submitting Organization are automatically added.  Support Staff associated with an Submitting Organization that was removed will no longer have access (unless they are also associated with a Responsible Organization as described below).   
 
 For further details on searching for, choosing and creating an organization, see the Data/Initiator section.
 
 ## Proposal Team
-The Proposal Team section initially includes only the PI.  Additional Team Members can be added by clicking the “Add Proposal Team Member” button.
+The Proposal Team section initially includes only the PI that was choosen in the Proposal Initiator.  Additional Team Members can be added by clicking the “Add Proposal Team Member” button.
 
 ![Proposal Team](../images/data/DataEd_PropTeam.jpg)
 
@@ -36,28 +34,19 @@ Though all the fields are editable, there are several validations that will prev
 
  ![Multiple PI Error Message](../images/data/DataEd_MultiplePIError.jpg)
 
- - Persons listed in the Support Staff section cannot be added to the Proposal Team unless they are first deleted from the Support Staff section:
-
-![Support Staff Error Message](../images/data/DataEd_SupportError.jpg)
 
 ## Support Staff
-Support Staff includes the assigned Pre-Award Associate as well as any department or college administrative personnel who require access to the proposal.  This may include grant administrators, business managers or project managers.
+Support Staff includes the assigned Pre-Award Associate as well as any department or college administrative personnel to whom the organization has granted access.  
 
 ![Support Staff](../images/data/DataEd_SupportStaff.jpg)
 
-There are several unique features for Support Staff:
+Each Organization listed as a Submitting or Responsible Organization is listed in the Support Staff section.  
 
--	Some Support Staff are automatically included for the Submitting Organization that was entered at the Proposal Initiation.  OSP maintains a list of required Support Staff for each organization.  
+Support Staff associated with the organizations are automatically included.  Clicking on the name of the organization displays a list of associated Support Staff.  OSP maintains a list of Support Staff for each organization.  
 
--	Deleting Support Staff for the Submitting Org that are automatically included will generate a notice suggesting they be included:
+![Associated Support Staff List](../images/data/DataEd_StaffList.jpg)
 
-![Support Staff Delete Error Message](../images/data/DataEd_SSDeleteError.jpg)
-
-- Changing the Submitting Org will generate a notice suggestion the support staff associated with the new org be included:
-
-![Support Staff Change Message](../images/data/DataEd_ChangeOrgSS.jpg)
-
-- Support Staff can be designated as Support Staff Lead.   This role indicates that the Support Staff will see the proposals on which they are marked as Lead in their “My Open” navigation item.  This can be done automatically through the OSP maintained list or by manually editing the role.  There is no limit on the number of Support Staff that can have the Support Staff Lead role.
+Support Staff can be designated as Support Staff Lead.   This role indicates that the Support Staff will see the proposals on which they are marked as Lead in their “My Open” navigation item.  This can be done automatically through the OSP maintained list or by manually editing the role.  There is no limit on the number of Support Staff that can have the Support Staff Lead role.
 
 ![Support Staff Lead](../images/data/DataEd_SupportStaffLead.jpg)
 
