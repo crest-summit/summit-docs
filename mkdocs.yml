@@ -28,3 +28,4 @@ pages:
   - 'Assignees': 'Management/Assignees.md'
 - Reporting:
   - 'Data Exports': 'Reporting/Data Exports.md'
+- Release Notes: 'ReleaseNotes/releaseNotes.md'

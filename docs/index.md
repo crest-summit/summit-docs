@@ -28,12 +28,5 @@ Several Key videos:
 - [How to Approve a Proposal](https://www.youtube.com/watch?v=sfmdQqFPBPc)
 
 
-
-
-
-
-
-
-
 # FAQs
 Coming Soon!
