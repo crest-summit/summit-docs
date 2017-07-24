@@ -12,4 +12,4 @@
 2. This
 3. This
 
-![Get Started Menu](../images/getStarted.png)
+![Get Started Menu](../images/GetStarts.jpg)
