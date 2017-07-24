@@ -11,3 +11,5 @@
 1. This
 2. This
 3. This
+
+![Get Started Menu](../images/getStarted.png)
