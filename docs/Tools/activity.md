@@ -1,3 +1,5 @@
+**Tools / Activity Log**
+
 # Activity Log
 
 The Activity log is located at the beginning of the toolbar at the top right of the proposal.
