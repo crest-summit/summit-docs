@@ -1,3 +1,3 @@
-**Tools / History **
+**Tools / History**
 
-# History
+# Proposal History
