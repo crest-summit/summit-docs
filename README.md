@@ -26,11 +26,6 @@ Once the image is pulled and running, you can open http://localhost:8000 to view
 
 When updates are pushed to this repository the documentation set is automatically updated and deployed. You can access the documentation at http://docs.summit-qa.research.vt.edu
 
-### Jenkins build
-
-The ```Jenkinsfile``` contained in the project provides the script to compile the markdown files and build a Docker image.
-
-
 ### Building the Docs Manually
 
 To build the docs manually, run the following command:
