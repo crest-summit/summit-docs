@@ -1,10 +1,10 @@
 ## Release 2.0.0 - August 2017
-#### **> Get Started redeisgn**
+#### &nbsp; &nbsp; &nbsp; **Get Started redeisgn**
 ![Proposal Initiator Start Screen](images/navigation/NavIni_Start.jpg)
 Options: Start New Work, Advance Existing Work, Supplement/Continue Existing Grant
 <br><br>
 
-#### **> Types of Work updated**
+#### &nbsp; &nbsp; &nbsp; **Types of Work updated**
 
   New: White Paper, Letter of Intent, Pre-Proposal, Proposal, Supplement, Continuation
 
@@ -13,21 +13,24 @@ Options: Start New Work, Advance Existing Work, Supplement/Continue Existing Gra
   Changes: Revision and Other have been removed as a Type of Work.  For Revision, you are now able to revise to the Type of Work your are revising from (ex. Proposal to Proposal).  For Other, you can specify if it is a supplement or continuation.
 <br><br>
 
-#### **> History Log**
+#### &nbsp; &nbsp; &nbsp; **History Log**
   Users will now have the ability to view a list of all Types of Work that have been linked to each other via the advance feature.
 <br><br>
 
-#### **> Minor Updates**  
+#### &nbsp; &nbsp; &nbsp; **Minor Updates**  
 - Compliance questions updated
 - Increase proposal summary pane width (Updated view shown below)
 ![New Summary Width](images/newSummaryWidth.jpg)
 <br><br>
 
-#### **> Bug Fixes**
+#### &nbsp; &nbsp; &nbsp; **Bug Fixes**
 - Help Text on search fields
 - Activity Log erorrs  
 
 ---------
 ## Release 1.4.0 - May 2017
+
+---------
+## Release 1.3.0 - March 2017
 
 ---------
