@@ -28,3 +28,6 @@ Options: Start New Work, Advance Existing Work, Supplement/Continue Existing Gra
 - Activity Log erorrs  
 
 ---------
+## Release 1.4.0 - May 2017
+
+---------
