@@ -19,6 +19,7 @@ pages:
   - 'Activity Log': 'Tools/activity.md'
   - 'Comments': 'Tools/Comments.md'
   - 'Files': 'Tools/Files.md'
+  - 'History': 'Tools/History.md'
   - 'Requirements': 'Tools/Requirements.md'
 - Management:
   - 'Sponsors': 'Management/Sponsor Editor.md'

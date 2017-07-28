@@ -16,24 +16,24 @@ Advancing means taking one type of submission to the Sponsor and moving it to th
 
 The concept of Advancing a proposal is centered around keeping related work connected in Summit and was designed to reduce re-entry of data. When advancing work from one type of proposal to another, Users should use this action to create a related proposal instead of the "Get Started" button to create an entirely new unrelated proposal.
 
-## Activity Types
+## Types of Work
 Each new submission to a sponsor requires the Type of Work to be identified with one of the following:
 
 - White Paper: A statement of work sent to the Sponsor that will not result in an award until a Proposal has been submitted.
 - Letter of Intent: Notice to the Sponsor of intent to submit a Proposal.
 - Pre-Proposal: A statement of work and/or budget sent to the Sponsor before a Proposal that does not result in an award.
 - Proposal: A full statement of work and budget sent to the Sponsor that may result in an award.
-- Revision: An update to an existing item before an award has been issued.
-- Other: New work associated with a previous award such as a supplement, continuation or renewal.
+- Supplement: Adding additional funds for additional work on a current award without adding additional time to the project period.
+- Continuation: Adding additional funds and additional time for additional work on a current award.
 
 The options to Advance depend upon the Type of Work.  The following shows which types can be advanced to which:
 
-- White Paper  -> Pre-Proposal, Proposal, Revision
-- Letter of Intent -> White Paper, Pre-Proposal, Proposal, Revision
-- Pre-Proposal -> Proposal, Revision
-- Proposal -> Revision
-- Revision -> Revision
-- Other -> Revision
+- Letter of Intent -> Letter of Intent, White Paper, Pre-Proposal, Proposal
+- White Paper -> Letter of Intent, White Paper, Pre-Proposal, Proposal
+- Pre-Proposal -> Pre-Proposal, Proposal
+- Proposal -> Proposal, Supplement, Continuation
+- Supplement -> Supplement
+- Continuation -> Continuation
 
 ## Advance Process
 To Advance work, the User should start in the previously submitted proposal. The user accesses the Action Menu and selects the Advance action to create a new proposal.  
@@ -87,7 +87,7 @@ The Reasons for Closure while a proposal is in Submissions are:
 - Declined: The Sponsor has indicated that they will not fund the proposal.
 
     Note:  A Closed Proposal cannot be reopened.  To work on a closed proposal, it must be Advanced or Duplicated.
-    
+
 
 # Mark as Submitted
 This action is available to all Users in open proposals except those in Admin Review or already marked as Submitted.  This marks the proposal as one that has already been submitted to the sponsor but is still in the User’s “My/All Open” proposals because there is outstanding required data or documents.  Indicators are displayed in the Header and Summary Pane.  This status is an optional tool available for Users to manage their workload.  A proposal may be closed directly without having been in the Submitted state.
