@@ -1,4 +1,4 @@
-site_name: Summit Docs
+site_name: Summit User Guide
 theme_dir: 'custom_theme'
 dev_addr: 0.0.0.0:8000
 

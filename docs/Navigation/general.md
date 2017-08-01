@@ -61,6 +61,12 @@ Located to the right of the Header is the Toolbar containing several tools for a
 
 ![Toolbar](../images/navigation/NavGen_Toolbar.jpg)
 
+### History Log
+The History Log is a list of all associated works linked together through the Advance feature.
+
+For example a user could create a pre-proposal, advance to a proposal, then advance the proposal to another proposal and all 3 types of works will be accessable through the History tab at the top right while in one of the selected works.
+
+
 ### Activity Log
 A history of activity that has occurred is available for some types of items (such as proposals).  This history is found in the Activity Log located to the right of the header and contains a list of actions along with the date and time they occurred and the person performing the action.  For changes, the old information is gray and the new information that replaced it is normal font.
 
