@@ -36,7 +36,7 @@ The options to Advance depend upon the Type of Work.  The following shows which 
 - Continuation -> Continuation
 
 ## Advance Process
-To Advance work, the User should start in the previously submitted proposal. The user accesses the Action Menu and selects the Advance action to create a new proposal.  
+To Advance work, the User can either start from within the previous work or use Get Started if they have the previous work's proposal ID.  If they are in the previous work the user can access the Action Menu and select the Advance action to create a new type of work from the previous piece.  
 
     Note: Advance is available for Open, Submitted and Closed proposals, but will usually only be used after a proposal has been submitted to the sponsor and further interaction with the sponsor is required.
 

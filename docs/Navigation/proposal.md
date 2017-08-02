@@ -116,7 +116,7 @@ Each User can also use the “Remove me as lead support staff” action which wi
 
 ![Remove Me As Lead Action](../images/navigation/NavProp_RemoveMe.jpg)
 
-    **Note: Only support staff marked as Lead Support Staff will receive internal notifications on a proposal.**
+    Note: Only support staff marked as Lead Support Staff will receive internal notifications on a proposal.
 
 # Color Tags
 An optional feature that allows the User to color code each proposal is available through the color tag feature.  The color tags can be accessed by right clicking on the proposal in the summary pane or accessing the action menu:
