@@ -27,6 +27,9 @@ Several Key videos:
 
 - [How to Approve a Proposal](https://www.youtube.com/watch?v=sfmdQqFPBPc)
 
+# Known Issues
+- Proposal creation fails when a PI does not have a home org in Banner or default home org in Summit.  
+    - Workaround: The PI should work with their department to update Banner to add their home org or add a default home org in managed preferences.
 
 # FAQs
 Coming Soon!

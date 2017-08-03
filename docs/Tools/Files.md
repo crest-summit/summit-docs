@@ -58,7 +58,11 @@ Available to all Users for files marked “Signature Needed.”  This feature al
 ![Remove Signature Needed on File](../images/tools/ToolFile_SigNotNeeded.jpg)
 
 # File Log
-A log of every file attached in the proposal is located to the right of the Comments Log.  The Files log is an interactive list of all the current versions of the files.  All the actions associated with a file except comment are accessible in the Files log.  Clicking on the file location will take the User to the file in the proposal editor.  Clicking on the file name will open the file in a separate window.
+A log of every file attached in the proposal is located to the right of the Comments Log.  
+
+![File Log Toolbar](../images/tools/ToolFiles_Toolbar.jpg)
+
+The Files log is an interactive list of all the current versions of the files.  All the actions associated with a file except comment are accessible in the Files log.  Clicking on the file location will take the User to the file in the proposal editor.  Clicking on the file name will open the file in a separate window.
 
 ![File Log View](../images/tools/ToolFile_FileLog.jpg)
 

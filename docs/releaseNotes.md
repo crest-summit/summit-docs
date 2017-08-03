@@ -1,8 +1,8 @@
 ## Release 2.0.0 - August 2017
-#### **1. Get Started/Advance redeisgn**
+#### **1. Get Started / Advance redeisgn**
 ![Proposal Initiator Start Screen](images/navigation/NavIni_Start.jpg)
 
-Get Started will have all 3 options, Advance will only include the last two.
+<span style="color:blue">**Get Started**</span> will have all 3 options, while selecting **Advance** from within a proposal only the lst two options will appear.
 
 - **Start New Work**
     - I want to create a new Proposal, Pre-Proposal, White Paper, or Letter of Intent that is not advancing current work
@@ -32,7 +32,7 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 #### **4. Minor Updates**  
 - Compliance questions updated (OESRC and IRB)
 - Increase proposal summary pane width (Updated view shown below)
-![New Summary Width](images/newSummaryWidth.jpg)
+![New Summary Width](images/releaseNotes/newSummaryWidth.jpg)
 <br><br>
 
 #### **5. Bug Fixes**
@@ -40,10 +40,6 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 ![Help Text](images/releaseNotes/helpText.jpg)
 
 - Activity Log erorrs  
-
-#### **Known Issues**
-- Proposal creation fails when a PI does not have a home org in Banner or default home org in Summit.  Workaround is to have the PI add a default home org in managed preferences.
-
 
 ---------
 ## Release 1.4.0 - May 2017

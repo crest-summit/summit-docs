@@ -12,7 +12,7 @@ When the User clicks on the Action button, a dropdown is displayed revealing sev
 The Action Menu is grouped into two main categories of actions: Advance/Duplicate and Management type actions.
 
 # Advance
-Advancing means taking one type of submission to the Sponsor and moving it to the next step of the process.  For example, a white paper could become a pre-proposal which could in turn become a full proposal.
+Advancing means taking one type of submission to the Sponsor and moving it to the next step of the process or revising a prior piece of work to the same work type.  For example, a white paper could become a pre-proposal which could in turn become a full proposal.
 
 The concept of Advancing a proposal is centered around keeping related work connected in Summit and was designed to reduce re-entry of data. When advancing work from one type of proposal to another, Users should use this action to create a related proposal instead of the "Get Started" button to create an entirely new unrelated proposal.
 
@@ -40,11 +40,11 @@ To Advance work, the User can either start from within the previous work or use 
 
     Note: Advance is available for Open, Submitted and Closed proposals, but will usually only be used after a proposal has been submitted to the sponsor and further interaction with the sponsor is required.
 
-If the proposal being advanced has an identified Activity Type, the User will be asked to identify the Activity Type of the new work.  If the proposal being advanced does not have the Activity Type field completed, the User will be asked to identify the Activity Type of the original and new work.
+If the proposal being advanced has an identified Type of Work, the User will be asked only to identify the Type of Work of the new work (1st field below).  If the proposal being advanced does not have the Type of Work field completed, the User will be asked to identify the Type of Work of the original and new work (2nd field below).
 
 ![Advance Action to Initiator Dialogue Box](../images/tools/ToolAct_AdvanceDialogue.jpg)
 
-After identifying the Activity Type(s), the User will then be taken through the normal "Get Started" wizard to create the new proposal.  The initiator will include data from the proposal being advanced, except Sponsor Deadline and Target Date. All fields are editable so may be updated as necessary.
+After identifying the Type of Work(s), the User will then be taken through the normal "Get Started" wizard to create the new proposal.  The initiator will include data from the proposal being advanced, except Sponsor Deadline and Target Date. All fields are editable so may be updated as necessary.
 
 Creating Advanced work does the following:
 
