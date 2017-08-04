@@ -2,7 +2,7 @@
 #### **1. Get Started / Advance redeisgn**
 ![Proposal Initiator Start Screen](images/navigation/NavIni_Start.jpg)
 
-<span style="color:blue">**Get Started**</span> will have all 3 options, while selecting **Advance** from within a proposal only the lst two options will appear.
+<span style="color:blue">**Get Started**</span> will have all 3 options as seen above, while selecting **Advance** from within a proposal will only have the last two options.
 
 - **Start New Work**
     - I want to create a new Proposal, Pre-Proposal, White Paper, or Letter of Intent that is not advancing current work
@@ -18,7 +18,7 @@
 
 **Old:** White Paper, Letter of Intent, Pre-Proposal, Proposal, Revision, Other
 
-**Changes:** Revision and Other have been removed as a Type of Work.  For Revision, you are now able to revise to the Type of Work you're are advancing from (ex. Proposal to Proposal).  For Other, you can specify if it is a supplement or continuation.
+**Changes:** "Revision" and "Other" have been removed as a Type of Work.  For "Revision", you are now able to revise to the Type of Work you're are advancing from (ex. Proposal to Proposal).  For "Other", you can specify if it is a "Supplement" or "Continuation".
 <br><br>
 
 #### **3. History Log**
@@ -31,6 +31,13 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 
 #### **4. Minor Updates**  
 - Compliance questions updated (OESRC and IRB)
+- Year Displayed in the Proposal Summary if not current year
+- 4 Initiator Questions generate a checklist requirement versus a dropdown in the proposal editor
+    - Does this work contain Export Control and/or Classified Data?
+    - Is this a limited submission?
+    - Special Indirect Distribution?
+    - Does this budget include Special Administrative Costs?
+- CDA/NDA requirement added in the Submission Information section
 - Increase proposal summary pane width (Updated view shown below)
 ![New Summary Width](images/releaseNotes/newSummaryWidth.jpg)
 <br><br>
@@ -39,12 +46,17 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 - Help Text on search fields
 ![Help Text](images/releaseNotes/helpText.jpg)
 
-- Activity Log erorrs  
+- Activity Log erorrs
+- Current Pre Award assignment list used when work types are advanced or duplicated versus copying the Pre Award associate from the original work.  
 
 ---------
 ## Release 1.4.0 - May 2017
 
+*(Coming Soon)*
+
 ---------
 ## Release 1.3.0 - March 2017
+
+*(Coming Soon)*
 
 ---------
