@@ -2,7 +2,7 @@
 #### **1. Get Started / Advance redeisgn**
 ![Proposal Initiator Start Screen](images/navigation/NavIni_Start.jpg)
 
-<span style="color:blue">**Get Started**</span> will have all 3 options as seen above, while selecting **Advance** from within a proposal will only have the last two options.
+**Get Started** will have all 3 options as seen above, while selecting **Advance** from within a proposal will only have the last two options.
 
 - **Start New Work**
     - I want to create a new Proposal, Pre-Proposal, White Paper, or Letter of Intent that is not advancing current work
@@ -13,13 +13,14 @@
 <br><br>
 
 #### **2. Types of Work updated**
+**Current:** White Paper, Letter of Intent, Pre-Proposal, Proposal, Supplement, Continuation
 
-**New:** White Paper, Letter of Intent, Pre-Proposal, Proposal, Supplement, Continuation
+**Added:** Supplement, Continuation
 
-**Old:** White Paper, Letter of Intent, Pre-Proposal, Proposal, Revision, Other
+**Removed:** Revision, Other
 
-**Changes:** "Revision" and "Other" have been removed as a Type of Work.  For "Revision", you are now able to revise to the Type of Work you're are advancing from (ex. Proposal to Proposal).  For "Other", you can specify if it is a "Supplement" or "Continuation".
-<br><br>
+    Note: For "Revision", you are now able to revise to the Type of Work you're are advancing from (ex. Proposal to Proposal). For "Other", you can specify if it is a "Supplement" or "Continuation".
+<br>
 
 #### **3. History Log**
 Users will now have the ability to view a list of all Types of Work that have been linked to each other via the advance feature.
@@ -45,18 +46,10 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 #### **5. Bug Fixes**
 - Help Text on search fields
 ![Help Text](images/releaseNotes/helpText.jpg)
-
 - Activity Log erorrs
-- Current Pre Award assignment list used when work types are advanced or duplicated versus copying the Pre Award associate from the original work.  
+- Current Pre Award assignment list used when a work is advanced or duplicated.  Prior issue had the Pre Award associate copied from the original work.  
 
----------
-## Release 1.4.0 - May 2017
 
-*(Coming Soon)*
-
----------
-## Release 1.3.0 - March 2017
-
-*(Coming Soon)*
-
----------
+<br><br>
+<center>Check back later for notes from past releases</center>
+![holdon](../images/holdon.gif)

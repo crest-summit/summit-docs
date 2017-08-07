@@ -27,9 +27,11 @@ Several Key videos:
 
 - [How to Approve a Proposal](https://www.youtube.com/watch?v=sfmdQqFPBPc)
 
-# Known Issues
+# <img src="../images/warning.png" alt="Warning" style="float:left; width:39px; height:39px;"> Known Issues
 - Proposal creation fails when a PI does not have a home org in Banner or default home org in Summit.  
     - Workaround: The PI should work with their department to update Banner to add their home org or add a default home org in managed preferences.
 
 # FAQs
-Coming Soon!
+**How do I add a support staff or approver on an org?**
+
+- Have the Department Head or Business Manager of the org in question email <summitHelp@vt.edu> with the name of who they would like added and as what role type(s) (ex. support staff, support staff lead, approver, approver delegate).

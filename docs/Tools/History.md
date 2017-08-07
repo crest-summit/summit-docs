@@ -20,4 +20,4 @@ All types of work in that cycle can be accessed from any another work while havi
 
 ### Revision Handeling
 
-Currently the only type of work to display "(Revision)" is on proposals that are advanced from a proposal.  Any other type of work advacned to itself will not display the "(Revision)" tag after the work type.
+Currently the only type of work to display "(Revision)" is on proposals that are advanced from a proposal.  Any other type of work advanced to itself will not display the "(Revision)" tag after the work type.

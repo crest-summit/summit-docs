@@ -39,16 +39,16 @@ For the **Proposal Team** All Open contains:
 -	NOTE:  Co-PIs do not have a folder, only PIs.
 
 ## Awaiting Banner
-The "Awaiting Banner" navigation item displays all proposals (including supplements and continuations) that have recently been submitted and finalized by Pre Award from the All Open navigation item.  
+The "Awaiting Banner" navigation item displays all proposals (including supplements and continuations) that have recently been submitted and finalized by Pre Award from the All Open navigation item, but have yet to be entered into Banner by the Processors.
 
-Once a proposal has been submitted to the sponsor and Pre Award has finished all details with the proposal, the Pre Award associate will Finalize Submission from the Actions menu.  Once clicked the proposal will transition to the Awaiting Banner folder where OSP Processors will enter all necessary information into Banner (Virginia Tech data management system).  
+Once a proposal has been submitted to the sponsor and Pre Award has finished all details with the proposal, the Pre Award associate will Finalize Submission from the Actions menu.  Once clicked the proposal will transition to the Awaiting Banner folder where OSP Processors will enter all necessary information into Banner (Virginia Tech's current system of record).  
 
-Normally a proposal is not in this folder for longer than a day.  
+Normally a proposal is not in this folder for longer than a business day.  
 
 ## Pending Decision
-The "Pending Decision" navigation item displays all proposals (including supplements and continuations) that have been processed into Banner and is now pending the sponsor's decision to the proposal submitted.
+The "Pending Decision" navigation item displays all proposals (including supplements and continuations) that have been processed into Banner and is now pending the sponsor's decision to the work submitted.
 
-Normally proposal submitted within the last year that have not been decided on by the sponsor as of yet, are within this folder.
+Normally items submitted within the last year that have not been decided on by the sponsor as of yet, are within this folder.
 
 ## My Closed
 The “My Closed” navigation item displays all closed on which the User is listed as PI or Support Staff Lead.  Closed proposals display in order of closure date, with the most recent appearing first.
