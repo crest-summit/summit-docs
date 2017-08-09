@@ -4,17 +4,19 @@
 
 **Get Started** will have all 3 options as seen above
 
-- **Start New Work**
-    - I want to create a new Proposal, Pre-Proposal, White Paper, or Letter of Intent that is not advancing current work
-- **Advance Existing Work**
-    - I want to advance an existing Proposal, Pre-Proposal, White Paper or Letter of Intent to the next stage in its lifecycle or create a revision of any type of work
-- **Supplement/Continue Existing Grant**
-    - I want to request additional funding on an existing grant
-<br><br>
+- **Start New Work** will allow a user to create a new Proposal, Pre-Proposal, White Paper, or Letter of Intent.
+
+- **Advance Existing Work** will allow a user to advance an existing Proposal, Pre-Proposal, White Paper or Letter of Intent to the next stage in its lifecycle or create a revision of any type of work.
+
+- **Supplement/Continue Existing Grant** will allow a user to create a work item to request additional funding on an existing grant.
+
+<br>
 
 #### **2. Advance redeisgn**
-**Advance** from within a proposal and you will see the same options as you do in the Get Started, except "Start New Work"
 ![Proposal Advance Start Screen](images/navigation/NavIni_Advance.jpg)
+**Advance** from within a proposal and you will see the same options as you do in the Get Started, except "Start New Work"
+
+- Both options within this screen will automatically pull the proposal ID from the work the user was currently in.  By pulling in the proposal ID, it will also pull in all necessary data from the original proposal, to put on the newly advanced work.   
 
 <br>
 
@@ -53,4 +55,6 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 - Help Text on search fields
 ![Help Text](images/releaseNotes/helpText.jpg)
 - Activity Log erorrs
-- Current Pre Award assignment list used when a work is advanced or duplicated.  Prior issue had the Pre Award associate copied from the original work.  
+- Current Pre Award assignment list used when a work is advanced or duplicated.  Prior issue had the Pre Award associate copied from the original work.
+
+<br>
