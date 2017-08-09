@@ -35,7 +35,7 @@ dev-deploy:
   environment: dev
   only:
     - master
-  image: mikesir87/aws-cli
+  image: summit/ops
   script:
     - aws s3 sync --delete site/ s3://${DEV_BUCKET_NAME}/
     - aws cloudfront create-invalidation --distribution-id ${DEV_DISTRIBUTION_ID} --paths "/releaseNotes/*"
@@ -46,7 +46,7 @@ pprd-deploy:
   when: manual
   only:
     - master
-  image: mikesir87/aws-cli
+  image: summit/ops
   script:
     - aws s3 sync --delete site/ s3://${PPRD_BUCKET_NAME}/
     - aws cloudfront create-invalidation --distribution-id ${PPRD_DISTRIBUTION_ID} --paths "/releaseNotes/*"
@@ -57,7 +57,7 @@ prod-deploy:
   when: manual
   only:
     - master
-  image: mikesir87/aws-cli
+  image: summit/ops
   script:
     - aws s3 sync --delete site/ s3://${PROD_BUCKET_NAME}/
     - aws cloudfront create-invalidation --distribution-id ${PROD_DISTRIBUTION_ID} --paths "/releaseNotes/*"
