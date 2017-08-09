@@ -1,5 +1,11 @@
 variables:
   AWS_DEFAULT_REGION: us-east-1
+  DEV_BUCKET_NAME: docs.dev.summit.cloud.vt.edu
+  DEV_DISTRIBUTION_ID: E2F2R1ABBHEMHR
+  PPRD_BUCKET_NAME: docs.pprd.summit.cloud.vt.edu
+  PPRD_DISTRIBUTION_ID: E36DWFQ4C0HMPI
+  PROD_BUCKET_NAME: docs.summit.cloud.vt.edu
+  PROD_DISTRIBUTION_ID: EZ38I4CILIUX2
   
 stages:
   - build
@@ -7,7 +13,12 @@ stages:
   - pprd-deploy
   - prod-deploy
 
+before_script:
+  - aws configure set preview.cloudfront true
+
 build:
+  before_script:
+    - echo "no-op" >/dev/null
   stage: build
   image: moird/mkdocs
   script:
@@ -27,8 +38,7 @@ dev-deploy:
   image: mikesir87/aws-cli
   script:
     - aws s3 sync --delete site/ s3://${DEV_BUCKET_NAME}/
-    - aws configure set preview.cloudfront true
-    - aws cloudfront create-invalidation --distribution-id $DEV_DISTRIBUTION_ID --paths "/releaseNotes/*"
+    - aws cloudfront create-invalidation --distribution-id ${DEV_DISTRIBUTION_ID} --paths "/releaseNotes/*"
 
 pprd-deploy:
   stage: pprd-deploy
@@ -39,6 +49,7 @@ pprd-deploy:
   image: mikesir87/aws-cli
   script:
     - aws s3 sync --delete site/ s3://${PPRD_BUCKET_NAME}/
+    - aws cloudfront create-invalidation --distribution-id ${PPRD_DISTRIBUTION_ID} --paths "/releaseNotes/*"
 
 prod-deploy:
   stage: prod-deploy
@@ -49,3 +60,4 @@ prod-deploy:
   image: mikesir87/aws-cli
   script:
     - aws s3 sync --delete site/ s3://${PROD_BUCKET_NAME}/
+    - aws cloudfront create-invalidation --distribution-id ${PROD_DISTRIBUTION_ID} --paths "/releaseNotes/*"
