@@ -18,7 +18,7 @@ before_script:
 
 build:
   before_script:
-    - echo "no-op" >/dev/null
+    - /bin/true  # override global before_script
   stage: build
   image: moird/mkdocs
   script:
