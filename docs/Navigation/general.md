@@ -64,7 +64,7 @@ Located to the right of the Header is the Toolbar containing several tools for a
 ### History Log
 The History Log is a list of all associated works linked together through the Advance feature.
 
-Example bewlow shows a user that created a pre-proposal, advanced to a proposal, then advanced to another proposal, then lastly advancing to a continuation.  All 4 types of works will be accessable through the History tab at the top right while in one of the selected works.
+Example below shows a user that created a pre-proposal, advanced to a proposal, then advanced to another proposal, then lastly advancing to a continuation.  All 4 types of works will be accessable through the History tab at the top right while in one of the selected works.
 
 ![Tools History Sequence](../images/tools/ToolHistory_Sequence.jpg)
 
