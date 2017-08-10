@@ -15,12 +15,12 @@ On the Initiate Proposal Screen, the User selects the type of work they are init
 
 ![Proposal Initiator Start Screen](../images/navigation/NavIni_Start.jpg)
 
-If the User chooses the first option for new work, the Type of Work must be identified as well.
-
-![Proposal Initiator new work drop down](../images/navigation/NavIni_ActType.jpg)
+For the second and third option, the User will be required to provide further information before moving to the next screen.
 
 # Type of Work
-This section is only available when Advancing from a current proposal.  See the information on Advancing located in the Tools/Actions section.
+The second screen requires the user to identify the Type of Work that is being created.  The options in the dropdown are based upon the information provided in the first section.
+
+![Proposal Initiator new work drop down](../images/navigation/NavIni_ActType.jpg)
 
 # Details
 The next screen prompts the User to complete basic data about the proposal.  Depending upon the answers to some of the questions, additional fields are available to enter more information or attach documents.  
