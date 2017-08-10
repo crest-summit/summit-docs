@@ -15,7 +15,7 @@ On the Initiate Proposal Screen, the User selects the type of work they are init
 
 ![Proposal Initiator Start Screen](../images/navigation/NavIni_Start.jpg)
 
-For the second and third option, the User will be required to provide further information before moving to the next screen.
+For the second and third options, the User will be required to provide further information before moving to the next screen.
 
 # Type of Work
 The second screen requires the user to identify the Type of Work that is being created.  The options in the dropdown are based upon the information provided in the first section.
