@@ -1,5 +1,5 @@
 ## Release 2.0.0 - August 2017
-####  **1. Get Started redeisgn**
+#### **1. Get Started redeisgn**
 
 ![Proposal Initiator Start Screen](images/navigation/NavIni_Start.jpg)
 
@@ -17,7 +17,7 @@
 
 ![Proposal Advance Start Screen](images/navigation/NavIni_Advance.jpg)
 
-**Advance** from within a proposal and you will see the same options as you do in the Get Started, except "Start New Work"
+**Advance** from within a proposal and you will see the same options as you do in the Get Started, except "Start New Work".
 
 - Both options within this screen will automatically pull the proposal ID from the work the user was currently in.  By pulling in the proposal ID, it will also pull in all necessary data from the original proposal, to put on the newly advanced work.   
 
