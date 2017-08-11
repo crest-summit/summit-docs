@@ -30,6 +30,8 @@ Several Key videos:
 # <img src="../images/warning.png" alt="Warning" style="float:left; width:39px; height:39px;"> Known Issues
 - Proposal creation fails when a PI does not have a home org in Banner or default home org in Summit.  
     - Workaround: The PI should work with their department to update Banner to add their home org or add a default home org in managed preferences.
+- Notification Scrolling on Cost Share and Subcontractors
+    - Due to the Cost Share and Subcontractor sections being tabulated, it is currently not possible for the notifications to scroll to a particular comment within these two sections.  It will only scroll if the comment happens to be on the tab that is currently open.  If the comment is on a tab that is not open, it will open the comment thread at the top right of the proposal screen.
 
 # FAQs
 **How do I add a support staff or approver on an org?**
