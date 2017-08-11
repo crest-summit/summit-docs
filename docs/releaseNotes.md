@@ -1,5 +1,5 @@
 ## Release 2.0.0 - August 2017
-#### **1. Get Started redeisgn**
+####  **1. Get Started redeisgn**
 
 ![Proposal Initiator Start Screen](images/navigation/NavIni_Start.jpg)
 
@@ -24,13 +24,8 @@
 <br>
 
 #### **3. Types of Work updated**
-**Current:** White Paper, Letter of Intent, Pre-Proposal, Proposal, Supplement, Continuation
+We have removed Revision and Other as Types of Work.  For "Revision", you are now able to revise to the Type of Work you're are advancing from (ex. Proposal to Proposal).  For "Other", you can specify if it is a "Supplement" or "Continuation".  This brings the current Type of Works that can be used in Summit as: White Paper, Letter of Intent, Pre-Proposal, Proposal, Supplement, Continuation
 
-**Added:** Supplement, Continuation
-
-**Removed:** Revision, Other
-
-    Note: For "Revision", you are now able to revise to the Type of Work you're are advancing from (ex. Proposal to Proposal). For "Other", you can specify if it is a "Supplement" or "Continuation".
 <br>
 
 #### **4. History Log**
@@ -39,6 +34,7 @@ Users will now have the ability to view a list of all Types of Work that have be
 Below shows the display in Summit when a user clicks "History".  Sorted by creation date, the earliest work will be at the bottom and most recent created at the top.  All types of work in that cycle can be accessed from another other work while having the History display up, simply click the hyperlink of the Proposal ID.
 
 ![Tools History Sequence](../images/tools/ToolHistory_Sequence.jpg)
+
 <br>
 
 #### **5. Minor Updates**  
