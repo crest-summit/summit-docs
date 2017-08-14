@@ -24,7 +24,7 @@
 <br>
 
 #### **3. Types of Work updated**
-We have removed Revision and Other as Types of Work.  For "Revision", you are now able to revise to the Type of Work you're are advancing from (ex. Proposal to Proposal).  For "Other", you can specify if it is a "Supplement" or "Continuation".  This brings the current Type of Works that can be used in Summit as: White Paper, Letter of Intent, Pre-Proposal, Proposal, Supplement, Continuation
+We have removed Revision and Other as a Types of Work.  For "Revision", you are now able to revise to the Type of Work you're are advancing from (ex. "Proposal" to "Proposal").  For "Other", you can specify if it is a "Supplement" or "Continuation".  This brings the current Type of Works that can be used in Summit as: White Paper, Letter of Intent, Pre-Proposal, Proposal, Supplement, Continuation
 
 <br>
 
