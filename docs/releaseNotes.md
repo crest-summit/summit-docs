@@ -1,5 +1,5 @@
 ## Release 2.0.0 - August 2017
-#### **1. Get Started redeisgn**
+#### **1. Get Started redesign**
 
 ![Proposal Initiator Start Screen](images/navigation/NavIni_Start.jpg)
 
@@ -13,7 +13,7 @@
 
 <br>
 
-#### **2. Advance redeisgn**
+#### **2. Advance redesign**
 
 ![Proposal Advance Start Screen](images/navigation/NavIni_Advance.jpg)
 
@@ -24,7 +24,7 @@
 <br>
 
 #### **3. Types of Work updated**
-We have removed Revision and Other as a Types of Work.  For "Revision", you are now able to revise to the Type of Work you're are advancing from (ex. "Proposal" to "Proposal").  For "Other", you can specify if it is a "Supplement" or "Continuation".  This brings the current Type of Works that can be used in Summit as: White Paper, Letter of Intent, Pre-Proposal, Proposal, Supplement, Continuation
+We have removed "Revision" and "Other" as a Types of Work.  For "Revision", you are now able to revise to the Type of Work you're are advancing from (ex. "Proposal" to "Proposal").  For "Other", you can specify if it is a "Supplement" or "Continuation".  This brings the current Type of Works that can be used in Summit as: White Paper, Letter of Intent, Pre-Proposal, Proposal, Supplement, Continuation
 
 <br>
 
@@ -40,8 +40,9 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 #### **5. Minor Updates**  
 - Compliance questions updated (OESRC and IRB)
 - Year Displayed in the Proposal Summary if not current year
-- CDA/NDA requirement added in the Submission Information section
+- CDA/NDA requirement question added in the Submission Information section
 - Various Bug Fixes
 - Increase proposal summary pane width (Updated view shown below)
 ![New Summary Width](images/releaseNotes/newSummaryWidth.jpg)
+
 <br>

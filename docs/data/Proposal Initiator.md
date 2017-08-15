@@ -1,4 +1,4 @@
-**Data / Proposal Initiator**
+**Data / Initiator**
 
 # Get Started
 
