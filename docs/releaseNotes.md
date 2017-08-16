@@ -1,5 +1,13 @@
 ## Release 2.0.0 - August 2017
 
+<br>
+
+#### **Video Tutorials**
+
+- [2.0.0 Release Overview](https://www.youtube.com/watch?v=PtN-a-8piUI&feature=youtu.be)
+
+<br>
+
 #### **1. Get Started redesign**
 
 ![Proposal Initiator Start Screen](images/navigation/NavIni_Start.jpg)
@@ -45,13 +53,5 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 - Various Bug Fixes
 - Increase proposal summary pane width (Updated view shown below)
 ![New Summary Width](images/releaseNotes/newSummaryWidth.jpg)
-
-<br>
-
-#### **2.0.0 Release Video Tutorials**
-
-YouTube Videos:
-
-- [2.0.0 Release YouTube Overview](https://www.youtube.com/watch?v=PtN-a-8piUI&feature=youtu.be)
 
 <br>
