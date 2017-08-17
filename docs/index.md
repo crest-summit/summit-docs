@@ -19,7 +19,7 @@ Access short videos, as well as longer overviews and demonstrations, showing how
 Several Key videos:
 - [Summit Overview](https://www.youtube.com/watch?v=uwGLAqFzC_Q)
 
-- [Initiating a Proposal in Summit](https://www.youtube.com/watch?v=muAyluSU1V8)
+- [Initiating a Proposal in Summit](https://youtu.be/9uypak-E9K8)
 
 - [Developing a Budget using Summit](https://www.youtube.com/watch?v=luRD8pZlVDg)
 
