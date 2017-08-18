@@ -6,6 +6,7 @@
 
 - [2.0.0 Release Overview](https://www.youtube.com/watch?v=PtN-a-8piUI&feature=youtu.be)
 - [Get Started Update](https://youtu.be/9uypak-E9K8)
+- [Pre-Proposals, White Papers, and Letter of Intent](https://www.youtube.com/watch?v=A3Ag-JNoUVI&feature=youtu.be)
 
 <br>
 
@@ -45,10 +46,16 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 
 ![Tools History Sequence](../images/tools/ToolHistory_Sequence.jpg)
 
+    Note: The History Log will only show work created after the release of this new feature, 8/18/17.  Works advanced before then will not display in the history log
+
 <br>
 
 #### **5. Minor Updates**  
 - Compliance questions updated (OESRC and IRB)
+    - Newly created proposals will only have the new questions.
+    - All existing proposals will have the new OESRC questions added alongside the older ones.  
+    - Before a proposal can be routed, the new questions will need to be answered by PI/Proposal team.    
+    - Proposals already In-Routing or Approved will have those questions added as well but they will **NOT** be needed to be answered to get the proposal to next status level.
 - Year Displayed in the Proposal Summary if not current year
 - CDA/NDA requirement question added in the Submission Information section
 - Various Bug Fixes
