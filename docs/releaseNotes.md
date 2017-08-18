@@ -59,7 +59,7 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 - Year Displayed in the Proposal Summary if not current year
 - CDA/NDA requirement question added in the Submission Information section
 - Various Bug Fixes
-- Increase proposal summary pane width (Updated view shown below)
+- Increased proposal summary pane width (Updated view shown below)
 ![New Summary Width](images/releaseNotes/newSummaryWidth.jpg)
 
 <br>
