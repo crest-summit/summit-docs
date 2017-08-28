@@ -78,7 +78,7 @@ Each User can also use the “Remove me as lead support staff” action which wi
     Note: Only support staff marked as Lead Support Staff will receive internal notifications on a proposal.
 
 # Color Tags
-An optional feature that allows the User to color code each proposal is available through the color tag feature.  The color tags can be accessed by right clicking on the proposal in the summary pane or accessing the action menu:
+An optional feature that allows the User to color code each proposal is available through the color tag feature.  The color tags can be by the action menu while in the proposal:
 
 ![Choosing Color Tags](../images/navigation/NavProp_ChoosingColorTags.jpg)
 

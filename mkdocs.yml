@@ -15,7 +15,7 @@ pages:
   - 'Budget Development': 'data/Budget Development.md'
 - Approvals:
   - 'Proposal Routing': 'Approvals/Proposal Routing.md'
-- Tools:
+- Toolbar:
   - 'Actions': 'Tools/Actions.md'
   - 'Activity Log': 'Tools/activity.md'
   - 'Comments': 'Tools/Comments.md'
@@ -30,4 +30,5 @@ pages:
   - 'Assignees': 'Management/Assignees.md'
 - Reporting:
   - 'Data Exports': 'Reporting/Data Exports.md'
+- 'Videos': 'videos.md'
 - 'Release Notes': 'releaseNotes.md'
