@@ -1,10 +1,14 @@
 # Welcome to Summit User Guides
 The Summit User Guide is here as a training tool, Help reference and FAQ list
 
+<br>
+
 ### Documentation Organization
 The tabs at the top will take you to the specific topics within the User Guide:
 
 ![Documentation Tabs](./images/Ind_Tabs.jpg)
+
+<br>
 
 # Help
 For questions about a specific proposal, contact the Pre-Award Associate listed in the proposal support staff section
@@ -13,8 +17,10 @@ For questions about a specific proposal, contact the Pre-Award Associate listed 
 
 To report an error message, contact [4Help](https://vt4help.service-now.com/sp) with a copy the error message and proposal ID.
 
+<br>
+
 # Video Tutorials
-Access short videos, as well as longer overviews and demonstrations, showing how to use specific functions in Summit on the [Summit Help You Tube channel](https://www.youtube.com/channel/UC882QBwFDrfXbILKRvq2aiA).
+Access short videos, as well as longer overviews and demonstrations, showing how to use specific functions in Summit on the [Summit Help You Tube channel](https://www.youtube.com/channel/UC882QBwFDrfXbILKRvq2aiA) or see a list of all videos [here](videos.md) .
 
 Several Key videos:
 - [Summit Overview](https://www.youtube.com/watch?v=uwGLAqFzC_Q)
@@ -27,6 +33,8 @@ Several Key videos:
 
 - [How to Approve a Proposal](https://www.youtube.com/watch?v=sfmdQqFPBPc)
 
+<br>
+
 # <img src="../images/warning.png" alt="Warning" style="float:left; width:39px; height:39px;"> Known Issues
 - Proposal creation fails when a PI does not have a home org in Banner or default home org in Summit.  
     - **Workaround**: The PI should work with their department to update Banner to add their home org or add a default home org in managed preferences.
@@ -35,6 +43,8 @@ Several Key videos:
 - CAS Forbidden Login Message
     - If you login to Summit and CAS is set to 7 day reminder; then logout of Summit/CAS, then try to log back into Summit again, the Forbidden Access message will appear.
     - **Workaround**: Refresh the page
+
+<br>
 
 # FAQs
 **How do I add a support staff or approver on an org?**
