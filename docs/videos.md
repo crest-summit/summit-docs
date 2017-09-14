@@ -1,4 +1,4 @@
-## 2.0.0 Release
+## 2.0.0 Release Videos
 
 - [2.0.0 Release Overview](https://www.youtube.com/watch?v=PtN-a-8piUI&feature=youtu.be)
 - [Get Started Update](https://youtu.be/9uypak-E9K8)

@@ -1,4 +1,4 @@
-**Reporting / Data Exports**
+**Data / Exporting Data**
 
 All Users have access to the Data Export operation of Bulk Operations.  Data Export is currently only available for Proposal Items (not Sponsor or Organizations).  
 

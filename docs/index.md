@@ -8,6 +8,35 @@ The tabs at the top will take you to the specific topics within the User Guide:
 
 ![Documentation Tabs](./images/Ind_Tabs.jpg)
 
+- Home
+- Navigation
+    - General
+    - Notifications
+    - Proposal Navigation
+    - Summary View indicators
+- Data
+    - Initiator
+    - Proposal Editor
+    - Budget Development
+    - Exporting Data
+- Approvals
+    - Proposal Routing
+- Toolbar
+    - Actions
+    - Activity Log
+    - Comments
+    - Files
+    - History
+    - Requirements
+- Management
+    - Sponsors
+    - Sponsor Vetting
+    - Organizations
+    - Bulk Operations
+    - Assignees
+- [Videos](videos.md)
+- [Release Notes](releaseNotes.md)
+
 <br>
 
 # Help
@@ -43,6 +72,9 @@ Several Key videos:
 - CAS Forbidden Login Message
     - If you login to Summit and CAS is set to 7 day reminder; then logout of Summit/CAS, then try to log back into Summit again, the Forbidden Access message will appear.
     - **Workaround**: Refresh the page
+- User/System Comments not displaying in Budget/Budget Justication sections of the proposal editor.  
+    - When a user accepts/approves a budget/budget justification, the system will make a comment of this change on the budget/budget justification section.  The comment will initially appear for the user that made the change, but once the user navigates to another proposal or logs out, the comment will disappear. This issue is also occurs on custom comments by a user.  
+    - **Workaround**: Navigate to the Comments section of the proposal (top right of the screen) or once the proposal is put into routing, comments will reappear in the proposal editor of the budget/budget justification section.
 
 <br>
 

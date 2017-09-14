@@ -13,6 +13,7 @@ pages:
   - 'Initiator': 'data/Proposal Initiator.md'
   - 'Proposal Editor': 'data/Proposal Editor.md'
   - 'Budget Development': 'data/Budget Development.md'
+  - 'Exporting Data': 'data/Data Exports.md'
 - Approvals:
   - 'Proposal Routing': 'Approvals/Proposal Routing.md'
 - Toolbar:
@@ -28,7 +29,5 @@ pages:
   - 'Organizations': 'Management/Org Editor.md'
   - 'Bulk Operations': 'Management/Bulk Operations.md'
   - 'Assignees': 'Management/Assignees.md'
-- Reporting:
-  - 'Data Exports': 'Reporting/Data Exports.md'
-- 'Videos': 'videos.md'
-- 'Release Notes': 'releaseNotes.md'
+- Videos: 'videos.md'
+- Release Notes: 'releaseNotes.md'
