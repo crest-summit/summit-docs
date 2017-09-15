@@ -9,6 +9,7 @@ pages:
   - 'Notifications': 'Navigation/notifications.md'
   - 'Proposal Navigation': 'Navigation/proposal.md'
   - 'Summary View Indicators': 'Navigation/indicators.md'
+  - 'Preferences': 'Navigation/preferences.md'  
 - Data:
   - 'Initiator': 'data/Proposal Initiator.md'
   - 'Proposal Editor': 'data/Proposal Editor.md'

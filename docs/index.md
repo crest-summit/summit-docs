@@ -4,36 +4,35 @@ The Summit User Guide is here as a training tool, Help reference and FAQ list
 <br>
 
 ### Documentation Organization
-The tabs at the top will take you to the specific topics within the User Guide:
-
-![Documentation Tabs](./images/Ind_Tabs.jpg)
+The tabs at the top will take you to the specific topics within the User Guide (layout below with links to the sections):
 
 - Home
 - Navigation
-    - General
-    - Notifications
-    - Proposal Navigation
-    - Summary View indicators
+    - [General](Navigation/general.md)
+    - [Notifications](Navigation/notifications.md)
+    - [Proposal Navigation](Navigation/proposal.md)
+    - [Summary View indicators](Navigation/indicators.md)
+    - [Preferences](Navigation/preferences.md)
 - Data
-    - Initiator
-    - Proposal Editor
-    - Budget Development
-    - Exporting Data
+    - [Initiator](Data/Proposal Initiator.md)
+    - [Proposal Editor](Data/Proposal Editor.md)
+    - [Budget Development](Data/Budget Development.md)
+    - [Exporting Data](Data/Data Exports.md)
 - Approvals
-    - Proposal Routing
+    - [Proposal Routing](Approvals/Proposal Routing.md)
 - Toolbar
-    - Actions
-    - Activity Log
-    - Comments
-    - Files
-    - History
-    - Requirements
+    - [Actions](Tools/Actions.md)
+    - [Activity Log](Tools/activity.md)
+    - [Comments](Tools/Comments.md)
+    - [Files](Tools/Files.md)
+    - [History](Tools/History.md)
+    - [Requirements](Tools/Requirements.md)
 - Management
-    - Sponsors
-    - Sponsor Vetting
-    - Organizations
-    - Bulk Operations
-    - Assignees
+    - [Sponsors](Management/Sponsor Editor.md)
+    - [Sponsor Vetting](Management/Sponsor Vetting.md)
+    - [Organizations](Management/Org Editor.md)
+    - [Bulk Operations](Management/Bulk Operations.md)
+    - [Assignees](Management/Assignees.md)
 - [Videos](videos.md)
 - [Release Notes](releaseNotes.md)
 

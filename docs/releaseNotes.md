@@ -94,7 +94,7 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 
 - Ability to change a user's preferred email address and unsubscribe from external notifications
     - This change can be made in the Managed Preferences section (located at the top right of the browser)
-    ![Managed Preferences Location](images/releaseNotes/managedPrefLocation.jpg)
+    ![Managed Preferences Location](../images/navigation/NavPref_managedPrefLocation.jpg)
     - Once in the managed preferences section, you'll have the ability to unsubscribe from non-essenial Summit emails or add/change your preferred email address.
     ![Managed Preferences](images/releaseNotes/managedPref.jpg)
 - Ability to add a description to the Third Party Cost Share tab
