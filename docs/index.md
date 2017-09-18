@@ -1,10 +1,7 @@
 # Welcome to Summit User Guides
 The Summit User Guide is here as a training tool, Help reference and FAQ list
 
-<br>
-
-### Documentation Organization
-The tabs at the top will take you to the specific topics within the User Guide (layout below with links to the sections):
+The tabs at the top will take you to the specific topics within the User Guide (or use the layout below with links to those sections):
 
 - Home
 - Navigation
@@ -12,7 +9,7 @@ The tabs at the top will take you to the specific topics within the User Guide (
     - [Notifications](Navigation/notifications.md)
     - [Proposal Navigation](Navigation/proposal.md)
     - [Summary View indicators](Navigation/indicators.md)
-    - [Preferences](Navigation/preferences.md)
+    - [Manage Preferences](Navigation/preferences.md)
 - Data
     - [Initiator](Data/Proposal Initiator.md)
     - [Proposal Editor](Data/Proposal Editor.md)

@@ -4,11 +4,13 @@
     - When a proposal is created by someone outside of the PI's department, they are assigned the creator role. If that creator needed to be switched to a team role (Co-PI, Proposal Team), currently the button to allow that person to have their responsible org assigned and given a credit % is disabled.  This has been fixed and now the user can change themselves to another team role.
 - Automated Emails Only for Open Proposals
    - If a proposal is not in the Open folder, automated emails will no longer be sent when a change is made on the proposal.
+- Status added to History Log
+    ![History Status](images/releaseNotes/historyStatus.jpg)
 - "Type of Work" shown in Approver and Limited Views
     - examples: "Proposal" or "Supplement"
 - Submitted Proposal Details Warning Label only Displayed for Proposals/Supplements/Continuations
-    ![Submission Details Banner](images/releaseNotes/SubmissionDetailsBanner.jpg)
     - Now that Pre-Proposals, White Papers, and Letter of Intents can be closed for reason of submitted by Proposal Team members (not just Pre Award associates), this section is open to more than just OSP to fill out and will not appear on those types of work.
+    ![Submission Details Banner](images/releaseNotes/SubmissionDetailsBanner.jpg)
 - Various Small Bug Fixes
 
 <br>
@@ -93,8 +95,8 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 # Release 1.3.0 - March 2017
 
 - Ability to change a user's preferred email address and unsubscribe from external notifications
-    - This change can be made in the Managed Preferences section (located at the top right of the browser)
-    ![Managed Preferences Location](../images/navigation/NavPref_managedPrefLocation.jpg)
+    - A user can make these changes in the Managed Preferences section (located at the top right of the browser)
+    ![Managed Preferences Location](../images/navigation/NavPref_managePrefLocation.jpg)
     - Once in the managed preferences section, you'll have the ability to unsubscribe from non-essenial Summit emails or add/change your preferred email address.
     ![Managed Preferences](images/releaseNotes/managedPref.jpg)
 - Ability to add a description to the Third Party Cost Share tab
@@ -106,6 +108,7 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
     - Once a work has transitioned to another folder, a pop-up will display asking if you would either like to go with the work to the new location or go to the next work in your queue (if applicable).
     ![Transition Screen](images/releaseNotes/transitionScreen.jpg)
 - Notifications via Favoriting
-    - Notifications within Summit by default only go to the PI, the Pre Award associate, and Support Staff Leads on the proposal.  Now a user can elect to receive notifications when they favorite the proposal, by clicking the start in the upper right corner of the entry in the proposal summary view or while in the proposal in the header.  This action will also add the proposal to your My Open folder.
+    - Notifications within Summit by default only go to the PI, the Pre Award associate, and Support Staff Leads.  Now a user can elect to receive notifications when they favorite the proposal, by clicking the star in the upper right corner of the entry in the proposal summary view or in the header of the proposal.  This action will also add the proposal to your My Open folder.
+    ![Favorites](images/releaseNotes/favorites.jpg)
 
 <br>

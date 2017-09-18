@@ -1,10 +1,16 @@
-**Navigation / Preferences**
+**Navigation / Manage Preferences**
 
-# Managed Preferences
+# Manage Preferences
 
-A user can change their default research organization, subscription to non-essenial Summit emails, or email address in the managed preferences section.  To get to this section, click your name at the top right of Summit and then click "Managed preferences".
+A user currently can change 3 personal settings:
 
-![Managed Preferences Location](../images/navigation/NavPref_managedPrefLocation.jpg)
+1. Default research organization
+2. Subscription to non-essenial Summit emails
+3. Preferred e-mail address
+
+To get to this section, click your name at the top right of Summit and then click "Managed preferences".
+
+![Manage Preferences Location](../images/navigation/NavPref_managePrefLocation.jpg)
 
 <br>
 
