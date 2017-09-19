@@ -11,10 +11,10 @@ The tabs at the top will take you to the specific topics within the User Guide (
     - [Summary View indicators](Navigation/indicators.md)
     - [Manage Preferences](Navigation/preferences.md)
 - Data
-    - [Initiator](Data/Proposal Initiator.md)
-    - [Proposal Editor](Data/Proposal Editor.md)
-    - [Budget Development](Data/Budget Development.md)
-    - [Exporting Data](Data/Data Exports.md)
+    - [Initiator](data/Proposal Initiator.md)
+    - [Proposal Editor](data/Proposal Editor.md)
+    - [Budget Development](data/Budget Development.md)
+    - [Exporting Data](data/Data Exports.md)
 - Approvals
     - [Proposal Routing](Approvals/Proposal Routing.md)
 - Toolbar
