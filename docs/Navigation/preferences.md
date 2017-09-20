@@ -35,17 +35,13 @@ Users can still edit the fields for individual proposals. The Default Research O
 
 ## E-mail Preferences
 
-A user can add/change 2 E-mail settings currently in their managed preferences.
+A user can add/change 2 E-mail related settings currently in their manage preferences:
 
 1. Unsubscribe from non-essenial Summit external communications
+    - Currently this only covers emails being sent after proposal creation.
 ![Unsubscribe Emails](../images/navigation/NavPref_Unsubscribe.jpg)
 2. Preferred E-mail Address
+    - By default the email listed here will be the user's pid + @vt.edu.
 ![Preferred Email](../images/navigation/NavPref_PreferredEmail.jpg)
-
-Ability to change a user's preferred email address and unsubscribe from external notifications
-    - This change can be made in the Managed Preferences section (located at the top right of the browser)
-
-    - Once in the managed preferences section, you'll have the ability to unsubscribe from non-essenial Summit emails or add/change your preferred email address.
-    ![Managed Preferences](images/releaseNotes/managedPref.jpg)
 
 <br>

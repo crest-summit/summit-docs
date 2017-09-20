@@ -62,15 +62,12 @@ Several Key videos:
 
 # <img src="../images/warning.png" alt="Warning" style="float:left; width:39px; height:39px;"> Known Issues
 - Proposal creation fails when a PI does not have a home org in Banner or default home org in Summit.  
-    - **Workaround**: The PI should work with their department to update Banner to add their home org or add a default home org in managed preferences.
+    - **Workaround**: The PI should work with their department to update Banner to add their home org or add a default home org in their manage preferences (see [Manage Preferences](Navigation/preferences.md)).
 - Notifications on Cost Share and Subcontractors
     - Due to the Cost Share and Subcontractor sections being tabulated, it is currently not possible for the notifications to scroll to a particular comment within these two sections.  It will only scroll if the comment happens to be on the tab that is currently open.  If the comment is on a tab that is not open, it will open the comment thread at the top right of the proposal screen.
 - CAS Forbidden Login Message
     - If you login to Summit and CAS is set to 7 day reminder; then logout of Summit/CAS, then try to log back into Summit again, the Forbidden Access message will appear.
     - **Workaround**: Refresh the page
-- User/System Comments not displaying in Budget/Budget Justication sections of the proposal editor.  
-    - When a user accepts/approves a budget/budget justification, the system will make a comment of this change on the budget/budget justification section.  The comment will initially appear for the user that made the change, but once the user navigates to another proposal or logs out, the comment will disappear. This issue is also occurs on custom comments by a user.  
-    - **Workaround**: Navigate to the Comments section of the proposal (top right of the screen) or once the proposal is put into routing, comments will reappear in the proposal editor of the budget/budget justification section.
 
 <br>
 
