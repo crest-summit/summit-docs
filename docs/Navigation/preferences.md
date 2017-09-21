@@ -4,11 +4,11 @@
 
 A user currently can change 3 personal settings:
 
-1. Default research organization
-2. Subscription to non-essenial Summit emails
-3. Preferred e-mail address
+1. **Default research organization**
+2. **Unsubscribe to Summit emails** (see Notice for details)
+3. **Preferred e-mail address**
 
-To get to this section, click your name at the top right of Summit and then click "Managed preferences".
+To get to this section, click your name at the top right of Summit and then click "Manage preferences".
 
 ![Manage Preferences Location](../images/navigation/NavPref_managePrefLocation.jpg)
 
@@ -35,13 +35,14 @@ Users can still edit the fields for individual proposals. The Default Research O
 
 ## E-mail Preferences
 
-A user can add/change 2 E-mail related settings currently in their manage preferences:
+A user can add/change 2 E-mail related settings in their manage preferences:
 
-1. Unsubscribe from non-essenial Summit external communications
-    - Currently this only covers emails being sent after proposal creation.
+1. Unsubscribe from Summit external communications
+    - If you are a named **Proposal Team member** (PI, Co-PI, Proposal Team member), then this will only unsubscribe you from emails being sent when the user creates a proposal.  All other emails that Summit sends is considered essential and will be sent (ex. DoD notice).
+    - If you are a **support staff member** on an org associated with a named Proposal Team member, then clicking unsubscribe will remove you from all Summit e-mail communications.
 ![Unsubscribe Emails](../images/navigation/NavPref_Unsubscribe.jpg)
 2. Preferred E-mail Address
-    - By default the email listed here will be the user's pid + @vt.edu.
+    - By default the email listed here will be the user's pid + @vt.edu, but users can elect to use another email address for Summit communication emails.
 ![Preferred Email](../images/navigation/NavPref_PreferredEmail.jpg)
 
 <br>
