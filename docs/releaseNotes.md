@@ -3,13 +3,13 @@
 - Proposal Creator Cannot Add Responsible Org/Credit fix
     - When a proposal is created by someone outside of the PI's department, they are assigned the creator role. If that creator needed to be switched to a team role (Co-PI, Proposal Team), currently the button to allow that person to have their responsible org assigned and given a credit % is disabled.  This has been fixed and now the user can change themselves to another team role.
 - Automated Emails Only for Open Proposals
-   - If a proposal is not in the Open folder, automated emails will no longer be sent when a change is made on the proposal.
+    - If a proposal is not in the Open folder, automated emails will no longer be sent when a change is made on the proposal.
 - Status added to History Log
     ![History Status](images/releaseNotes/historyStatus.jpg)
 - "Type of Work" shown in Approver and Limited Views
     - examples: "Proposal" or "Supplement"
 - Submitted Proposal Details Warning Label only Displayed for Proposals/Supplements/Continuations
-    - Now that Pre-Proposals, White Papers, and Letter of Intents can be closed for reason of submitted by Proposal Team members (not just Pre Award associates), this section is open to more than just OSP to fill out and will not appear on those types of work.
+    - Now that Pre-Proposals, White Papers, and Letter of Intents can be closed for reason of submitted by Proposal Team members (not just Pre Award associates), this section is open to more than just OSP to fill out and will not appear on Pre-Proposals, White Papers, and Letter of Intents.
     ![Submission Details Banner](images/releaseNotes/SubmissionDetailsBanner.jpg)
 - Various Small Bug Fixes
 
