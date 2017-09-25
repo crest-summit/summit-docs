@@ -11,6 +11,9 @@
 - Submitted Proposal Details Warning Label only Displayed for Proposals/Supplements/Continuations
     - Now that Pre-Proposals, White Papers, and Letter of Intents can be closed for reason of submitted by Proposal Team members (not just Pre Award associates), this section is open to more than just OSP to fill out and will not appear on Pre-Proposals, White Papers, and Letter of Intents.
     ![Submission Details Banner](images/releaseNotes/SubmissionDetailsBanner.jpg)
+- Improved functionality on Bulk Operations
+    - View documentation on the feature [here](data/Data Exports.md).
+    ![Bulk Operations Location](images/releaseNotes/bulkOperations.jpg)   
 - Various Small Bug Fixes
 
 <br>
