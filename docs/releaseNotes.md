@@ -1,11 +1,11 @@
 # Release 2.1.0 - September 2017
 
-- Proposal Creator Cannot Add Responsible Org/Credit fix
-    - When a proposal is created by someone outside of the PI's department, they are assigned the creator role. If that creator needed to be switched to a team role (Co-PI, Proposal Team), currently the button to allow that person to have their responsible org assigned and given a credit % is disabled.  This has been fixed and now the user can change themselves to another team role.
-- Automated Emails Only for Open Proposals
-    - If a proposal is not in the Open folder, automated emails will no longer be sent when a change is made on the proposal.
 - Status added to History Log
     ![History Status](images/releaseNotes/historyStatus.jpg)
+- Proposal "Creator" Cannot Add Responsible Org/Credit fix
+    - When a proposal is created by someone outside of the PI's department, they are assigned the "creator" role. If that creator needed to be switched to a team role (Co-PI, Proposal Team), currently the button to allow that person to have their responsible org assigned and given a credit % is disabled.  This has been fixed and now the user can change themselves to another team role.
+- Automated Emails Only for Open Proposals
+    - If a proposal is not in the Open folder, automated emails will no longer be sent when a change is made on the proposal.
 - "Type of Work" shown in Approver and Limited Views
     - examples: "Proposal" or "Supplement"
 - Submitted Proposal Details Warning Label only Displayed for Proposals/Supplements/Continuations
