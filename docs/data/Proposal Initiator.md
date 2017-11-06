@@ -22,6 +22,17 @@ The second screen requires the user to identify the Type of Work that is being c
 
 ![Proposal Initiator new work drop down](../images/navigation/NavIni_ActType.jpg)
 
+**General Definitions for all Types of Work:**
+
+- **White Paper:** A statement of work sent to the Sponsor that will not result in an award until a Proposal has been submitted.
+- **Letter of Intent:** Notice to the Sponsor of intent to submit a Proposal.
+- **Pre-Proposal:** A statement of work and/or budget sent to the Sponsor before a Proposal that does not result in an award.
+- **Proposal:** A full statement of work and budget sent to the Sponsor that may result in an award.
+- **Supplement:** Adding additional funds for additional work on a current award WITHOUT adding additional time to the project period
+- **Continuation:** Adding additional funds AND additional time for additional work on a current award
+
+    Note: When advancing to the same type of work, it is considered a revision.  Only on proposals is revision appended to the type, to show "Proposal (Revision)". 
+
 # Details
 The next screen prompts the User to complete basic data about the proposal.  Depending upon the answers to some of the questions, additional fields are available to enter more information or attach documents.  
 
