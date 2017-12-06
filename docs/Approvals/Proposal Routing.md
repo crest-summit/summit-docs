@@ -184,7 +184,8 @@ Discarding the approval will clear the approval status, hide the approval decisi
 ![Discard Notice](../images/approvals/AppPro_DiscardNotice.jpg)
 
 # Approvals in the Proposal
-## Summary
+**Proposal Summary**
+
 The Summary Pane displays the routing chain icon or the approved icon on the left of the summary for the proposal
 
 ![Routing and Approval Icons in Summary View](../images/approvals/AppPro_SumIcons.jpg)
@@ -193,7 +194,7 @@ Users can also search by proposal status in the summary view.
 
 ![Search by Status](../images/approvals/AppPro_StatusSearch.jpg)
 
-## Editor
+**Proposal Editor**
 
 **Header**
 
@@ -224,4 +225,3 @@ In the Proposal Editor, Users can track the approval process in the Approval Dec
  - The name of the person who approved and the time they approved displays on the right.
 
  - If an organization does not need to approve due to conditional approval preferences, it is is indicated to the left of the organization name.
- 
