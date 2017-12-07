@@ -10,7 +10,7 @@
     - **Before update:** Email notifications went to approvers when a proposal was ready for approval at their stage in the routing chain.
     - **After update:** Email notifications still go out when a proposal is ready to be approved at a specific stage in the routing chain, but also if an approval is canceled everyone that has been previously notified of an approval, will be notified that the approval has been canceled and the reason for the cancelation displayed in the email notification.
 - **Approval History**
-    - Every time an action is taken with routing it will be logged in the Approval History section located in Proposal Management of the Editor or Approval once completed.  The Approval Decisions section will still display, but is only for routing currently being done.
+    - All past routing actions will be logged in the Approval History section located in Proposal Management of the Editor or in the Approval once completed.  The Approval Decisions section will still display, but is only for routing currently being done.
 - **Credit Organization**
     - "Responsible Organization" has been renamed "Credit Organization" in the Proposal Team section of Personnel of the Editor.
     ![Credit Organization](images/releaseNotes/creditOrg.jpg)
