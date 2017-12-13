@@ -127,3 +127,5 @@ In the Proposal Editor, Users can track the approval process in the Approval Dec
  - The name of the person who approved and the time they approved displays on the right.
 
  - If an organization does not need to approve due to conditional approval preferences, it is is indicated to the left of the organization name.
+
+# Approval History

@@ -6,7 +6,7 @@ The tabs at the top will take you to the specific topics within the User Guide (
 - Home
 - Navigation
     - [General](Navigation/general.md)
-    - [Notifications](Navigation/notifications.md)
+    - [Internal Notifications](Navigation/notifications.md)
     - [Proposal Navigation](Navigation/proposal.md)
     - [Summary View indicators](Navigation/indicators.md)
     - [Manage Preferences](Navigation/preferences.md)
@@ -16,7 +16,9 @@ The tabs at the top will take you to the specific topics within the User Guide (
     - [Budget Development](data/Budget Development.md)
     - [Exporting Data](data/Data Exports.md)
 - Approvals
-    - [Proposal Routing](Approvals/Proposal Routing.md)
+    - [Routing](Approvals/Routing.md)
+    - [Approving](Approvals/Approving.md)
+    - [Canceling](Approvals/Canceling.md)
 - Toolbar
     - [Actions](Tools/Actions.md)
     - [Activity Log](Tools/activity.md)
