@@ -75,15 +75,21 @@ The file log lists all files attached to the proposal.  The most recent version 
 ![File Log Modal](../images/approvals/AppPro_FileLog.jpg)
 
 ## Approving the Proposal
-Approvers log in to Summit and see a list of proposals waiting for their approval in "Approvals / To Be Approved."  Choosing the Proposal in the Summary Pane will display a read-only view of the basic Proposal details in the Editor. To approve the proposal, the User checks the box at the top of the Editor indicating they have reviewed and approve the proposal.
+Approvers log in to Summit and see a list of proposals waiting for their approval in "Approvals / To Be Approved."  Choosing the Proposal in the Summary Pane will display a read-only view of the basic Proposal details in the Editor. To approve the proposal, the User starts by clicking the green "Approve" button in the top right of the approval.  
 
-![Approval checkbox](../images/approvals/AppPro_Checkbox.jpg)
+![Approval Buttons](../images/approvals/Approving_buttons.jpg)
 
-Once the User checks the box the proposal will no longer be in their "To be approved."  
+Once clicked, a window will pop-up listing all the organizations pending their approval.  When only one organization is pending your approval, the "Approve" button will already be enabled.  
 
-Approvers listed in multiple approval chains will only receive a notification when all the chains are ready for their approval.  When they check the approval box, they will approve for all chains and not need to approve for each separately.  In the example below, the approver will approve for the College of Engineering in both chains when he clicks the approved checkbox:
+![Single Org Approve Modal](../images/approvals/Approving_singleOrgModal.jpg)
 
-![Approver in Multiple Chains](../images/approvals/AppPro_MultChain.jpg)
+When multiple organizations are pending your approval, you will need to select all organizations you wish to approve, then the "Approve" button will become enabled.
+
+![Multi Org Approve Modal](../images/approvals/Approving_multiOrgModal.jpg)
+
+Once pressed, your approval will be recorded and the approval will move from your "To be approved" folder to "Pending" if others are still needed to approve.  If you were the last approver, it will move to the "Approved" folder.
+
+    Note: Approvers listed in multiple approval chains will only receive a notification when all the chains are ready for their approval.
 
 # Approvals in the Proposal
 **Proposal Summary**
