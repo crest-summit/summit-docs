@@ -15,10 +15,6 @@ The tabs at the top will take you to the specific topics within the User Guide (
     - [Proposal Editor](data/Proposal Editor.md)
     - [Budget Development](data/Budget Development.md)
     - [Exporting Data](data/Data Exports.md)
-- Approvals
-    - [Routing](Approvals/Routing.md)
-    - [Approving](Approvals/Approving.md)
-    - [Canceling](Approvals/Canceling.md)
 - Toolbar
     - [Actions](Tools/Actions.md)
     - [Activity Log](Tools/activity.md)
@@ -26,6 +22,10 @@ The tabs at the top will take you to the specific topics within the User Guide (
     - [Files](Tools/Files.md)
     - [History](Tools/History.md)
     - [Requirements](Tools/Requirements.md)
+- Approvals
+    - [Routing](Approvals/Routing.md)
+    - [Approving](Approvals/Approving.md)
+    - [Canceling](Approvals/Canceling.md)
 - Management
     - [Sponsors](Management/Sponsor Editor.md)
     - [Sponsor Vetting](Management/Sponsor Vetting.md)

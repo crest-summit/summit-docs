@@ -10,7 +10,19 @@ Canceling routing will hide the approval decisions section, allow editing to all
 ![Canceled Notice](../images/approvals/AppPro_CanceledNotice.jpg)
 
 ## Return for Correction
-As an approver, you can send an approval back to the proposal team for correction if an item does not meet your expectations.  This action will take the proposal out of routing and give the proposal team a chance to correct any deficiencies that were noted by the approvers. Then once the proposal team is ready, they can put the proposal back into routing for the approvers to once again review, then approve/return the approval.
+As an approver, you can send an approval back to the proposal team for correction if an item does not meet your expectations.  This action will take the proposal out of routing and give the proposal team a chance to correct any deficiencies that were noted by the approvers.
+
+While in the approval, click the "Return For Correction" button in the top right corner (shown circled below).
+
+![Return Button](../images/approvals/canceling_returnButton.jpg)
+
+From there a modal will pop-up asking for your reason on why you are returning it for correction.  You need to leave a comment before the "Return for Correction" button will become enabled.
+
+![Return Modal](../images/approvals/canceling_returnModal.jpg)
+
+Once the button is clicked, the approval will move from "To be approved" to the "Canceled" folder and the proposal will come out of routing for the proposal team to make any edits.
+
+Then once the proposal team is ready, they can put the proposal back into routing for the approvers to once again review, then approve/return the approval.
 
 ## Discarding the Approval
 If after a proposal has been routed and is in the Approved status and the required fields need to be updated, the approval may be discarded.  To discard the approval, anyone on the Proposal Team or Support Staff may use the Action Menu and chose the "Discard Approval" option.  This will open a dialogue box in which the reason for discarding must be indicated.  For example, if additional cost share is required, a new budget would need to be routed for review and approval.
