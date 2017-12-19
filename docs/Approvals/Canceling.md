@@ -45,4 +45,6 @@ Once clicking the "Cancel Routing" button, an email will go to all Proposal Team
 
 ![Cancel Notification](../images/approvals/canceling_emailNotifications.jpg)
 
-As seen in the example email above, the action taken and proposal ID is noted in the subject line.  In the body of the email it will also give similar information, but also the reason the user canceled routing, as well as what is needed from the email recipients.
+As seen in the example email above, the action taken and proposal ID is noted in the subject line.  In the body of the email it will also give similar information, but also the reason the user canceled routing, as well as what is needed from the email recipients.  This example is for proposal team members, which states how to sign in and after correcting what is needed, to re-route the proposal for further review and then approval.
+
+<br>

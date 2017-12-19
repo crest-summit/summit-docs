@@ -77,3 +77,5 @@ A notification is emailed to all Approvers and delegates assigned to a proposal 
 ![Parent not notified until both children approve](../images/approvals/AppPro_ParentNot.jpg)
 
 For example, if the proposal needs to be approved by both Mechanical Engineering (ME) and Aerospace and Ocean Engineering (AOE), the College of Engineering will not be notified until both ME and AOE have approved.
+
+<br>

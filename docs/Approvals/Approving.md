@@ -135,3 +135,7 @@ In the Proposal Editor, Users can track the approval process in the Approval Dec
  - If an organization does not need to approve due to conditional approval preferences, it is is indicated to the left of the organization name.
 
 # Approval History
+
+The Approval History section logs all past routing actions for a proposal in the Proposal Management section of the Editor or in the Approval under the Approval Decisions section. The Approval Decisions section will still display, but is only for routing currently being done and thus will not be visible if the work is in the Preparing phase.
+
+<br>
