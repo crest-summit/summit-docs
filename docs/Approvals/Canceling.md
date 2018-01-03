@@ -35,7 +35,7 @@ Discarding the approval will clear the approval status, hide the approval decisi
 
 ## Email Notifications
 
-Whether the routing is canceled, the approval returned for correction, or the approval discarded (all 3 actions described above); an email is sent to all approvers that have been notified so far and proposal team members about this change from a previously routing/approved status back to preparing.  The email will state which of the 3 transition took place and will give the comment left by the person who committed the action.
+Whether the routing is canceled, the approval returned for correction, or the approval discarded (all 3 actions described above); an email is sent to all approvers that have been notified so far and proposal team members about this change from a previously routing/approved status back to preparing.  The email will state which of the 3 transitions took place and will give the comment left by the person who committed the action.
 
 For example, when canceling routing, a modal displays needing a comment to enable the "Cancel Routing" button.
 
@@ -45,6 +45,6 @@ Once clicking the "Cancel Routing" button, an email will go to all Proposal Team
 
 ![Cancel Notification](../images/approvals/canceling_emailNotifications.jpg)
 
-As seen in the example email above, the action taken and proposal ID is noted in the subject line.  In the body of the email it will also give similar information, but also the reason the user canceled routing, as well as what is needed from the email recipients.  This example is for proposal team members, which states how to sign in and after correcting what is needed, to re-route the proposal for further review and then approval.
+As seen in the example email above, the action taken and proposal ID is noted in the subject line.  In the body of the email it will also give similar information, but also the reason the user canceled routing, as well as what is needed from the email recipients.  This example is for proposal team members, which states how to sign in and after correcting what is needed, to re-route the proposal for further review and then approval.  A slightly different email with go to the approvers, letting them know they will need to approve again once the proposal has been corrected and re-routed.
 
 <br>
