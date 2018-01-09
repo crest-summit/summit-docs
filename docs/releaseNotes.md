@@ -3,15 +3,16 @@
 - **Approve and Return buttons on Approvals**
     - Separate buttons are now provided for approving or returning an approval.  
     ![Approval Header](images/releaseNotes/approvalHeader.jpg)
-- **"Approve" button**
-    -  Now as an approver, to approve you'll click the "Approve" button and click save in an approval modal.  If you are approving on behalf of 2 or more organizations, you'll need to check the organizations you are approving on behalf of.
-- **"Return for Correction" button**
-    - Now an approver can send an approval back to the proposal team for correction.  This action will take the proposal out of routing and give the proposal team a chance to correct any deficiencies that were noted by the approvers. Then once the proposal team is ready, they can put the proposal back into routing for the approvers to once again review, then approve/return the approval.
+    - **"Approve" button**
+        -  Now as an approver, to approve you'll click the "Approve" button and click save in an approval modal.  If you are approving on behalf of 2 or more organizations, you'll need to check the organizations you are approving on behalf of.
+    - **"Return for Correction" button**
+        - Now an approver can send an approval back to the proposal team for correction.  This action will take the proposal out of routing and give the proposal team a chance to correct any deficiencies that were noted by the approvers. Then once the proposal team is ready, they can put the proposal back into routing for the approvers to once again review, then approve/return the approval.
 - **Email Notifications for Approvals**
     - **Before update:** Email notifications went to approvers when a proposal was ready for approval at their stage in the routing chain.
     - **After update:** Email notifications still go out when a proposal is ready to be approved at a specific stage in the routing chain, but also if an approval is canceled everyone that has been previously notified of an approval, will be notified that the approval has been canceled and the reason for the cancelation displayed in the email notification.
 - **Approval History**
     - All past routing actions will be logged in a new section within the editor and approval called the Approval History.  This section is located in the Proposal Management of the Editor or in the Approval.  The Approval Decisions section will still display, but is only for routing currently being done.
+    ![Approval History](images/approvals/Approving_approvalHistory.jpg)
 - **Credit Organization**
     - "Responsible Organization" has been renamed "Credit Organization" in the Proposal Team section of Personnel of the Editor.
     ![Credit Organization](images/releaseNotes/creditOrg.jpg)
