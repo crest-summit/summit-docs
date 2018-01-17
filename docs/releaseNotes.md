@@ -4,9 +4,9 @@
     - Separate buttons are now provided for approving or returning an approval.  
     ![Approval Header](images/releaseNotes/approvalHeader.jpg)
     - **"Approve" button**
-        -  Now as an approver, to approve you'll click the "Approve" button and click save in an approval modal.  If you are approving on behalf of 2 or more organizations, you'll need to check the organizations you are approving on behalf of.
+        -  Now as an approver, to approve you'll click the "Approve" button and click "Approve" in the approval modal that appears.  If you are approving on behalf of 2 or more organizations, you'll need to check the organizations you are approving on behalf of.
     - **"Return for Correction" button**
-        - Now an approver can send an approval back to the proposal team for correction.  This action will take the proposal out of routing and give the proposal team a chance to correct any deficiencies that were noted by the approvers. Then once the proposal team is ready, they can put the proposal back into routing for the approvers to once again review, then approve/return the approval.
+        - Now an approver can send an approval back to the proposal team for correction.  By clicking the "Return For Correction" button, a modal will appear asking for the reason why the approver would like to return the approval back for correction.  Once a comment is written, the "Return for Correction" button will become enabled.  Once pressed, it will take the proposal out of routing and give the proposal team a chance to correct any deficiencies that were noted by the approver. Then once the proposal team is ready, they can put the proposal back into routing for the approvers to review again, then approve/return the approval.
 - **Email Notifications for Approvals**
     - **Before update:** Email notifications went to approvers when a proposal was ready for approval at their stage in the routing chain.
     - **After update:** Email notifications still go out when a proposal is ready to be approved at a specific stage in the routing chain, but also if an approval is canceled everyone that has been previously notified of an approval, will be notified that the approval has been canceled and the reason for the cancelation displayed in the email notification.
@@ -16,6 +16,9 @@
 - **Credit Organization**
     - "Responsible Organization" has been renamed "Credit Organization" in the Proposal Team section of Personnel of the Editor.
     ![Credit Organization](images/releaseNotes/creditOrg.jpg)
+- **IRB question**
+    - The IRB question has been modified to now read "Does the work involve human subjects research (e.g., surveys, observation, lab or clinical research, analysis of existing data/specimens)?".  It is still located in the Compliance section of the editor.
+    - The question has also been added to the Initiator screen when going through the Get Started wizard.  This way if the sponsor or prime sponsor has the IRB keyword (mostly NIH related sponsors), as well as having the IRB question answered "Yes" or "Don't Know", an email will be sent to the IRB team to follow-up with the Proposal Team regarding new NIH rules on Human Subjects.
 <br>
 
 # Release 2.1.0 - September 2017
