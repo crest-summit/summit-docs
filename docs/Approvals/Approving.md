@@ -75,7 +75,7 @@ The file log lists all files attached to the proposal.  The most recent version 
 ![File Log Modal](../images/approvals/AppPro_FileLog.jpg)
 
 ## Approving the Proposal
-Approvers log in to Summit and see a list of proposals waiting for their approval in "Approvals / To Be Approved."  Choosing the Proposal in the Summary Pane will display a read-only view of the basic Proposal details in the Editor. To approve the proposal, the User starts by clicking the green "Approve" button in the top right of the approval.  
+Approvers log in to Summit and see a list of proposals waiting for their approval in "Approvals / To Be Approved."  Choosing the Proposal in the Summary Pane will display a read-only view of the basic Proposal details in the Editor. To approve the proposal, the User starts by clicking the green "Approve" button in the top right of the approval. **[For Instructions on how to Cancel, go Here](Canceling.md)**
 
 ![Approval Buttons](../images/approvals/Approving_buttons.jpg)
 
@@ -136,9 +136,18 @@ In the Proposal Editor, Users can track the approval process in the Approval Dec
 
 # Approval History
 
-The Approval History section logs all past routing actions for a proposal in the Proposal Management section of the Editor or in the Approval under the Approval Decisions section. The Approval Decisions section will still display, but is only for routing currently being done and thus will not be visible if the work is in the Preparing phase.
+The Approval History section logs all past routing actions for a proposal in the Proposal Management section of the Editor or in the Approval under the Approval Decisions section. The Approval Decisions section will still display, but is only for routing currently being done and thus will not be visible if the work is in the Preparing (a work's starting point) phase.
+
+In the image below shows the 4 types of actions that will be shown in the Approval History section.
+
+1. Approved - All approvers have approved the proposal and the status has changed from "In Routing" to "Approved".
+2. Approval discarded -  A user with proposal access, has removed the approval.
+3. Returned for correction - A user with approval access, takes returns an approval back to user's with proposal access.
+4. Routing canceled - A user with proposal access, takes a proposal out of routing.  
 
 ![Approval History](../images/approvals/Approving_approvalHistory.jpg)
+
+When clicking on a specific history, the comment made by the one that committed the action becomes visible.  If you then click again on a specific organization, you can now see the time stamp for approvals or cancellations (as seen below).
 
 ![Approval History Expanded](../images/approvals/Approving_approvalHistoryExpanded.jpg)
 
