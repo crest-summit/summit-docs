@@ -1,5 +1,18 @@
 # Welcome to Summit User Guides
-The Summit User Guide is here as a training tool, Help reference and FAQ list
+The Summit User Guide is here as a training tool, Help reference, and FAQ list.  
+
+<script>
+  (function() {
+    var cx = '001745560010116767161:w8yr7caoddo';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
 
 The tabs at the top will take you to the specific topics within the User Guide (or use the layout below with links to those sections):
 
