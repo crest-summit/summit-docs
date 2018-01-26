@@ -1,4 +1,4 @@
-# Release 2.2.0 - January 2018
+# Release 2.2.0 - February 2018
 
 - **Approve and Return buttons on Approvals**
     - Separate buttons are now provided for approving or returning an approval.  
