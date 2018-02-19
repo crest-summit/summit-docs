@@ -25,8 +25,10 @@ When a proposal needs to be updated while it routing, the routing can be cancele
 
 ![Canceled Notice](../images/approvals/AppPro_CanceledNotice.jpg)
 
+<br>
+
 # Approval Editor
-Choosing a proposal from the summary view of any of the Approval folders will display a read-only Editor that contains subset of data from the Proposal Editor.  
+Choosing an approval from the summary view of any of the Approval folders will display a read-only Editor that contains subset of data from the Proposal Editor.  
 
 ![Approval Editor](../images/approvals/AppPro_Editor.jpg)
 
@@ -35,12 +37,6 @@ Choosing a proposal from the summary view of any of the Approval folders will di
 The Header includes the proposal number, the PI, the proposal label and the Sponsor name.
 
 ![Approver Editor Header](../images/approvals/AppPro_Header.jpg)
-
-**Approval Checkbox**
-
-When a proposal is waiting on the User's Organization in "To Be Approved" or "Pending," there will be an Approval checkbox under the header.  Once any one of Approvers or delegates for the User's Organization have approved, this option is no longer available.
-
-![Approver Checkbox](../images/approvals/AppPro_Checkbox.jpg)
 
 **Approval Decisions**
 
@@ -55,6 +51,10 @@ The above image illustrates the following:
 - All organizations that have approved will have the approved indicator.
 - The name of the approver and the date and time of approval are listed for all approvals.
 - If one organization is in multiple chains, it will be listed in each but the approver for that organization will only need to approve once.
+
+**Approval History**
+
+The Approval History section logs all past routing actions for a proposal. [Click for more Info](#approval-history)
 
 **Work Summary**
 
@@ -74,7 +74,9 @@ The file log lists all files attached to the proposal.  The most recent version 
 
 ![File Log Modal](../images/approvals/AppPro_FileLog.jpg)
 
-## Approving the Proposal
+<br>
+
+# Approving the Proposal
 Approvers log in to Summit and see a list of proposals waiting for their approval in "Approvals / To Be Approved."  Choosing the Proposal in the Summary Pane will display a read-only view of the basic Proposal details in the Editor. To approve the proposal, the User starts by clicking the green "Approve" button in the top right of the approval. **[For Instructions on how to Cancel, go Here](Canceling.md)**
 
 ![Approval Buttons](../images/approvals/Approving_buttons.jpg)
@@ -91,7 +93,9 @@ Once pressed, your approval will be recorded and the approval will move from you
 
     Note: Approvers listed in multiple approval chains will only receive a notification when all the chains are ready for their approval.
 
-# Approvals in the Proposal
+<br>
+
+# Proposal Editor Information
 **Proposal Summary**
 
 The Summary Pane displays the routing chain icon or the approved icon on the left of the summary for the proposal
@@ -102,9 +106,7 @@ Users can also search by proposal status in the summary view.
 
 ![Search by Status](../images/approvals/AppPro_StatusSearch.jpg)
 
-**Proposal Editor**
-
-**Header**
+**Proposal Header**
 
 Proposal in Routing will display the "In Routing" chain icon and indicator in the header of the proposal.
 
@@ -133,6 +135,8 @@ In the Proposal Editor, Users can track the approval process in the Approval Dec
  - The name of the person who approved and the time they approved displays on the right.
 
  - If an organization does not need to approve due to conditional approval preferences, it is is indicated to the left of the organization name.
+
+<br>
 
 # Approval History
 

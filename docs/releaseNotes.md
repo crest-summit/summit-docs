@@ -31,6 +31,7 @@
 <br>
 - **Automated Emails Only for Open Proposals**
     - If a proposal is not in the Open folder, automated emails will no longer be sent when a change is made on the proposal.
+
 - **"Type of Work" shown in Approver and Limited Views**
     - examples: "Proposal" or "Supplement"
 - **Submitted Proposal Details Warning Label only Displayed for Proposals/Supplements/Continuations**
@@ -42,7 +43,6 @@
     ![Bulk Operations Location](images/releaseNotes/bulkOperations.jpg)
 <br>
 - **Various Small Bug Fixes**
-
 <br>
 
 # Release 2.0.0 - August 2017
