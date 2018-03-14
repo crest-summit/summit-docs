@@ -1,3 +1,7 @@
+# Release 2.3.0 - March 2018
+- **Manage Preferences**
+- **Email Notifications**
+
 # Release 2.2.0 - February 2018
 
 - **Approve and Return buttons on Approvals**

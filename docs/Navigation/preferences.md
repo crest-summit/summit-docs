@@ -1,20 +1,121 @@
-**Navigation / Manage Preferences**
+**Navigation / User Preferences**
 
-# Manage Preferences
+# User Preferences
 
-A user currently can change 3 personal settings:
+A user can change 3 sets of personal settings:
 
-1. **Default research organization**
-2. **Unsubscribe to Summit emails** (see Notice for details)
-3. **Preferred e-mail address**
+1. **Opt Out/In to various Summit related emails**
+2. **Preferred e-mail address**
+3. **Default research organization**
 
-To get to this section, click your name at the top right of Summit and then click "Manage preferences".
+To get to this section, click your name at the top right of Summit and then click "User Preferences".
 
-![Manage Preferences Location](../images/navigation/NavPref_managePrefLocation.jpg)
+![User Preferences Location](../images/navigation/NavPref_managePrefLocation.jpg)
 
 <br>
 
-## Default Research Organization
+![User Preferences Modal](../images/navigation/NavPref_ModalFull.jpg)
+
+## E-mail Preferences
+
+Depending on your role within a proposal and if you have the proposal favorited, will determine what email notifications you will receive.
+
+<style>
+table {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+caption {
+    color: black;
+    font-family: sans-serif
+}
+
+th {
+    color: white;
+    border: 1px solid #dddddd;
+    background-color: #3A5B6E;
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+}
+
+tr:nth-child(odd) {
+    background-color: #FAFAFA;
+}
+</style>
+
+<table>
+<caption>List of All Email Notifications</caption>
+  <col width=19%>
+  <col width=41%>
+  <col width=40%>
+  <tr>
+    <th>Email Notification</th>
+    <th>Category</th>
+    <th>Sent to</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td>Work Initiation</td>
+    <td>Initiation</td>
+    <td>Work Creator & Pre Award Associate</td>
+    <td>All can opt out</td>
+  </tr>
+  <tr>
+    <td>DoD / NASA / PHS Notice</td>
+    <td>DoD / NASA / PHS Notice</td>
+    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>Proposal Team cannot opt out, Support Staff can opt out</td>
+  </tr>
+  <tr>
+    <td>Awaiting Approval</td>
+    <td>Initiation</td>
+    <td>Immediate Approvers in the org</td>
+    <td>All can opt out</td>
+  </tr>
+  <tr>
+    <td>Routing Canceled</td>
+    <td>Proposal Team, Support Staff, Approvers, Pre Award Associate</td>
+    <td>All can opt out</td>
+  </tr>
+  <tr>
+    <td>Return for Correction</td>
+    <td>Proposal Team, Support Staff, Approvers, Pre Award Associate</td>
+    <td>All can opt out</td>
+  </tr>
+  <tr>
+    <td>Approval Discarded</td>
+    <td>Proposal Team, Support Staff, Approvers, Pre Award Associate</td>
+    <td>All can opt out</td>
+  </tr>
+  <tr>
+    <td>File Uploads</td>
+    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>All can opt out</td>
+  </tr>
+</table>
+
+  * Proposal Team member - PI, Co-PI, Proposal Team member
+  * Support Staff - users that are from the submitting or credit organization associated with a named Proposal Team member
+  * Approvers - users that are designated approver or approver delegates from the submitting or credit organizations being used in the work
+  * Pre Award Associate - the assigned Pre Award associate on the proposal
+
+**Preferred E-mail Address**
+    - By default the email listed here will be the user's pid + @vt.edu, but users can elect to use another email address for Summit communication emails.
+![Preferred Email](../images/navigation/NavPref_PreferredEmail.jpg)
+
+<br>
+
+## Other Settings
+
+**Default Research Organization**
 
 Users associated with multiple organizations can indicate which organization they mainly conduct research under if it is different from their Home Org.  By clicking on the user name at the top right of the screen and choosing the Manage Preferences option, users can indicate a Default Research Organization.
 
@@ -30,19 +131,5 @@ The organization listed here will be the pre-populated organization in the submi
 ![Pre-populated fields in the Editor for Default Research Organization](../images/navigation/NavPref_PrePopulatedEditor.jpg)
 
 Users can still edit the fields for individual proposals. The Default Research Organization can be updated at any time and will only be used on new proposals.  It does not update current fields.
-
-<br>
-
-## E-mail Preferences
-
-A user can add/change 2 E-mail related settings in their manage preferences:
-
-1. Unsubscribe from Summit external communications
-    - If you are a named **Proposal Team member** (PI, Co-PI, Proposal Team member), then this will only unsubscribe you from emails being sent when the user creates a proposal.  All other emails that Summit sends is considered essential and will be sent (ex. DoD notice).
-    - If you are a **support staff member** on an org associated with a named Proposal Team member, then clicking unsubscribe will remove you from all Summit e-mail communications.
-![Unsubscribe Emails](../images/navigation/NavPref_Unsubscribe.jpg)
-2. Preferred E-mail Address
-    - By default the email listed here will be the user's pid + @vt.edu, but users can elect to use another email address for Summit communication emails.
-![Preferred Email](../images/navigation/NavPref_PreferredEmail.jpg)
 
 <br>

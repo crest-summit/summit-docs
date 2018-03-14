@@ -22,7 +22,7 @@ The tabs at the top will take you to the specific topics within the User Guide (
     - [Internal Notifications](Navigation/notifications.md)
     - [Proposal Navigation](Navigation/proposal.md)
     - [Summary View indicators](Navigation/indicators.md)
-    - [Manage Preferences](Navigation/preferences.md)
+    - [User Preferences](Navigation/preferences.md)
 - Data
     - [Initiator](data/Proposal Initiator.md)
     - [Proposal Editor](data/Proposal Editor.md)
