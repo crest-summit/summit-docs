@@ -12,13 +12,17 @@ To get to this section, click your name at the top right of Summit and then clic
 
 ![User Preferences Location](../images/navigation/NavPref_managePrefLocation.jpg)
 
-<br>
+<img src="/images/down_arrow.png" alt="down_arrow" style="float:center; width:45px; height:70px;">
 
 ![User Preferences Modal](../images/navigation/NavPref_ModalFull.jpg)
 
+<br>
+
 ## E-mail Preferences
 
-Depending on your role within a proposal and if you have the proposal favorited, will determine what email notifications you will receive.
+Depending on your role within a proposal and if you have the proposal favorited, will determine what email notifications you will receive.  The one exception to this is if you are on the Proposal Team (PI, Co-PI, Proposal Team member) you will receive compliance email regardless of your email settings.  
+
+Below shows every email notification currently in Summit, what category that email corresponds to in the user preferences screen, who will receive that email, and any special circumstances around the email.
 
 <style>
 table {
@@ -52,10 +56,10 @@ tr:nth-child(odd) {
 </style>
 
 <table>
-<caption>List of All Email Notifications</caption>
+  <col width=16%>
   <col width=19%>
-  <col width=41%>
   <col width=40%>
+  <col width=25%>
   <tr>
     <th>Email Notification</th>
     <th>Category</th>
@@ -64,48 +68,67 @@ tr:nth-child(odd) {
   </tr>
   <tr>
     <td>Work Initiation</td>
-    <td>Initiation</td>
+    <td>Work Initiation</td>
     <td>Work Creator & Pre Award Associate</td>
     <td>All can opt out</td>
   </tr>
   <tr>
+    <td>DoD Notice</td>
     <td>DoD / NASA / PHS Notice</td>
+    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>Proposal Team cannot opt out, Support Staff can opt out</td>
+  </tr>
+  <tr>
+    <td>NASA Notice</td>
+    <td>DoD / NASA / PHS Notice</td>
+    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>Proposal Team cannot opt out, Support Staff can opt out</td>
+  </tr>
+  <tr>
+    <td>PHS Notice</td>
     <td>DoD / NASA / PHS Notice</td>
     <td>Proposal Team, Support Staff, Pre Award Associate</td>
     <td>Proposal Team cannot opt out, Support Staff can opt out</td>
   </tr>
   <tr>
     <td>Awaiting Approval</td>
-    <td>Initiation</td>
-    <td>Immediate Approvers in the org</td>
+    <td>Routing/Approval</td>
+    <td>Immediate Approvers in the organization</td>
     <td>All can opt out</td>
   </tr>
   <tr>
     <td>Routing Canceled</td>
+    <td>Routing/Approval</td>
     <td>Proposal Team, Support Staff, Approvers, Pre Award Associate</td>
     <td>All can opt out</td>
   </tr>
   <tr>
     <td>Return for Correction</td>
+    <td>Routing/Approval</td>
     <td>Proposal Team, Support Staff, Approvers, Pre Award Associate</td>
     <td>All can opt out</td>
   </tr>
   <tr>
     <td>Approval Discarded</td>
+    <td>Routing/Approval</td>
     <td>Proposal Team, Support Staff, Approvers, Pre Award Associate</td>
     <td>All can opt out</td>
   </tr>
   <tr>
+    <td>File Uploads</td>
+    <td>File Uploads</td>
+    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>All can opt out</td>
+  </tr>
+  <tr>
+    <td>File Version Uploads</td>
     <td>File Uploads</td>
     <td>Proposal Team, Support Staff, Pre Award Associate</td>
     <td>All can opt out</td>
   </tr>
 </table>
 
-  * Proposal Team member - PI, Co-PI, Proposal Team member
-  * Support Staff - users that are from the submitting or credit organization associated with a named Proposal Team member
-  * Approvers - users that are designated approver or approver delegates from the submitting or credit organizations being used in the work
-  * Pre Award Associate - the assigned Pre Award associate on the proposal
+<br>
 
 **Preferred E-mail Address**
     - By default the email listed here will be the user's pid + @vt.edu, but users can elect to use another email address for Summit communication emails.
