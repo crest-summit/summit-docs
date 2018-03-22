@@ -20,7 +20,9 @@ To get to this section, click your name at the top right of Summit and then clic
 
 ## E-mail Preferences
 
-Depending on your role within a proposal and if you have the proposal favorited, will determine what email notifications you will receive.  The one exception to this is if you are on the Proposal Team (PI, Co-PI, Proposal Team member) you will receive compliance email regardless of your email settings.  
+Depending on your role within a proposal and if you have the proposal favorited, will determine what email notifications you will receive.  The one exception to this is if you are on the Proposal Team (PI, Co-PI, Proposal Team member) you will receive compliance email regardless of your email settings.
+
+New Users to the system by default will have all email notifications turned on, except File Uploads. 
 
 Below shows every email notification currently in Summit, what category that email corresponds to in the user preferences screen, who will receive that email, and any special circumstances around the email.
 
@@ -140,7 +142,7 @@ tr:nth-child(odd) {
 
 **Default Research Organization**
 
-Users associated with multiple organizations can indicate which organization they mainly conduct research under if it is different from their Home Org.  By clicking on the user name at the top right of the screen and choosing the Manage Preferences option, users can indicate a Default Research Organization.
+Users associated with multiple organizations can indicate which organization they mainly conduct research under if it is different from their Home Org.  By clicking on the user name at the top right of the screen and choosing the User Preferences option, then Other Settings to the left, users can indicate a Default Research Organization.
 
 ![Manage Preferences for Default Research Organization](../images/navigation/NavPref_ManageDefault.jpg)
 

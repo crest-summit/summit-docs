@@ -5,9 +5,9 @@
     - Increased capability on choosing what email notifications are received through Summit.  For more details, click [Here](Navigation/preferences.md#e-mail-preferences)
 - **Small Updates**
     - Files ordered by original file's upload date/time
-        - Previously there were issues where the order would seem random when a new file was uploaded to a field.  Now placement is determined by the original file's date/time.  When new versions are uploaded or new files uploaded to a field, the files position will remain constant.
+        - Previously there were issues where the order would seem random when a new file was uploaded to a field that already contained file(s).  Now placement is determined by the original file's date/time.  When new versions are uploaded or new files uploaded to a field, the file's position will remain constant.
     - Updated VT logo
-        - New Virginia Tech log is being used at the bottom left of the Summit screen
+        - New Virginia Tech logo is being used at the bottom left of the Summit screen
     - Type of Work field now read-only when In-Routing and Beyond.
 <br>
 
