@@ -1,14 +1,20 @@
 # Release 2.3.0 - March 2018
-- **User Preferences**
-    - Updated interface and added functionality for a user's preferences.  For more details, click [Here](Navigation/preferences.md)
-- **Email Notifications**
-    - Increased capability on choosing what email notifications are received through Summit.  For more details, click [Here](Navigation/preferences.md#e-mail-preferences)
-- **Small Updates**
+- **User Preferences** - Updated interface and added functionality for a user's preferences, specifically email notifications.  For more details, click [Here](Navigation/preferences.md)
+![User Preferences](images/releaseNotes/userPreferences.jpg)
+<br>
+
+- **Email Notifications** - Increased capability on choosing what email notifications a user will receive through Summit. For more details, click [Here](Navigation/preferences.md#e-mail-preferences)
+    - Note: Previous canceled routing emails went to all users on the proposal team regardless of email setting.  Now to align with the added preferences functionality, it will only go to users that have the Routing/Approval preferences marked to receive and the proposal favorited.
+
+<br>
+
+- **Small Updates**  
     - Files ordered by original file's upload date/time
         - Previously there were issues where the order would seem random when a new file was uploaded to a field that already contained file(s).  Now placement is determined by the original file's date/time.  When new versions are uploaded or new files uploaded to a field, the file's position will remain constant.
     - Updated VT logo
         - New Virginia Tech logo is being used at the bottom left of the Summit screen
     - Type of Work field now read-only when In-Routing and Beyond.
+
 <br>
 
 # Release 2.2.0 - February 2018
