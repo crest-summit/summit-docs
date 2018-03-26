@@ -22,7 +22,7 @@ To get to this section, click your name at the top right of Summit and then clic
 
 Depending on your role within a proposal and if you have the proposal favorited, will determine what email notifications you will receive.  The one exception to this is if you are on the Proposal Team (PI, Co-PI, Proposal Team member) you will receive compliance email regardless of your email settings.
 
-New Users to the system by default will have all email notifications turned on, except File Uploads. 
+New Users to the system by default will have all email notifications turned on. 
 
 Below shows every email notification currently in Summit, what category that email corresponds to in the user preferences screen, who will receive that email, and any special circumstances around the email.
 
