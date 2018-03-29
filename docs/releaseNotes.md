@@ -1,10 +1,34 @@
+# Release 2.4.0 - April 2018
+- **Email Notifications**
+    - Work Initiation emails will now also be sent to the Principle Investigator at time of work creation.  This means when a user creates a work in Summit (New or Advanced), an email will be sent to the Creator, Pre Award assignee, and the Principle Investigator.
+
+<br>
+
+- **Summary Pane Additions**
+    - The work identifier and type of work will now display in the summary pane.
+![Summary Pane New Line](images/releaseNotes/summaryPane.jpg)
+
+<br>
+
+- **Small Updates**
+    - Proposal Team section
+        - Percent credit can only be in whole numbers and the total needs to be a 100% to adhere to the Banner system.  An error message will display if either are incorrect.
+    - Various Bug Fixes
+    - General Information section
+        - "Proposal Label" renamed to "Work Label"
+        - "Proposal Full Title" renamed to "Full Title"
+        - "Type of Work" field moved to the General Information section at the top of the editor, under the Full Title text box.
+![General Info Section](images/releaseNotes/generalInfoSection.jpg)
+
+<br>
+
 # Release 2.3.0 - March 2018
-- **User Preferences** - Updated interface and added functionality for a user's preferences, specifically email notifications.  For more details, click [Here](Navigation/preferences.md)
+- **User Preferences** - Updated interface and added functionality for a user's preferences, specifically email notifications.  For more details, click [Here](Navigation/preferences.md).
 ![User Preferences](images/releaseNotes/userPreferences.jpg)
 <br>
 
-- **Email Notifications** - Increased capability on choosing what email notifications a user will receive through Summit. For more details, click [Here](Navigation/preferences.md#e-mail-preferences)
-    - Note: Previous canceled routing emails went to all users on the proposal team regardless of email setting.  Now to align with the added preferences functionality, it will only go to users that have the Routing/Approval preferences marked to receive and the proposal favorited.
+- **Email Notifications** - Increased capability on choosing what email notifications a user will receive through Summit. For more details, click [Here](Navigation/preferences.md#e-mail-preferences).
+    - Previous canceled routing emails went to all users on the proposal team regardless of email setting.  Now to align with the added preferences functionality, it will only go to users that have the Routing/Approval preferences marked to receive and the proposal favorited.
 
 <br>
 
