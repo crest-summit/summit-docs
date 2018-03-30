@@ -120,6 +120,6 @@ Reassignment from one Pre-Award Associate to another is an action available only
 This action will remove the proposal from the original Pre-Award assignee’s “My Open” proposals to the new assignee’s “My Open” proposals.  The original assignee will still have access to the proposal through the “All Open” Navigation Item.  The Support Staff subsection of the Personnel section will reflect the change.
 
 # Submit for Routing
-Clicking here will send the proposal into the Routing and Approval chain.  See the Approvals/Proposal Routing section for further information.
+Clicking here will send the proposal into the Routing and Approval chain.  Click [Here](../Approvals/Routing.md) for further information.
 
 <br>
