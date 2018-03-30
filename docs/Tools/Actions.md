@@ -16,7 +16,8 @@ Advancing means taking one type of submission to the Sponsor and moving it to th
 
 The concept of Advancing a proposal is centered around keeping related work connected in Summit and was designed to reduce re-entry of data. When advancing work from one type of proposal to another, Users should use this action to create a related proposal instead of the "Get Started" button to create an entirely new unrelated proposal.
 
-## Types of Work
+**Types of Work**
+
 Each new submission to a sponsor requires the Type of Work to be identified with one of the following:
 
 - White Paper: A statement of work sent to the Sponsor that will not result in an award until a Proposal has been submitted.
@@ -35,7 +36,8 @@ The options to Advance depend upon the Type of Work.  The following shows which 
 - Supplement -> Supplement
 - Continuation -> Continuation
 
-## Advance Process
+**Advance Process**
+
 To Advance work, the User can either start from within the previous work or use Get Started if they have the previous work's proposal ID.  If they are in the previous work the user can access the Action Menu and select the Advance action to create a new type of work from the previous piece.  
 
     Note: Advance is available for Open, Submitted and Closed proposals, but will usually only be used after a proposal has been submitted to the sponsor and further interaction with the sponsor is required.
@@ -71,23 +73,35 @@ The middle section in the dialogue box requires the User to indicate if either o
 A proposal duplicated by the Proposal Team or Support Staff is automatically assigned to the Pre-Award Associate assigned to the Submitting Org regardless of the Pre-Award Associate assigned to the original (duplicated) proposal.  A proposal duplicated by a Pre-Award Associate is assigned to that User regardless of the Submitting Org assignment.  In either case, the proposal can be reassigned by a Pre-Award User if necessary.
 
 # Close
-The Close action is only available for open or submitted and to Pre-Award Users.  This action moves the proposal from the Open Navigation Items to the Closed Navigation Items.  When the User chooses this option, a dialogue box appears prompting them to enter the required Reason for Closure and add an optional note/comment.  
+For a Proposal, Supplement, and Continuation the Close action is only available to Pre-Award Users.  This action moves the proposal from the Open Navigation Items to the Closed Navigation Items.  When the User chooses this option, a dialogue box appears prompting them to enter the required Reason for Closure and add an optional note/comment.  
 
 ![Close Proposal Dialogue from Open](../images/tools/ToolAct_ClosedFromOpen.jpg)
 
 The Reasons for Closure while the proposal is Open are:
+
 -	Abandoned: Indicates PI has chosen not to submit proposal or proposal is no longer actively being worked on.
 -	Submission Denied: Indicates a proposal that was in Admin Review and marked “Do Not Submit.”
 
 ![Close Proposal Dialogue from Submissions](../images/tools/ToolAct_ClosedFromSubmissions.jpg)
 
 The Reasons for Closure while a proposal is in Submissions are:
+
 -	Awarded: The Sponsor has indicated that they will fund the proposal.
 -	Withdrawn: Indicates the proposal was withdrawn from the sponsor.
 - Declined: The Sponsor has indicated that they will not fund the proposal.
 
-    Note:  A Closed Proposal cannot be reopened.  To work on a closed proposal, it must be Advanced or Duplicated.
+For a Letter of Intent, White Paper, or Pre-Proposal the Close action is available to all users. This action moves the work from the Open Navigation Items to the Closed Navigation Items.  When the User chooses this option, a dialogue box appears prompting them to enter the required Reason for Closure and add an optional note/comment.
 
+![Close Pre-Proposal Dialogue from Open](../images/tools/ToolAct_ClosedFromOpenPreProposals.jpg)
+
+The Reasons for Closure while a Letter of Intent, White Paper, or Pre-Proposal is in Open are:  
+
+-	Abandoned: Indicates PI has chosen not to submit the work or the work is no longer actively being worked on.
+- Submitted: Indicates the work has been submitted to the sponsor
+
+<br>
+
+    Note:  A Closed Proposal cannot be reopened.  To work on a closed proposal, it must be Advanced or Duplicated.
 
 # Mark as Submitted
 This action is available to all Users in open proposals except those in Admin Review or already marked as Submitted.  This marks the proposal as one that has already been submitted to the sponsor but is still in the User’s “My/All Open” proposals because there is outstanding required data or documents.  Indicators are displayed in the Header and Summary Pane.  This status is an optional tool available for Users to manage their workload.  A proposal may be closed directly without having been in the Submitted state.
@@ -108,5 +122,4 @@ This action will remove the proposal from the original Pre-Award assignee’s �
 # Submit for Routing
 Clicking here will send the proposal into the Routing and Approval chain.  See the Approvals/Proposal Routing section for further information.
 
-# Reopen
-This action is available to Pre-Award Users for closed proposal.  Reopening a proposal removes the closed status and returns the proposal to the default Open status.  The proposal is moved from the Closed Navigation Items to the Open Navigation Items.  
+<br>

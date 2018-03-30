@@ -1,15 +1,9 @@
 # Release 2.4.0 - April 2018
 - **Email Notifications**
     - Work Initiation emails will now also be sent to the Principle Investigator at time of work creation.  This means when a user creates a work in Summit (New or Advanced), an email will be sent to the Creator, Pre Award assignee, and the Principle Investigator.
-
-<br>
-
 - **Summary Pane Additions**
     - The work identifier and type of work will now display in the summary pane.
 ![Summary Pane New Line](images/releaseNotes/summaryPane.jpg)
-
-<br>
-
 - **Small Updates**
     - Proposal Team section
         - Percent credit can only be in whole numbers and the total needs to be a 100% to adhere to the Banner system.  An error message will display if either are incorrect.
@@ -25,13 +19,8 @@
 # Release 2.3.0 - March 2018
 - **User Preferences** - Updated interface and added functionality for a user's preferences, specifically email notifications.  For more details, click [Here](Navigation/preferences.md).
 ![User Preferences](images/releaseNotes/userPreferences.jpg)
-<br>
-
 - **Email Notifications** - Increased capability on choosing what email notifications a user will receive through Summit. For more details, click [Here](Navigation/preferences.md#e-mail-preferences).
     - Previous canceled routing emails went to all users on the proposal team regardless of email setting.  Now to align with the added preferences functionality, it will only go to users that have the Routing/Approval preferences marked to receive and the proposal favorited.
-
-<br>
-
 - **Small Updates**  
     - Files ordered by original file's upload date/time
         - Previously there were issues where the order would seem random when a new file was uploaded to a field that already contained file(s).  Now placement is determined by the original file's date/time.  When new versions are uploaded or new files uploaded to a field, the file's position will remain constant.
@@ -68,24 +57,20 @@
 
 - **Status added to History Log**
     ![History Status](images/releaseNotes/historyStatus.jpg)
-<br>
 - **Proposal "Creator" Cannot Add Responsible Org/Credit fix**
     - When a proposal is created by someone outside of the PI's department, they are assigned the "creator" role. If that creator needed to be switched to a team role (Co-PI, Proposal Team), currently the button to allow that person to have their responsible org assigned and given a credit % is disabled.  This has been fixed and now the user can change themselves to another team role.
-<br>
 - **Automated Emails Only for Open Proposals**
     - If a proposal is not in the Open folder, automated emails will no longer be sent when a change is made on the proposal.
-
 - **"Type of Work" shown in Approver and Limited Views**
     - examples: "Proposal" or "Supplement"
 - **Submitted Proposal Details Warning Label only Displayed for Proposals/Supplements/Continuations**
     - Now that Pre-Proposals, White Papers, and Letter of Intents can be closed for reason of submitted by Proposal Team members (not just Pre Award associates), this section is open to more than just OSP to fill out and will not appear on Pre-Proposals, White Papers, and Letter of Intents.
     ![Submission Details Banner](images/releaseNotes/SubmissionDetailsBanner.jpg)
-<br>
 - **Improved functionality on Bulk Operations**
     - View documentation on the feature [here](data/Data Exports.md).
     ![Bulk Operations Location](images/releaseNotes/bulkOperations.jpg)
-<br>
 - **Various Small Bug Fixes**
+
 <br>
 
 # Release 2.0.0 - August 2017
