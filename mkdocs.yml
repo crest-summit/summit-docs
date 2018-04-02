@@ -6,8 +6,8 @@ pages:
 - Home: 'index.md'
 - Navigation:
   - 'General': 'Navigation/general.md'
+  - 'Work Navigation': 'Navigation/proposal.md'
   - 'Internal Notifications': 'Navigation/notifications.md'
-  - 'Proposal Navigation': 'Navigation/proposal.md'
   - 'Summary View Indicators': 'Navigation/indicators.md'
   - 'User Preferences': 'Navigation/preferences.md'
 - Data:

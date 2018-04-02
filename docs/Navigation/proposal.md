@@ -1,7 +1,7 @@
-**Navigation / Proposal Navigation**
+**Navigation / Work Navigation**
 
-# Proposal Navigation Folders
-The Proposal Navigation is divided into several sub-items to facilitate management of the individual User’s work.
+# Work Navigation
+Summit navigation is divided into several sub-items to facilitate management of the individual User’s work.
 
 ![Navigation Folders](../images/navigation/NavProp_Navigation.jpg)
 
@@ -28,7 +28,7 @@ For the **Support Team** All Open contains:
 
 - A folder for each PI who has an open proposal with the User listed as Support Staff, Support Staff Lead or Creator.  These could be PIs in other departments when the User is listed as Support Staff for a proposal with a PI from a different department (i.e., if faculty from the User’s department is listed as Co-PI)
 
-- NOTE:  Co-PIs do not have a folder, only PIs.  
+        NOTE:  Co-PIs do not have a folder, only PIs.  
 
 For the **Proposal Team** All Open contains:
 
@@ -36,7 +36,7 @@ For the **Proposal Team** All Open contains:
 
 -	A folder for each PI who has an open proposal with the User listed as PI, Co-PI, Proposal Team Member or Creator.  These could be PIs in other departments when the User is listed as Co-PI, Proposal Team Member or Creator for a proposal with a PI from a different department.  
 
--	NOTE:  Co-PIs do not have a folder, only PIs.
+        NOTE:  Co-PIs do not have a folder, only PIs.
 
 ## Awaiting Banner
 The "Awaiting Banner" navigation item within the Submissions folder displays all proposals (including supplements and continuations) that have recently been submitted and finalized by Pre Award from the All Open navigation item, but have yet to be entered into Banner by the Processors.
@@ -63,3 +63,5 @@ The Summary Pane for Closed proposals includes the following information for eac
 The “All Closed” navigation item displays all closed proposals, on which the User is listed as part of the Support Staff or Proposal Team regardless of the role or Submitting Org.   Proposals in All Closed are displayed in order by closure date, with the most recent on top.
 
 ![All Closed](../images/navigation/NavProp_AllClosed.jpg)
+
+<br>

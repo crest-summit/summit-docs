@@ -16,6 +16,8 @@
 
 <br>
 
+-----
+
 # Release 2.3.0 - March 2018
 - **User Preferences** - Updated interface and added functionality for a user's preferences, specifically email notifications.  For more details, click [Here](Navigation/preferences.md).
 ![User Preferences](images/releaseNotes/userPreferences.jpg)
@@ -29,6 +31,8 @@
     - Type of Work field now read-only when In-Routing and Beyond.
 
 <br>
+
+-----
 
 # Release 2.2.0 - February 2018
 
@@ -53,6 +57,8 @@
     ![Credit Organization](images/releaseNotes/creditOrg.jpg)
 <br>
 
+-----
+
 # Release 2.1.0 - September 2017
 
 - **Status added to History Log**
@@ -72,6 +78,8 @@
 - **Various Small Bug Fixes**
 
 <br>
+
+-----
 
 # Release 2.0.0 - August 2017
 
@@ -137,6 +145,8 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 
 <br>
 
+-----
+
 # Release 1.4.0 - May 2017
 
 - Limited View Access for Submitted Proposal
@@ -149,6 +159,8 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 - Various bug fixes
 
 <br>
+
+-----
 
 # Release 1.3.0 - March 2017
 

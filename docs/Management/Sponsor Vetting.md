@@ -6,15 +6,15 @@ For general information about Sponsor Navigation, see the Management/Sponsors se
 The following **10 step process** should be followed when Vetting a Sponsor.  
 
 ## 1. Confirm Actual Sponsor Name
-A. Use the Associated Proposal Summary to view RFP (if available) to confirm sponsor full name and/or consult with the assigned Pre-Award Associate  
+  A. Use the Associated Proposal Summary to view RFP (if available) to confirm sponsor full name and/or consult with the assigned Pre-Award Associate  
 
 ![Associated Proposal Summary](../images/management/ManVet_AssocSum.jpg)
 
-B. To access the full proposal, click on Proposal Navigation Item and choose All Open or All Closed (depending upon the proposal status).  Use the Search field to search by the Proposal label, Proposal ID, PI or Pre-Award Associate
+  B. To access the full proposal, click on Proposal Navigation Item and choose All Open or All Closed (depending upon the proposal status).  Use the Search field to search by the Proposal label, Proposal ID, PI or Pre-Award Associate
 
-C. Search internet for sponsor website to determine full/real name
+  C. Search internet for sponsor website to determine full/real name
 
-D. Use Sponsor naming rules described in Management/Tools under "Sponsor Editor Fields/Name" to complete the Name field.
+  D. Use Sponsor naming rules described in Management/Tools under "Sponsor Editor Fields/Name" to complete the Name field.
 
 ## 2. Verify Sponsor is Not in Summit
 A. Search Promoted List to determine if the sponsor has already been vetted under a different name.   Use the search field to search by variations of the name and abbreviation to ensure there will be no duplicate Promoted Sponsors.  

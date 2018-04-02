@@ -24,8 +24,8 @@ Each new submission to a sponsor requires the Type of Work to be identified with
 - Letter of Intent: Notice to the Sponsor of intent to submit a Proposal.
 - Pre-Proposal: A statement of work and/or budget sent to the Sponsor before a Proposal that does not result in an award.
 - Proposal: A full statement of work and budget sent to the Sponsor that may result in an award.
-- Supplement: Adding additional funds for additional work on a current award without adding additional time to the project period.
-- Continuation: Adding additional funds and additional time for additional work on a current award.
+- Supplement: Adding additional funds for additional work on a current award WITHOUT adding additional time to the project period.
+- Continuation: Adding additional funds AND additional time for additional work on a current award.
 
 The options to Advance depend upon the Type of Work.  The following shows which types can be advanced to which:
 
