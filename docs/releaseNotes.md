@@ -7,6 +7,7 @@
 - **Small Updates**
     - Proposal Team section
         - Percent credit can only be in whole numbers and the total needs to be a 100% to adhere to the Banner system.  An error message will display if either are incorrect.
+    - Two additional Conflict of Interest (COI) questions
     - Various Bug Fixes
     - General Information section
         - "Proposal Label" renamed to "Work Label"
