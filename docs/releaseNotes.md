@@ -1,6 +1,6 @@
 # Release 2.4.0 - April 2018
 - **Email Notifications**
-    - Work Initiation emails will now also be sent to the Principle Investigator at time of work creation.  This means when a user creates a work in Summit (New or Advanced), an email will be sent to the Creator, Pre Award assignee, and the Principle Investigator.
+    - Work Initiation emails will now also be sent to the Principal Investigator at time of work creation.  This means when a user creates a work item in Summit (New or Advanced), an email will be sent to the Creator, Pre Award assignee, and the Principal Investigator.
 - **Summary Pane Additions**
     - The work identifier and type of work will now display in the summary pane.
 ![Summary Pane New Line](images/releaseNotes/summaryPane.jpg)
