@@ -58,3 +58,5 @@ At any time after a file is uploaded, any User may indicate that this file will 
 ![Include in Submission Action](../images/data/DataBud_SubmitToSponsor.jpg)
 
 After a file is marked for submission to sponsor, the gear menu will include the option to “Exclude from Submission.”  Choosing this action will remove the indicator from the file.
+
+<br>

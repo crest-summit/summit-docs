@@ -68,3 +68,5 @@ After selecting the details of the operation, the User can click next to confirm
 The downloaded document, if in excel format will include many data fields in the columns and the selected proposal data across the rows:
 
 ![Downloaded Excel Document Example](../images/reporting/RepEx_Download.jpg)
+
+<br>

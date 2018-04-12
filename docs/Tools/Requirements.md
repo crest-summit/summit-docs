@@ -190,3 +190,5 @@ An interactive log of every requirement in the proposal is located to the left o
 The Requirements log includes the status, completion state, item details, location and last updated information.  The status and completion status can be updated from this view.  Clicking on the location will take the User to the item in the proposal Editor.
 
 ![Requirments Log](../images/tools/ToolReq_ReqLog.jpg)
+
+<br>

@@ -135,3 +135,5 @@ The Office of Research Education and Administrative Compliance (OREAC) works clo
 3. If the Sponsor is not currently in Summit, Create a new sponsor.  Follow the steps above for “Promoting a Sponsor.”   All required fields must be complete before the sponsor can be saved and created.
 
 ![Creating New Faculty Owned Business](../images/management/ManVet_NewFOB.jpg)
+
+<br>

@@ -69,3 +69,5 @@ When the person designated as the DEFAULT assignee is marked Unavailable, a back
 
 If a Back-Up DEFAULT Assignee is not designated when the Primary DEFAULT assignee is Unavailable, all proposals that would be assigned to the DEFAULT will continue to be assigned to the Primary DEFAULT assignee even though that person is marked as Unavailable.   
 The Primary DEFAULT Assignee should not be temporarily changed.  The Back-Up option should be utilized each time the Primary DEFUALT Assignee is Unavailable.
+
+<br>

@@ -73,3 +73,5 @@ The Comments Log includes a log of all system generated messages.
 -	Notification there was a failure to create EFD folder.  This is the internal OSP file used to store documents outside the system.  The message is for OSP use.
 
 ![System Message Example](../images/tools/ToolCom_SystemMessage.jpg)
+
+<br>

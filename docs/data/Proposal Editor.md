@@ -161,3 +161,5 @@ This section contains data about the proposal useful for Virginia Tech managemen
 ![Proposal Management section](../images/data/DataEd_PropManSection.jpg)
 
 The Submitted Proposal Details section must be completed before a Proposal can be closed with the reason of Submitted.
+
+<br>

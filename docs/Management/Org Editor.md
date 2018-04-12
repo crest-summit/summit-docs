@@ -111,3 +111,5 @@ Proposals (open or closed) associated with a deactivated org will have two indic
 - The org field will include [inactive] before the name.
 
 ![Inactive Org Designation in Editor](../images/management/ManOrg_InactiveInEditor.jpg)
+
+<br>

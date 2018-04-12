@@ -79,3 +79,5 @@ When a User updates the status of a Budget Development document, the other Full 
 ![Change Status Notification](../images/navigation/NavNot_DocStatus.jpg)
 
 See Budget Development section below for more information on status changes.
+
+<br>

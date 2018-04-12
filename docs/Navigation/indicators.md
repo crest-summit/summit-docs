@@ -89,3 +89,5 @@ When a proposal is color tagged, the User will see the colors in the summary pan
 ![Color Tag Locations](../images/navigation/NavProp_ColorTagLocations.jpg)
 
 Color tags can be removed by unchecking the color in either the right click menu or the action menu.
+
+<br>

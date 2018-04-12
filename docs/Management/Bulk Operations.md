@@ -150,3 +150,5 @@ This option allows the User to change the Back-Up Assignment for the selected Or
 
 ## Org Confirm / Process / Finish
 After selecting the details of the operation, the User can click next to confirm and finish the bulk operation.  After the User clicks “Confirm,” there is no “undo” button.  To undo the action, the User will need to perform another bulk operation to reverse the previous action.
+
+<br>

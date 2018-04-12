@@ -31,7 +31,7 @@ The second screen requires the user to identify the Type of Work that is being c
 - **Supplement:** Adding additional funds for additional work on a current award WITHOUT adding additional time to the project period
 - **Continuation:** Adding additional funds AND additional time for additional work on a current award
 
-    Note: When advancing to the same type of work, it is considered a revision.  Only on proposals is revision appended to the type, to show "Proposal (Revision)". 
+    Note: When advancing to the same type of work, it is considered a revision.  Only on proposals is revision appended to the type, to show "Proposal (Revision)".
 
 # Details
 The next screen prompts the User to complete basic data about the proposal.  Depending upon the answers to some of the questions, additional fields are available to enter more information or attach documents.  
@@ -132,3 +132,5 @@ Before the Proposal can be initiated, the Confirm section at the bottom of the R
 After Initiating the Proposal, the wizard confirms the proposal was received and provides a summary of the proposal information.  From this screen the User can return to the Dashboard.
 
 ![Initiator Finish](../images/navigation/NavIni_Finish.jpg)
+
+<br>

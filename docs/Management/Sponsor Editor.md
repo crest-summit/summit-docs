@@ -189,3 +189,5 @@ A User associates keywords with a sponsor by typing the keyword in the keyword f
 When a sponsor has a keyword associated with it, the proposal editor indicates the keyword under the sponsor field:
 
 ![Sponsor Keyword in Editor](../images/management/ManSpo_EditorKeyword.jpg)
+
+<br>

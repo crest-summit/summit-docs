@@ -80,3 +80,5 @@ At the bottom left of the Files Log, Pre-Award Users will see an option to show 
 The action gear menu on a deleted file has the option to Restore the file.  Doing so will "undelete" the file and it will then appear in the File Log and Editor as it did before it was deleted.
 
 ![Restore deleted files](../images/tools/ToolFile_Restore.jpg)
+
+<br>

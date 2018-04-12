@@ -23,3 +23,5 @@ All types of work in that cycle can be accessed from any another work while havi
 ### Revision Handeling
 
 The only type of work that displays "(Revision)" next to the type of work are on proposals that have been advanced from a proposal.  Any other type of work advanced to itself will not display "(Revision)".
+
+<br>
