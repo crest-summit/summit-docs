@@ -1,8 +1,8 @@
 # Release 2.5.0 - May 2018
 - Action menu Redesign/Restrictions
-    - Proposal revisions can only be initiated from open proposals after they have been submitted to the sponsor.
     - Proposals can be duplicated (copied) only while in Preparing status (before routing for approval).
-    - Supplements or continuations can be initiated only for proposals that have been awarded by the sponsor.
+    - Revisions can only be initiated from proposals, supplements, and continuations after they have been submitted to the sponsor.
+    - Supplements or continuations can be initiated only from proposals that have been awarded by the sponsor.
     - Submitted LOIs, white papers and pre-proposals can be "advanced" to a higher level of a type of work:
         - You can initiate a new proposal by advancing a submitted pre-proposal, LOI or white paper, etc.
         - You can initiate a new pre-proposal by advancing a submitted LOI and white paper.
