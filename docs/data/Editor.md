@@ -1,11 +1,16 @@
-**Data / Proposal Editor**
+**Data / Editor**
 
-The Proposal Editor contains topical sections for proposal data and checklists.  After Proposal Initiation, the Proposal Editor contains all of the information provided in the Initiator and also includes additional fields and sections.  The following is a brief overview of the additional sections and features of the Proposal Editor.
+The Editor contains topical sections for proposal data and checklists.  After Work Initiation, the Editor contains all of the information provided in the Initiator and also includes additional fields and sections.  The following is a brief overview of the additional sections and features of the Editor.
+
+# General Information
+The General Information section contains fields that
+
+![General Information](../images/data/DataEd_GeneralInfo.jpg)
+
 # Personnel
 In the Editor, the Personnel section is split into four sections:  The Submitting Org, the Proposal Team, the Support Staff, and the Personnel Requirements.
 
-## The Submitting Organization
-This field contains the Submitting Organization included in the Proposal Initiation.  If it is different from the PI Home Org, the option is provided to change it back to PI Home Org.
+**Submitting Organization** - This field contains the Submitting Organization included in the Proposal Initiation.  If it is different from the PI Home Org, the option is provided to change it back to PI Home Org.
 
 ![Submitting Organization](../images/data/DataEd_SubmitOrg.jpg)
 
@@ -15,8 +20,7 @@ If the Submitting Organization is changed in the Proposal Editor:
 
 For further details on searching for, choosing and creating an organization, see the Data/Initiator section.
 
-## Proposal Team
-The Proposal Team section initially includes only the PI that was choosen in the Proposal Initiator.  Additional Team Members can be added by clicking the “Add Proposal Team Member” button.
+**Proposal Team** - The Proposal Team section initially includes only the PI that was choosen in the Proposal Initiator.  Additional Team Members can be added by clicking the “Add Proposal Team Member” button.
 
 ![Proposal Team](../images/data/DataEd_PropTeam.jpg)
 
@@ -34,9 +38,7 @@ Though all the fields are editable, there are several validations that will prev
 
  ![Multiple PI Error Message](../images/data/DataEd_MultiplePIError.jpg)
 
-
-## Support Staff
-Support Staff includes the assigned Pre-Award Associate as well as any department or college administrative personnel to whom the organization has granted access.  
+**Support Staff** - Support Staff includes the assigned Pre-Award Associate as well as any department or college administrative personnel to whom the organization has granted access.  
 
 ![Support Staff](../images/data/DataEd_SupportStaff.jpg)
 
@@ -50,8 +52,7 @@ Support Staff can be designated as Support Staff Lead.   This role indicates tha
 
 ![Support Staff Lead](../images/data/DataEd_SupportStaffLead.jpg)
 
-## Access Levels
-All personnel are given full access by default when they are added to the proposal.  This means that they have full access to view, edit, save and perform proposal actions.  Persons given limited access will only have access to see a summary view of the proposal.  PI’s cannot be given limited access.  If the User tries to change their own or the PI’s access from Full to Limited they will receive the following error message:  
+**Access Levels** - All personnel are given full access by default when they are added to the proposal.  This means that they have full access to view, edit, save and perform proposal actions.  Persons given limited access will only have access to see a summary view of the proposal.  PI’s cannot be given limited access.  If the User tries to change their own or the PI’s access from Full to Limited they will receive the following error message:  
 
 ![Access Error](../images/data/DataEd_AccessError.jpg)
 
@@ -63,14 +64,12 @@ The User will see the "eye" icon indicating View Only on the Summary View for an
 
 ![Limited View Summary Pane Indicator](../images/data/DataEd_LimitedIcon.jpg)
 
-## Personnel Requirements
-Within the Personnel Section is a Requirements Subsection listing all requirements regarding personnel that need to be reviewed before the proposal is submitted.  See the Tools/Requirements section for more information on using the Requirements feature.
+**Personnel Requirements** - Within the Personnel Section is a Requirements Subsection listing all requirements regarding personnel that need to be reviewed before the proposal is submitted.  See the Tools/Requirements section for more information on using the Requirements feature.
 
 ![Personnel Requirements Section](../images/data/DataEd_PersonnelReq.jpg)
 
 # Submission Information
-## Instructions and Instruction Requirements
-The Submission Information Instructions Subsection includes data fields describing the submission instructions such as how and when the proposal must be submitted and any specific requirements such as a solicitation or master agreement.  See the Tools/Requirements section for more information on using the Requirements feature.
+**Instructions and Instruction Requirements** - The Submission Information Instructions Subsection includes data fields describing the submission instructions such as how and when the proposal must be submitted and any specific requirements such as a solicitation or master agreement.  See the Tools/Requirements section for more information on using the Requirements feature.
 
 The first field in the Submission Information section is the Type of Work.  If the proposal has been Advanced from a previous proposal, the next field is read only text identifying the work from which it was advanced.
 
@@ -82,11 +81,9 @@ Answering yes to the questions in this section will create new requirements else
 
 The first item in the Submission Instruction Requirements list asks if there are any unique RFP Instructions or Submission Requirements.  This item should be used to communicate and track unique requirements such as specific file types to be emailed or if there are different deadlines for separate sections of the proposal.
 
-## Policy
-This subsection contains checklist and data for OSP personnel to manage the status of the proposal.  The Administrative Documents Received Checklist item tracks the receipt of documents in compliance with OSP Policy 10-01. Administrative documents can be attached here and the notes feature used to communicate about them.  The SPAF should be attached to the Administrative Documents checklist item.   See the Tools/Requirements section for more information on using the Requirements feature.
+**Policy** - This subsection contains checklist and data for OSP personnel to manage the status of the proposal.  The Administrative Documents Received Checklist item tracks the receipt of documents in compliance with OSP Policy 10-01. Administrative documents can be attached here and the notes feature used to communicate about them.  The SPAF should be attached to the Administrative Documents checklist item.   See the Tools/Requirements section for more information on using the Requirements feature.
 
-## Science and Technical Documents
-This subsection currently includes only a checklist item for Technical Documents Received.  Except for proposals being submitted through Cayuse or Fastlane, the Support Staff User must attach the proposal documents to be submitted to the sponsor in the Technical Documents checklist item.  This should include the full proposal the Pre-Award Associate will submit to the sponsor.  The checklist is marked complete to track compliance with OSP Policy 10-01. See the Tools/Requirements section for more information on using the Requirements feature.
+**Science and Technical Documents** - This subsection currently includes only a checklist item for Technical Documents Received.  Except for proposals being submitted through Cayuse or Fastlane, the Support Staff User must attach the proposal documents to be submitted to the sponsor in the Technical Documents checklist item.  This should include the full proposal the Pre-Award Associate will submit to the sponsor.  The checklist is marked complete to track compliance with OSP Policy 10-01. See the Tools/Requirements section for more information on using the Requirements feature.
 
 # Budget
 If a Budget Request was made during the Proposal Initiation, the information displays in this section.  If no Budget Request was made, the option to request a budget is available:
@@ -99,8 +96,7 @@ Requesting a budget will open a dialogue box similar to the Initiate Proposal wi
 
 After a Budget Request is made, this section will display the data fields associated with the budget, including new fields that will need to be completed.
 
-## Development and Requirements
-The Budget Development subsection contains the budget documents and budget details included in the original budget request information.  The Budget Development Requirements subsection includes a list of standard proposal requirements relating to the budget.  Answering yes to the questions in this section will create new items requirements section.  For example, if there is a "yes" answer to "Subcontracts" the subcontractor section will become active and when there is a "yes" answer for "Does this budget involve Special Administrative Costs?" a new item will be added to the budget development requirements.
+**Development and Requirements** - The Budget Development subsection contains the budget documents and budget details included in the original budget request information.  The Budget Development Requirements subsection includes a list of standard proposal requirements relating to the budget.  Answering yes to the questions in this section will create new items requirements section.  For example, if there is a "yes" answer to "Subcontracts" the subcontractor section will become active and when there is a "yes" answer for "Does this budget involve Special Administrative Costs?" a new item will be added to the budget development requirements.
 
 ![Special Admin Costs Requirement](../images/data/DataEd_SpecialAdminReq.jpg)
 
@@ -108,13 +104,11 @@ The Budget Development Requirement is a special requirement with enhanced capabi
 
 ![Budget Development](../images/data/DataEd_BudgetDev.jpg)
 
-## Totals
-The Totals subsection includes fields to input the final direct and indirect amounts from the final approved budget that will be submitted to the Sponsor.  The additional fields for Total Costs and Total Cost Share are automatically calculated.  The Total Costs sums the Total Direct and Indirect fields and the Total Cost Share sums the Cost Share budget entries.
+**Totals** - The Totals subsection includes fields to input the final direct and indirect amounts from the final approved budget that will be submitted to the Sponsor.  The additional fields for Total Costs and Total Cost Share are automatically calculated.  The Total Costs sums the Total Direct and Indirect fields and the Total Cost Share sums the Cost Share budget entries.
 
 ![Budget Totals Section](../images/data/DataEd_Totals.jpg)
 
-## Cost Share
-The Cost Share subsection includes general fields describing the nature of the cost share as well as fields detailing the specific sources of the cost share commitment.  
+**Cost Share** - The Cost Share subsection includes general fields describing the nature of the cost share as well as fields detailing the specific sources of the cost share commitment.  
 
 The general fields include indicating if there is cost share and if it is a requirement from the sponsor or a voluntary inclusion in the budget to enhance proposal competability.  If it is voluntary, a budget requirement will be created as a reminder to include the approval for such voluntary cost sharing.  The Requirement field is for describing the exact sponsor requirement for the amount of cost share to be included in the budget.
 
@@ -160,6 +154,6 @@ This section contains data about the proposal useful for Virginia Tech managemen
 
 ![Proposal Management section](../images/data/DataEd_PropManSection.jpg)
 
-The Submitted Proposal Details section must be completed before a Proposal can be closed with the reason of Submitted.
+The Submitted Proposal Details section must be completed before a Proposal, Supplement, or Continuation can be finalized and moved to the Submissions folder.
 
 <br>

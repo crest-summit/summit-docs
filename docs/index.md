@@ -20,12 +20,12 @@ The tabs at the top will take you to the specific topics within the User Guide (
 - Navigation
     - [General](Navigation/general.md)
     - [Internal Notifications](Navigation/notifications.md)
-    - [Proposal Navigation](Navigation/proposal.md)
+    - [Work Navigation](Navigation/proposal.md)
     - [Summary View indicators](Navigation/indicators.md)
     - [User Preferences](Navigation/preferences.md)
 - Data
-    - [Initiator](data/Proposal Initiator.md)
-    - [Proposal Editor](data/Proposal Editor.md)
+    - [Initiator](data/Initiator.md)
+    - [Editor](data/Editor.md)
     - [Budget Development](data/Budget Development.md)
     - [Exporting Data](data/Data Exports.md)
 - Toolbar
