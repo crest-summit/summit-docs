@@ -80,14 +80,13 @@ Several Key videos:
     - **Workaround**: The PI should work with their department to update Banner to add their home org or add a default home org in their manage preferences (see [Manage Preferences](Navigation/preferences.md)).
 - Notifications on Cost Share and Subcontractors
     - Due to the Cost Share and Subcontractor sections being tabulated, it is currently not possible for the notifications to scroll to a particular comment within these two sections.  It will only scroll if the comment happens to be on the tab that is currently open.  If the comment is on a tab that is not open, it will open the comment thread at the top right of the proposal screen.
-- CAS Forbidden Login Message
-    - If you login to Summit and CAS is set to 7 day reminder; then logout of Summit/CAS, then try to log back into Summit again, the Forbidden Access message will appear.
-    - **Workaround**: Refresh the page
+- Named Proposal Team members (PI, Co-PI, Proposal Team member) who are also support staff members from an organization, will not have the "Add/Remove Lead Support" functionality in the Actions menu.
+    - **Workaround**: As a proposal team member, you can simulate the same effect of adding the lead support, by clicking the star icon to add the work to your favorites, this will move the work into your My Open.  To simulate removing lead support, you can do the opposite, which removes the work from your My Open.
 
 <br>
 
 # FAQs
-**How do I add a support staff or approver on an org?**
+**How do I add a support staff or approver on an organization?**
 
 - The Department Head or Business Manager of the org in question should email <summitHelp@vt.edu> with the name of who they would like added and as what role type(s) (ex. support staff, support staff lead, approver, approver delegate).
 
