@@ -1,3 +1,12 @@
+# Release 2.6.0 - June 2018
+- **Admin review**
+- **Permalinks**
+- **Small Updates**
+
+<br>
+
+-----
+
 # Release 2.5.0 - May 2018
 - Action menu Redesign/Restrictions
     - Proposals can be duplicated (copied) only while in Preparing status (before routing for approval).
