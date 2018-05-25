@@ -31,8 +31,8 @@ If a proposal has been marked as submitted but not yet closed, a submitted icon 
 # Proposal Editor View Status Indicators
 The Proposal Editor Header displays several status indicators as applicable:
 
-##Admin Review Status
-When a proposal is in Admin Review, the status will display in the header.  The label is displayed in My Open, All Open and Admin Review navigation items.
+##Admin Review Label
+When a proposal is in Admin Review, the label will display in the header.  The label is displayed in My Open, All Open and Admin Review navigation items.
 
 ![Admin Review in Header](../images/navigation/NavProp_HeaderAdminReview.jpg)
 
@@ -78,7 +78,7 @@ Each User can also use the “Remove me as lead support staff” action which wi
     Note: Only support staff marked as Lead Support Staff will receive internal notifications on a proposal.
 
 # Color Tags
-An optional feature that allows the User to color code each proposal is available through the color tag feature.  The color tags can be by the action menu while in the proposal:
+An optional feature that allows the User to color code each proposal is available through the color tag feature.  The color tags can be accessed through the action menu while in the proposal:
 
 ![Choosing Color Tags](../images/navigation/NavProp_ChoosingColorTags.jpg)
 
@@ -88,6 +88,6 @@ When a proposal is color tagged, the User will see the colors in the summary pan
 
 ![Color Tag Locations](../images/navigation/NavProp_ColorTagLocations.jpg)
 
-Color tags can be removed by unchecking the color in either the right click menu or the action menu.
+Color tags can be removed the same way they were added, by clicking the one added through the Action menu while in the proposal.
 
 <br>

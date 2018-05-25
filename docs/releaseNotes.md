@@ -1,7 +1,12 @@
 # Release 2.6.0 - June 2018
-- **Admin review**
+- **Admin Review**
+    - Admin Review is now a label that can be displayed along side the status and will not not hinder the routing/approval process or the closure of a work.
 - **Permalinks**
+    - Email notifications will now display a URL link that will take the user directly to the proposal or approval in Summit.
 - **Small Updates**
+    - Summary pane auto loads
+        - A user in the past had to select to load the next 15 proposals when reaching the bottom of the summary pane, but this will now be done automatically as the user scrolls down.
+    - Budget Labels renamed
 
 <br>
 

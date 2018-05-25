@@ -50,6 +50,8 @@ The tabs at the top will take you to the specific topics within the User Guide (
 
 <br>
 
+-----
+
 # Help
 For questions about a specific proposal, contact the Pre-Award Associate listed in the proposal support staff section
 
@@ -59,7 +61,9 @@ To report an error message, contact [4Help](https://vt4help.service-now.com/sp) 
 
 <br>
 
-# Video Tutorials
+-----
+
+# <img src="../images/video.png" alt="Warning" style="float:left; width:39px; height:39px; "> Video Tutorials
 Access short videos, as well as longer overviews and demonstrations, showing how to use specific functions in Summit on the [Summit Help You Tube channel](https://www.youtube.com/channel/UC882QBwFDrfXbILKRvq2aiA) or see a list of all videos [here](videos.md) .
 
 Several Key videos:
@@ -75,6 +79,8 @@ Several Key videos:
 
 <br>
 
+-----
+
 # <img src="../images/warning.png" alt="Warning" style="float:left; width:39px; height:39px;"> Known Issues
 - Proposal creation fails when a PI does not have a home org in Banner or default home org in Summit.  
     - **Workaround**: The PI should work with their department to update Banner to add their home org or add a default home org in their manage preferences (see [Manage Preferences](Navigation/preferences.md)).
@@ -84,6 +90,8 @@ Several Key videos:
     - **Workaround**: As a proposal team member, you can simulate the same effect of adding the lead support, by clicking the star icon to add the work to your favorites, this will move the work into your My Open.  To simulate removing lead support, you can do the opposite, which removes the work from your My Open.
 
 <br>
+
+-----
 
 # FAQs
 **How do I add a support staff or approver on an organization?**
