@@ -46,7 +46,7 @@ function Uploader(bucketName) {
             client.s3.addExpect100Continue = function() {};
 
             const params = {
-                localDir : "dist",
+                localDir : "site",
                 deleteRemoved : true,
                 s3Params : {
                     Bucket : this.bucketName
