@@ -14,13 +14,16 @@ stages:
   - prod-deploy
 
 build:
+  stage: build
   image: docker
   script:
     - docker image build -t summit/docs:$CI_COMMIT_SHA
     
 dev-deploy:
   stage: dev-deploy
-  environment: dev
+  environment: 
+    name: dev
+    url: https://docs.dev.summit.cloud.vt.edu
   only:
     - master
   image: summit/docs:$CI_COMMIT_SHA
@@ -33,7 +36,9 @@ dev-deploy:
 
 pprd-deploy:
   stage: pprd-deploy
-  environment: pprd
+  environment: 
+    name: pprd
+    url: https://docs.pprd.summit.cloud.vt.edu
   when: manual
   only:
     - master
@@ -47,7 +52,9 @@ pprd-deploy:
 
 prod-deploy:
   stage: prod-deploy
-  environment: production
+  environment: 
+    name: production
+    url: https://docs.summit.cloud.vt.edu
   when: manual
   only:
     - master
