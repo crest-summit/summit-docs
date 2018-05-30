@@ -1,0 +1,15 @@
+{
+  "name": "summit-docs",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@git.it.vt.edu:crest/summit-docs.git"
+  },
+  "private": true,
+  "dependencies": {
+    "@faceleg/s3": "^4.5.0",
+    "aws-sdk": "^2.248.1",
+    "express": "^4.16.3",
+    "readline": "^1.3.0"
+  }
+}

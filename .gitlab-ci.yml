@@ -13,32 +13,23 @@ stages:
   - pprd-deploy
   - prod-deploy
 
-before_script:
-  - aws configure set preview.cloudfront true
-
 build:
-  before_script:
-    - /bin/true  # override global before_script
-  stage: build
-  image: moird/mkdocs
+  image: docker
   script:
-    - mkdocs build --clean
-    - rm -rf site/images-notconverted
-  artifacts:
-    name: site-build
-    expire_in: 1 week
-    paths:
-      - site/
+    - docker image build -t summit/docs:$CI_COMMIT_SHA
     
 dev-deploy:
   stage: dev-deploy
   environment: dev
   only:
     - master
-  image: summit/ops
+  image: summit/docs:$CI_COMMIT_SHA
   script:
-    - aws s3 sync --delete site/ s3://${DEV_BUCKET_NAME}/
-    - aws cloudfront create-invalidation --distribution-id ${DEV_DISTRIBUTION_ID} --paths "/releaseNotes/*"
+    - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
+    - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
+    - export S3_BUCKET_NAME=$DEV_BUCKET_NAME
+    - export CLOUDFRONT_DISTRIBUTION_ID=$DEV_DISTRIBUTION_ID
+    - node ./deploy.js
 
 pprd-deploy:
   stage: pprd-deploy
@@ -46,10 +37,13 @@ pprd-deploy:
   when: manual
   only:
     - master
-  image: summit/ops
+  image: summit/docs:$CI_COMMIT_SHA
   script:
-    - aws s3 sync --delete site/ s3://${PPRD_BUCKET_NAME}/
-    - aws cloudfront create-invalidation --distribution-id ${PPRD_DISTRIBUTION_ID} --paths "/releaseNotes/*"
+    - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
+    - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
+    - export S3_BUCKET_NAME=$PPRD_BUCKET_NAME
+    - export CLOUDFRONT_DISTRIBUTION_ID=$PPRD_DISTRIBUTION_ID
+    - node ./deploy.js
 
 prod-deploy:
   stage: prod-deploy
@@ -57,7 +51,10 @@ prod-deploy:
   when: manual
   only:
     - master
-  image: summit/ops
+  image: summit/docs:$CI_COMMIT_SHA
   script:
-    - aws s3 sync --delete site/ s3://${PROD_BUCKET_NAME}/
-    - aws cloudfront create-invalidation --distribution-id ${PROD_DISTRIBUTION_ID} --paths "/releaseNotes/*"
+    - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
+    - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
+    - export S3_BUCKET_NAME=$PROD_BUCKET_NAME
+    - export CLOUDFRONT_DISTRIBUTION_ID=$PROD_DISTRIBUTION_ID
+    - node ./deploy.js
