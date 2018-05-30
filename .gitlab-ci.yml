@@ -32,6 +32,7 @@ dev-deploy:
     - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
     - export S3_BUCKET_NAME=$DEV_BUCKET_NAME
     - export CLOUDFRONT_DISTRIBUTION_ID=$DEV_DISTRIBUTION_ID
+    - cd /app
     - node ./deploy.js
 
 pprd-deploy:
@@ -48,6 +49,7 @@ pprd-deploy:
     - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
     - export S3_BUCKET_NAME=$PPRD_BUCKET_NAME
     - export CLOUDFRONT_DISTRIBUTION_ID=$PPRD_DISTRIBUTION_ID
+    - cd /app
     - node ./deploy.js
 
 prod-deploy:
@@ -64,4 +66,5 @@ prod-deploy:
     - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
     - export S3_BUCKET_NAME=$PROD_BUCKET_NAME
     - export CLOUDFRONT_DISTRIBUTION_ID=$PROD_DISTRIBUTION_ID
+    - cd /app
     - node ./deploy.js
