@@ -17,7 +17,7 @@ build:
   stage: build
   image: docker
   script:
-    - docker image build -t summit/docs:$CI_COMMIT_SHA
+    - docker image build -t summit/docs:$CI_COMMIT_SHA .
     
 dev-deploy:
   stage: dev-deploy
