@@ -19,9 +19,9 @@ The tabs at the top will take you to the specific topics within the User Guide (
 - Home
 - Navigation
     - [General](Navigation/general.md)
-    - [Work Navigation](Navigation/proposal.md)
+    - [Work Navigation](Navigation/navigation.md)
+    - [Indicators](Navigation/indicators.md)
     - [Internal Notifications](Navigation/notifications.md)
-    - [Summary View indicators](Navigation/indicators.md)
     - [User Preferences](Navigation/preferences.md)
 - Data
     - [Initiator](data/Initiator.md)

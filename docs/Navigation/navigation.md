@@ -1,4 +1,4 @@
-**Navigation / Work Navigation**
+**Navigation / Folder Navigation**
 
 # Work Navigation
 Summit navigation is divided into several sub-items to facilitate management of the individual User’s work.

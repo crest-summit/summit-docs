@@ -1,7 +1,7 @@
-**Navigation / Summary View Indicators**
+**Navigation / Indicators**
 
-# Proposal Summary View Indicators
-Within the Summary view for proposals, there are several indicators that will appear in specific circumstances as a quick reference for the User.
+# Summary View Indicators
+Within the Summary view, there are several indicators that will appear in specific circumstances as a quick reference for the User.
 
 ### New and Unviewed Proposals
 Within the User’s My Open Proposals, any newly created and unviewed proposals display in bold with a blue bar on the left side of the Summary.  This indicator only appears in My Open, not All Open or other navigation items.
@@ -13,56 +13,43 @@ If the proposal has a sponsor deadline in addition to a target due date, a calen
 
 ![Deadline in Summary](../images/navigation/NavProp_Deadline.jpg)
 
-### Administrative Review
-When a proposal is in Admin Review, a warning icon will display at the top right of the Summary View.  The icon appears in My Open and All Open navigation items.
+### Icons
+In the Summary View of Summit, most statuses in the Open folder have an associated icon that appears below the deadline and star.  Example below shows the icon for Approved.
 
-![Admin Review in Summary](../images/navigation/NavProp_AdminReview.jpg)
+![Approved Icon](../images/navigation/approvedIcon1.jpg)
 
-Proposals appear in Admin Review in the following circumstances:
--	When the Administrative and/or Technical Documents have not been marked received by OSP according to OSP Policy 10-01, the system will automatically mark the proposal for Administrative Review
--	The proposal has been manually marked for Administrative Review
-Pre-Award Management is responsible for reviewing all proposals in Admin Review and determining if they may be submitted.
+In the editor, the icon also appears next to the spelled out status, show below.  
 
-### Submitted but not Closed
-If a proposal has been marked as submitted but not yet closed, a submitted icon will display at the top right of the Summary View.  The Icon appears in the My Open and All Open navigation items
+![Approved Icon](../images/navigation/approvedIconStatus.jpg)
 
-![Submitted but Not Closed in Summary](../images/navigation/NavProp_SubNotClosed.jpg)
+All icons used in Summit are shown below and only in the Open folder.
 
-# Proposal Editor View Status Indicators
-The Proposal Editor Header displays several status indicators as applicable:
+<i class="fa fa-exclamation-triangle fa-2x"></i> &nbsp; &nbsp; = &nbsp; &nbsp; "Admin Review"
 
-##Admin Review Label
-When a proposal is in Admin Review, the label will display in the header.  The label is displayed in My Open, All Open and Admin Review navigation items.
+<i class="fa fa-link fa-2x"></i> &nbsp; &nbsp; = &nbsp; &nbsp; "In Routing"
 
-![Admin Review in Header](../images/navigation/NavProp_HeaderAdminReview.jpg)
+<i class="fa fa-check-circle-o fa-2x"></i>  &nbsp; &nbsp; = &nbsp; &nbsp; "Approved"
 
-##Submitted but not Closed
-When a proposal has been marked as Submitted (using the Action Menu) but not Closed, the status will display in the header.  The label is displayed in My Open and All Open.
+<span class="fa-stack ng-scope">
+    <i class="fa fa-share fa-stack-1x"></i>
+    <i class="fa fa-file-o fa-stack-2x"></i>
+  </span>  &nbsp; &nbsp; = &nbsp; &nbsp; "Submitted"
 
-![Submitted in Header](../images/navigation/NavProp_HeaderSubmitted.jpg)
+# Status / Labels
+In the Editor of Summit, the Header displays several status and label indicators.  One such example is of the "Submitted" status, as shown below.
 
-##Closed Reason
-When a proposal has been marked as Closed by Pre-Award, the reason for closure will display in the header.  The label is displayed in My Closed and All Closed (example below showes a proposal closed for Awarded and Abandoned).
+![Submitted Status](../images/navigation/submittedStatus.jpg)
 
-![Closed in Header](../images/navigation/NavProp_HeaderClosed.jpg)
+Every stage will display the status and/or a label indicating where it is in the process, except for the earliest stage after creating the work.  The earliest stage before routing, is called "Preparing" and no status or label is indicated.  Other than that, from "In Routing" to "Submission Finalized" onto "Awarded", while in the work in the top left of the header will display the status/label.
 
-while in **Open**:
-
-- Letter of Intents, White Papers, and Pre-Proposals can be closed for reason of **Abandoned or Submitted** (by Anyone)
-- Proposals, Supplements, and Continutations can be closed for reason of **Abandoned or Submission Denied** (by only Pre Award)
-
-while in **Pending Decision**:
-
-- Proposals, Supplements, and Continutations can be closed for reason of **Awarded, Declined, Withdrawn** (by only Pre Award)
-
-# Favorites
+### Favorites
 Each User can designate a specific proposal as a “favorite” by clicking on the star in the summary pane.  
 
 ![Favorites](../images/navigation/NavProp_Favorites.jpg)
 
 When the star is solid, it is a favorite.  Clicking on it again makes it an outline and “unfavorites” it.   Proposals designated as favorites will be in the user’s My Open proposals.
 
-# Lead Support Staff
+### Lead Support Staff
 Each support staff person can designate themselves as a lead support staff using the proposal action menu and choosing Mark Me As Lead Support. This moves the proposal into their “My Open” folder. There is no limit or minimum requirement to how many lead support staff are on a proposal.  
 
 ![Mark Me As Lead Action](../images/navigation/NavProp_MarkMe.jpg)
@@ -77,7 +64,7 @@ Each User can also use the “Remove me as lead support staff” action which wi
 
     Note: Only support staff marked as Lead Support Staff will receive internal notifications on a proposal.
 
-# Color Tags
+### Color Tags
 An optional feature that allows the User to color code each proposal is available through the color tag feature.  The color tags can be accessed through the action menu while in the proposal:
 
 ![Choosing Color Tags](../images/navigation/NavProp_ChoosingColorTags.jpg)
