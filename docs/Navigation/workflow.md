@@ -30,26 +30,26 @@ If a proposal has been marked as submitted (but not yet closed) while in Open, a
 ![Submitted Status](../images/navigation/submittedStatus1.jpg)
 
 ### Submission finalized
-Once a proposal has been submitted to the sponsor and all work has been completed by Pre Award in Summit, the proposal is transitioned to the Awaiting Banner folder and given the status of "Submission Finalized".  This is where the OSP Processors will then enter the proposal information into Banner for official record keeping.
+Once a proposal has been submitted to the sponsor and all work has been completed by Pre Award in Summit, the proposal is transitioned to the Awaiting Banner folder and given the status of "Submission Finalized".  This is where OSP Processors will then enter the proposal information into Banner for official record keeping.
 
 ![Submission Finalized Status](../images/navigation/submissionFinalizedStatus.jpg)
 
 ### Pending Decision
-After the proposal has been entered into Banner, it is transitioned to the Pending Decision folder and given the "Pending Decision" status where it awaits decision by the sponsor that the proposal was submitted too.
+After the proposal has been entered into Banner, it is transitioned to the Pending Decision folder and given the "Pending Decision" status where it awaits a decision by the sponsor.
 
 ![Pending Decision Status](../images/navigation/pendingDecisionStatus.jpg)
 
 ### Closed Reasons
-When a proposal has been marked as Closed by Pre-Award, the reason for closure will display in the header.  The label is displayed in My Closed and All Closed (example below showes a proposal closed for Awarded and Abandoned).
+When a proposal has been marked as Closed by Pre-Award, the reason for closure will display in the header.  The status is displayed in My Closed and All Closed (example below shows a proposal closed for Awarded and Abandoned).
 
 ![Closed in Header](../images/navigation/NavProp_HeaderClosed.jpg)
 
-while in **Open**:
+while in the **Open** folder:
 
 - Letter of Intents, White Papers, and Pre-Proposals can be closed for reason of **Abandoned or Submitted** (by Anyone)
 - Proposals, Supplements, and Continutations can be closed for reason of **Abandoned or Submission Denied** (by only Pre Award)
 
-while in **Pending Decision**:
+while in the **Pending Decision** folder:
 
 - Proposals, Supplements, and Continutations can be closed for reason of **Awarded, Declined, Withdrawn** (by only Pre Award)
 

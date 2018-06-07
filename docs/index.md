@@ -19,7 +19,8 @@ The tabs at the top will take you to the specific topics within the User Guide (
 - Home
 - Navigation
     - [General](Navigation/general.md)
-    - [Work Navigation](Navigation/navigation.md)
+    - [Folder Navigation](Navigation/navigation.md)
+    - [Workflow](Navigation/workflow.md)    
     - [Indicators](Navigation/indicators.md)
     - [Internal Notifications](Navigation/notifications.md)
     - [User Preferences](Navigation/preferences.md)
