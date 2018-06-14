@@ -2,7 +2,7 @@
 - **Admin Review changes**
     - Admin Review will now be a label.  
     - If triggered, it will be displayed along side the status and will not not hinder the routing/approval process or the closure of the work.
-![2 Tags](images/releaseNotes/2tags.jpg)
+![Admin and Routing](images/releaseNotes/adminAndRouting.jpg)
 - **Permalinks**
     - Email notifications will now display a URL link that will take the user directly to the proposal or approval in Summit when clicked.
 - **Small Updates**
