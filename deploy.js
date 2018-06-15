@@ -121,9 +121,10 @@ function invalidateCloudfront() {
         InvalidationBatch: {
             CallerReference: callerReference,
             Paths: {
-                Quantity: 1,
+                Quantity: 2,
                 Items: [
-                    "*",
+                    "/",
+                    "/*"
                 ]
             }
         }
