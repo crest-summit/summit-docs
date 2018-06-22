@@ -18,7 +18,7 @@ update-stack:
     on_stop: remove-from-stack
   image: node
   script:
-    - curl -X POST -F token=$ENV_REPO_TRIGGER_TOKEN -F ref=update-stack -F "variables[ACTION]=deploy" -F "variables[ENV_BRANCH]=${CI_COMMIT_REF_SLUG}" -F "variables[UPDATED_SERVICE]=docs" -F "variables[NEW_IMAGE]=summit/docs:${CI_COMMIT_SHA}" https://code.vt.edu/api/v4/projects/2182/trigger/pipeline
+    - curl -X POST -F token=$ENV_REPO_TRIGGER_TOKEN -F ref=update-stack -F "variables[ACTION]=deploy" -F "variables[ENV_BRANCH]=${CI_COMMIT_REF_NAME}" -F "variables[UPDATED_SERVICE]=docs" -F "variables[NEW_IMAGE]=summit/docs:${CI_COMMIT_SHA}" https://code.vt.edu/api/v4/projects/2182/trigger/pipeline
 
 remove-from-stack:
   stage: update-stack
@@ -30,4 +30,4 @@ remove-from-stack:
     action: stop
   image: node
   script:
-    - curl -X POST -F token=$ENV_REPO_TRIGGER_TOKEN -F ref=update-stack -F "variables[ACTION]=undeploy" -F "variables[ENV_BRANCH]=${CI_COMMIT_REF_SLUG}" -F "variables[UPDATED_SERVICE]=docs" -F "variables[NEW_IMAGE]=summit/docs:${CI_COMMIT_SHA}" https://code.vt.edu/api/v4/projects/2182/trigger/pipeline 
+    - curl -X POST -F token=$ENV_REPO_TRIGGER_TOKEN -F ref=update-stack -F "variables[ACTION]=undeploy" -F "variables[ENV_BRANCH]=${CI_COMMIT_REF_NAME}" -F "variables[UPDATED_SERVICE]=docs" -F "variables[NEW_IMAGE]=summit/docs:${CI_COMMIT_SHA}" https://code.vt.edu/api/v4/projects/2182/trigger/pipeline 
