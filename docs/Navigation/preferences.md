@@ -22,7 +22,7 @@ To get to this section, click your name at the top right of Summit and then clic
 
 Depending on your role within a proposal and if you have the proposal favorited, will determine what email notifications you will receive.  The one exception to this is if you are on the Proposal Team (PI, Co-PI, Proposal Team member) you will receive compliance email regardless of your email settings.
 
-New Users to the system by default will have all email notifications turned on. 
+New Users to the system by default will have all email notifications turned on.
 
 Below shows every email notification currently in Summit, what category that email corresponds to in the user preferences screen, who will receive that email, and any special circumstances around the email.
 
@@ -71,24 +71,30 @@ tr:nth-child(odd) {
   <tr>
     <td>Work Initiation</td>
     <td>Work Initiation</td>
-    <td>Work Creator & Pre Award Associate</td>
+    <td>Work Creator, PI, Support Staff Leads, Pre Award Associate</td>
     <td>All can opt out</td>
   </tr>
   <tr>
     <td>DoD Notice</td>
-    <td>DoD / NASA / PHS Notice</td>
+    <td>Compliance</td>
     <td>Proposal Team, Support Staff, Pre Award Associate</td>
     <td>Proposal Team cannot opt out, Support Staff can opt out</td>
   </tr>
   <tr>
     <td>NASA Notice</td>
-    <td>DoD / NASA / PHS Notice</td>
+    <td>Compliance</td>
     <td>Proposal Team, Support Staff, Pre Award Associate</td>
     <td>Proposal Team cannot opt out, Support Staff can opt out</td>
   </tr>
   <tr>
     <td>PHS Notice</td>
-    <td>DoD / NASA / PHS Notice</td>
+    <td>Compliance</td>
+    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>Proposal Team cannot opt out, Support Staff can opt out</td>
+  </tr>
+  <tr>
+    <td>International Question</td>
+    <td>Compliance</td>
     <td>Proposal Team, Support Staff, Pre Award Associate</td>
     <td>Proposal Team cannot opt out, Support Staff can opt out</td>
   </tr>
@@ -125,6 +131,18 @@ tr:nth-child(odd) {
   <tr>
     <td>File Version Uploads</td>
     <td>File Uploads</td>
+    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>All can opt out</td>
+  </tr>
+  <tr>
+    <td>Target Date Reminder</td>
+    <td>Deadline Communication</td>
+    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>All can opt out</td>
+  </tr>
+  <tr>
+    <td>Approval Reminder</td>
+    <td>Deadline Communication</td>
     <td>Proposal Team, Support Staff, Pre Award Associate</td>
     <td>All can opt out</td>
   </tr>
