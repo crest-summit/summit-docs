@@ -1,3 +1,20 @@
+# Release 2.7.0 - July 2018
+- **Email Notifications**
+    - Deadline Communication (new User Preferences category)
+        - Target Date reminder (5 business days out)
+            - If a proposal is created with less than 5 days, Summit will send an email based on the number of days before the target date (ex. 3 days before)
+        - Approval Reminder
+            - Will be sent daily for approvals waiting for action to be taken
+    - International question emails
+    - Work Creation emails now also sent to support staff leads on the submitting organization
+- **Pre Award Out of Office Messages**
+    -
+- **Various Bug Fixes / Small Updates**
+
+<br>
+
+-----
+
 # Release 2.6.0 - June 2018
 - **Admin Review changes**
     - Admin Review will now be a label.  
