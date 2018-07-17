@@ -64,7 +64,7 @@ tr:nth-child(odd) {
   <col width=25%>
   <tr>
     <th>Email Notification</th>
-    <th>Category</th>
+    <th>Preference Category</th>
     <th>Sent to</th>
     <th>Note</th>
   </tr>
@@ -77,26 +77,26 @@ tr:nth-child(odd) {
   <tr>
     <td>DoD Notice</td>
     <td>Compliance</td>
-    <td>Proposal Team, Support Staff, Pre Award Associate</td>
-    <td>Proposal Team cannot opt out, Support Staff can opt out</td>
+    <td>Proposal Team, Users with Preference ON & work favorited</td>
+    <td>Proposal Team cannot opt out</td>
   </tr>
   <tr>
     <td>NASA Notice</td>
     <td>Compliance</td>
-    <td>Proposal Team, Support Staff, Pre Award Associate</td>
-    <td>Proposal Team cannot opt out, Support Staff can opt out</td>
+    <td>Proposal Team, Users with Preference ON & work favorited</td>
+    <td>Proposal Team cannot opt out</td>
   </tr>
   <tr>
     <td>PHS Notice</td>
     <td>Compliance</td>
-    <td>Proposal Team, Support Staff, Pre Award Associate</td>
-    <td>Proposal Team cannot opt out, Support Staff can opt out</td>
+    <td>Proposal Team, Users with Preference ON & work favorited</td>
+    <td>Proposal Team cannot opt out</td>
   </tr>
   <tr>
     <td>International Question</td>
     <td>Compliance</td>
-    <td>Proposal Team, Support Staff, Pre Award Associate</td>
-    <td>Proposal Team cannot opt out, Support Staff can opt out</td>
+    <td>Proposal Team, Users with Preference ON & work favorited</td>
+    <td>Proposal Team cannot opt out</td>
   </tr>
   <tr>
     <td>Awaiting Approval</td>
@@ -107,46 +107,50 @@ tr:nth-child(odd) {
   <tr>
     <td>Routing Canceled</td>
     <td>Routing/Approval</td>
-    <td>Proposal Team, Support Staff, Approvers, Pre Award Associate</td>
+    <td>Users with Preference ON & work favorited</td>
     <td>All can opt out</td>
   </tr>
   <tr>
     <td>Return for Correction</td>
     <td>Routing/Approval</td>
-    <td>Proposal Team, Support Staff, Approvers, Pre Award Associate</td>
+    <td>Users with Preference ON & work favorited</td>
     <td>All can opt out</td>
   </tr>
   <tr>
     <td>Approval Discarded</td>
     <td>Routing/Approval</td>
-    <td>Proposal Team, Support Staff, Approvers, Pre Award Associate</td>
+    <td>Users with Preference ON & work favorited</td>
     <td>All can opt out</td>
   </tr>
   <tr>
     <td>File Uploads</td>
     <td>File Uploads</td>
-    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>Users with Preference ON & work favorited</td>
     <td>All can opt out</td>
   </tr>
   <tr>
     <td>File Version Uploads</td>
     <td>File Uploads</td>
-    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>Users with Preference ON & work favorited</td>
     <td>All can opt out</td>
   </tr>
   <tr>
     <td>Target Date Reminder</td>
     <td>Deadline Communication</td>
-    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>Users with Preference ON & work favorited</td>
     <td>All can opt out</td>
   </tr>
   <tr>
     <td>Approval Reminder</td>
     <td>Deadline Communication</td>
-    <td>Proposal Team, Support Staff, Pre Award Associate</td>
+    <td>Users with Preference ON & work favorited</td>
     <td>All can opt out</td>
   </tr>
 </table>
+
+<br>
+
+    Note: A work is favorited automatically when added to a work for users of creator, PI, support staff lead, or the assigned Pre Award associate.
 
 <br>
 

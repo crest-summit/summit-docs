@@ -1,5 +1,5 @@
 # Release 2.7.0 - July 2018
-- **Email Notifications**
+- **Email Notifications** - For more details on all Summit emails, click [here](Navigation/preferences.md#e-mail-preferences)
     - Deadline Communication (new User Preferences category)
         - Target Date reminder (5 business days out)
             - If a proposal is created with less than 5 days, Summit will send an email based on the number of days before the target date (ex. 3 days before)
@@ -8,7 +8,7 @@
     - International question emails
     - Work Creation emails now also sent to support staff leads on the submitting organization
 - **Pre Award Out of Office Messages**
-    -
+    - Pre Award associates now have the ability to put an out of office message that will appear in every work they are assigned
 - **Various Bug Fixes / Small Updates**
 
 <br>
