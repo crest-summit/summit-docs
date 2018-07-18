@@ -14,7 +14,6 @@
 - **Pre Award Out of Office Messages**
     - Pre Award associates now have the ability to put an out of office message that will appear in every work they are assigned.  Either a predefined message with the start/end date (example below) or a custom message.
 ![Out of Office message](images/releaseNotes/OOO.png)
-![Out of Office message](images/releaseNotes/OOO.jpg)       
 - **Various Bug Fixes / Small Updates**
 
 <br>
