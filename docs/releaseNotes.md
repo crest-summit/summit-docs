@@ -1,14 +1,20 @@
 # Release 2.7.0 - July 2018
-- **Email Notifications** - For more details on all Summit emails, click [here](Navigation/preferences.md#e-mail-preferences)
+- **Email Notifications** - For more details on all Summit emails, click [here](Navigation/preferences.md#e-mail-preferences).
     - Deadline Communication (new User Preferences category)
-        - Target Date reminder (5 business days out)
-            - If a proposal is created with less than 5 days, Summit will send an email based on the number of days before the target date (ex. 3 days before)
+        - Target Date reminder (5 business days and less)
+            - A reminder email will be sent when a proposal gets within 5 business days of the target date.
+            - If a proposal is created with less than 5 days, Summit will send an email based on the number of days before the target date (ex. 3 days before).
         - Approval Reminder
-            - Will be sent daily for approvals waiting for action to be taken
+            - A reminder email will be sent daily for approvals waiting for action to be taken.
     - International question emails
-    - Work Creation emails now also sent to support staff leads on the submitting organization
+        - When the international question in the OESRC section of Compliance is answered "Yes", an email will be sent notifying users of the action and directing them to the OSP document explaining the special requirements involved in international research
+        - This will always be sent to the Proposal Team (PI, Co-PI, and Proposal Team member), regardless of email settings
+    - Work Creation emails
+        - Emails will now also be sent to support staff leads on the submitting organization when a work is created in Summit.
 - **Pre Award Out of Office Messages**
-    - Pre Award associates now have the ability to put an out of office message that will appear in every work they are assigned
+    - Pre Award associates now have the ability to put an out of office message that will appear in every work they are assigned.  Either a predefined message with the start/end date (example below) or a custom message.
+![Out of Office message](images/releaseNotes/OOO.png)
+![Out of Office message](images/releaseNotes/OOO.jpg)       
 - **Various Bug Fixes / Small Updates**
 
 <br>
