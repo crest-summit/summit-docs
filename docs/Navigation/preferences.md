@@ -58,10 +58,10 @@ tr:nth-child(odd) {
 </style>
 
 <table>
-  <col width=16%>
+  <col width=17%>
   <col width=19%>
-  <col width=40%>
-  <col width=25%>
+  <col width=42%>
+  <col width=22%>
   <tr>
     <th>Email Notification</th>
     <th>Preference Category</th>
@@ -150,7 +150,7 @@ tr:nth-child(odd) {
 
 <br>
 
-    Note: A work is favorited automatically when added to a work for users of creator, PI, support staff lead, or the assigned Pre Award associate.
+    Note: A work is favorited automatically when added as a creator, PI, support staff lead, or the assigned Pre Award associate.
 
 <br>
 

@@ -12,7 +12,7 @@
     - Work Creation emails
         - Emails will now also be sent to support staff leads on the submitting organization when a work is created in Summit.
 - **Pre Award Out of Office Messages**
-    - Pre Award associates now have the ability to put an out of office message that will appear in every work they are assigned.  Either a predefined message with the start/end date (example below) or a custom message.
+    - Pre Award associates now have the ability to put an out of office message that will appear in every work they are assigned.  Either a predefined message with the start/end date will appear (example below) or a custom message.
 ![Out of Office message](images/releaseNotes/OOO.png)
 - **Various Bug Fixes / Small Updates**
 
