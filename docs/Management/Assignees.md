@@ -1,22 +1,22 @@
-**Management / Assignees**
+**Management / Associates**
 
-The Assignee Navigation Item is the list of all current Pre-Award Assignees and provides an Out of Office function for each.  The list of current assignees is managed by the CREST team.  The information in Assignees is used to assign new proposals to Pre-Award Associates and to perform Bulk Changes.
+# Associates Navigation
+The Associates Navigation Item is the list of all current Pre-Award Associates and provides an Out of Office function for each.  The list of current associates is managed by the CREST team.  The information in Associates is used to assign new proposals to Pre-Award Associates and to perform Bulk Changes.
 
-# Assignee Navigation
-## Assignee Summary Pane
-Current assignees are listed in the Summary Pane.  If an assignee has been marked Unavailable for Assignment, an indicator is visible in the summary pane.
+## Associates Summary Pane
+Current associates are listed in the Summary Pane.  If an associate has been marked Unavailable for Assignment, an indicator is visible in the summary pane.
 
 ![Assignee Summary Pane](../images/management/ManAssi_SumPane.jpg)
 
-## Assignee Editor
-The Assignee Editor currently contains only the option to mark or unmark a person as Unavailable for Assignment
+## Associates Editor
+The Associates Editor currently contains only the option to mark or unmark a person as Unavailable for Assignment
 
 ![Assignee Editor](../images/management/ManAssi_Editor.jpg)
 
 There are no data fields or actions available for assignees.
 
 # Unavialable Assignee
-Indicating an Assignee is Unavailable for Assignment makes the following changes to proposals:
+Indicating an associate is Unavailable for Assignment makes the following changes to proposals:
 
 ## Pre-Award All Open Folder indicator
 The Pre-Award Navigation Item for “All Open” will show the Unavailable Icon next to the Pre-Award Associates who are marked as Unavailable for Assignment:
@@ -24,21 +24,21 @@ The Pre-Award Navigation Item for “All Open” will show the Unavailable Icon 
 ![All Open Folder Indicator](../images/management/ManAssi_AllOpen.jpg)
 
 ## New proposals
-When an Assignee has been marked as Unavailable for Assignment, all of their currently assigned proposals remain assigned to them.  Only new proposals assigned to them after they have been marked Unavailable for Assignment will be assigned to the Back-Up Assignment listed on the Organization Editor.  
+When an associate has been marked as Unavailable for Assignment, all of their currently assigned proposals remain assigned to them.  Only new proposals assigned to them after they have been marked Unavailable for Assignment will be assigned to the Back-Up Assignment listed on the Organization Editor.  
 
 In the example below, when Heather Buchanan is marked as Unavailable for Assignment in the Assignee Editor, new proposals will be assigned to Mark Habib as the designated Back-Up assignment in the Organization Editor:
 
 ![Back-Up Assignment](../images/management/ManAssi_BackUp.jpg)
 
-  Note: When the Back-Up Assignee is also marked Unavailable, the proposal will be assigned to the Default Assignee (see below for further details).
+    Note: When the Back-Up Assignee is also marked Unavailable, the proposal will be assigned to the Default Assignee (see below for further details).
 
 ## Reassignment Warning
 Proposals can be individually reassigned by using the Action menu in the proposal.  When a person is marked as Unavailable, it is still possible to manually reassign a proposal to them.  The User will receive a warning that the person is Unavailable, but it will not prevent the reassignment.
 
 ![Reassignment Warning](../images/management/ManAssi_ReassignWarning.jpg)
 
-# Managing Assignees
-New Assignees can be added by the CREST team upon request.
+# Managing Associates
+New Associates can be added by the CREST team upon request.
 Removing Assignees is also a function of the CREST team.  The following procedure should be used before requesting removal of an assignee:
 After the person has left OSP and before their replacement is ready to take new assignments:
 
@@ -68,6 +68,18 @@ When the person designated as the DEFAULT assignee is marked Unavailable, a back
 ![Default Back-Up](../images/management/ManAssi_DefaultBackup.jpg)
 
 If a Back-Up DEFAULT Assignee is not designated when the Primary DEFAULT assignee is Unavailable, all proposals that would be assigned to the DEFAULT will continue to be assigned to the Primary DEFAULT assignee even though that person is marked as Unavailable.   
+
 The Primary DEFAULT Assignee should not be temporarily changed.  The Back-Up option should be utilized each time the Primary DEFUALT Assignee is Unavailable.
+
+# Out of office
+A Pre-Award Associate can mark Out of Office in their profile to give a predefined message with the start/end date or a custom message written into the Message box.  The start and end date will coorespond to when the message will appear.  
+
+![OOO Before Data Entered](../images/management/oooBeforeData.png)
+
+When a Pre-Award Associate just enters a start and end date, the predefined message shown below will appear in every work that they are the assigned Pre-Award.
+
+![Out of Office message](../images/releaseNotes/OOO.png)
+
+When a Pre-Award Associate enters a message as well, only the message will appear, and the dates will just be used as a way to know when the message should appear in the work(s).
 
 <br>

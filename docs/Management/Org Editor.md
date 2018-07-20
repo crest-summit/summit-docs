@@ -79,7 +79,7 @@ This section is only shown for orgs in Pending Review.  The fields here give a b
 ![Associated Proposal Summary](../images/management/ManOrg_PropSummary.jpg)
 
 # Management
-When a new organization is created by a User in the Proposal Initiator or Editor, it is listed in the Pending Review orgs with only the name and org number the User provided upon creation.  It is the responsibility of the designated "Org Vetter(s)" to confirm the name and number and complete the remaining required fields before promoting the org.
+When a new organization is created by a User in the Initiator or Editor, it is listed in the Pending Review orgs with only the name and org number the User provided upon creation.  It is the responsibility of the designated "Org Vetter(s)" to confirm the name and number and complete the remaining required fields before promoting the org.
 
 ![Newly Created Org](../images/management/ManOrg_NewlyCreated.jpg)
 
