@@ -1,3 +1,9 @@
+# Release 2.8.0 - August 2018
+
+<br>
+
+-----
+
 # Release 2.7.0 - July 2018
 - **Email Notifications** - For more details on all Summit emails, click [here](Navigation/preferences.md#e-mail-preferences).
     - Work Creation emails
