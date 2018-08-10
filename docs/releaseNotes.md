@@ -1,7 +1,6 @@
 # Release 2.8.0 - August 2018
 
 <br>
-Content goes here...
 -----
 
 # Release 2.7.0 - July 2018
