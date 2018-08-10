@@ -1,4 +1,5 @@
 # Release 2.8.0 - August 2018
+- Various Bug Fixes 
 
 <br>
 -----
