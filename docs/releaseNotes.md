@@ -1,7 +1,11 @@
 # Release 2.8.0 - August 2018
-- Various Bug Fixes 
+- Summary Pane Update
+    - Updated summary pane to now include the work status and re-order for easier informational visibility
+![Summary Pane Labels](images/releaseNotes/summaryPaneLabels.png)
+- Various Bug Fixes
 
 <br>
+
 -----
 
 # Release 2.7.0 - July 2018

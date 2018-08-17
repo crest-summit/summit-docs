@@ -10,17 +10,17 @@ A user can change 3 sets of personal settings:
 
 To get to this section, click your name at the top right of Summit and then click "User Preferences".
 
-![User Preferences Location](../images/navigation/NavPref_managePrefLocation.jpg)
-
-<img src="/images/down_arrow.png" alt="down_arrow" style="float:center; width:45px; height:70px;">
-
-![User Preferences Modal](../images/navigation/NavPref_ModalFull.jpg)
+![User Preferences Location](../images/navigation/preferenceLocation.png)
 
 <br>
 
-## E-mail Preferences
+![User Preferences Modal](../images/navigation/NavPref_ModalFull.png)
 
-Depending on your role within a proposal and if you have the proposal favorited, will determine what email notifications you will receive.  The one exception to this is if you are on the Proposal Team (PI, Co-PI, Proposal Team member) you will receive compliance email regardless of your email settings.
+<br>
+
+## E-mail Notifications
+
+Depending on your role within a proposal and if you have the proposal as a favorite, will determine what email notifications you will receive.  The one exception to this is if you are on the Proposal Team (PI, Co-PI, Proposal Team member) you will receive compliance email regardless of your email settings.
 
 New Users to the system by default will have all email notifications turned on.
 
@@ -166,7 +166,7 @@ tr:nth-child(odd) {
 
 Users associated with multiple organizations can indicate which organization they mainly conduct research under if it is different from their Home Org.  By clicking on the user name at the top right of the screen and choosing the User Preferences option, then Other Settings to the left, users can indicate a Default Research Organization.
 
-![Manage Preferences for Default Research Organization](../images/navigation/NavPref_ManageDefault.jpg)
+![Manage Preferences for Default Research Organization](../images/navigation/NavPref_ManageDefault.png)
 
 The organization listed here will be the pre-populated organization in the submitting org and responsible org fields:
 - In the Proposal Initiation, the Default Research Organization defaults in the Submitting Organization field

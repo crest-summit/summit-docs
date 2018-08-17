@@ -10,7 +10,7 @@ pages:
   - 'Workflow': 'Navigation/workflow.md'
   - 'Indicators': 'Navigation/indicators.md'
   - 'Internal Notifications': 'Navigation/notifications.md'
-  - 'User Preferences': 'Navigation/preferences.md'
+  - 'Preferences / Emails': 'Navigation/preferences.md'
 - Data:
   - 'Initiator': 'data/Initiator.md'
   - 'Editor': 'data/Editor.md'
