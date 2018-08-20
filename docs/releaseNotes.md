@@ -1,7 +1,22 @@
 # Release 2.8.0 - August 2018
 - Summary Pane Update
-    - Updated summary pane to now include the work status and re-order for easier informational visibility
 ![Summary Pane Labels](images/releaseNotes/summaryPaneLabels.png)
+    - Added spaces between key values for easier readability
+    - Date format change to DD/MM/YYYY
+    - Hovering over the date will show the Target and Sponsor deadlines
+    - Favorite star used for marking important works to show in your My Open and My Closed folder
+    - Limited View icon moved to lower right corner (only applicable if given limited view status for a work)
+    - Right Red Bar indicates when the work is under Administrative review
+    - Status is now shown for every stage of the process till closure and includes a color indicator
+    - Left Blue Bar indicates when a work hasn't been opened
+    - Sponsor abbreviations used if applicable
+    - Different Target / Sponsor date symbols
+        - Target Date (Sponsor Date N/A) <img src="/images/releaseNotes/targetDateIcon.png" alt="targetDateIcon" style=float:left; "width:8px; height:8px;">
+
+        -  Sponsor Date (Target Date sooner) <img src="/images/releaseNotes/sponsorDateIcon.png" alt="sponsorDateIcon" style=float:left; "width:8px; height:8px;">
+
+        -  Target/Sponsor Share Same Dates <img src="/images/releaseNotes/sameDateIcon.png" alt="sameDateIcon" style=float:left; "width:8px; height:8px;">
+
 - Various Bug Fixes
 
 <br>
