@@ -23,19 +23,19 @@ The tabs at the top will take you to the specific topics within the User Guide (
     - [Workflow](Navigation/workflow.md)    
     - [Indicators](Navigation/indicators.md)
     - [Internal Notifications](Navigation/notifications.md)
-    - [User Preferences](Navigation/preferences.md)
+    - [Preferences / Emails](Navigation/preferences.md)
 - Data
     - [Initiator](data/Initiator.md)
     - [Editor](data/Editor.md)
     - [Budget Development](data/Budget Development.md)
     - [Exporting Data](data/Data Exports.md)
 - Toolbar
-    - [Actions](Tools/Actions.md)
+    - [History](Tools/History.md)
     - [Activity Log](Tools/activity.md)
     - [Comments](Tools/Comments.md)
     - [Files](Tools/Files.md)
-    - [History](Tools/History.md)
     - [Requirements](Tools/Requirements.md)
+    - [Actions](Tools/Actions.md)
 - Approvals
     - [Routing](Approvals/Routing.md)
     - [Approving](Approvals/Approving.md)

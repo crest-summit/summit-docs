@@ -1,3 +1,9 @@
+# Release 2.9.0 - September 2018
+
+<br>
+
+-----
+
 # Release 2.8.0 - August 2018
 - Summary Pane Update
 ![Summary Pane Labels](images/releaseNotes/summaryPaneLabels.png)

@@ -9,7 +9,7 @@ Summit navigation is divided into several sub-items to facilitate management of 
 The “My Open” navigation item displays all open proposals on which the User is listed as PI or Support Staff Lead.  
 The Summary Pane for Open proposals includes the following information for each proposal in the list:
 
-![Open Summary Text](../images/navigation/NavProp_OpenSummaryText.jpg)
+![Summary Pane Labels](../images/releaseNotes/summaryPaneLabels.png)
 
 The full name of the organization and sponsor can be seen by hovering over the item in the summary
 
