@@ -1,4 +1,8 @@
 # Release 2.9.0 - September 2018
+- Summit Navigation Pane Update
+- Updated Work Header to Coorespond with the Summary Pane Updates
+- Deadline Communication Default Turned to ON for all users
+- Small Updates/Enhancements
 
 <br>
 
