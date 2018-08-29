@@ -1,5 +1,6 @@
 stages:
   - build
+  - push-image
   - update-stack
 
 build:
@@ -8,6 +9,15 @@ build:
   script:
     - docker image build -t summit/docs:$CI_COMMIT_SHA .
    
+push-image:
+  stage: push-image
+  image: docker
+  script:
+    - docker login -u $CI_REGISTRY_USER -p $CI_JOB_TOKEN $CI_REGISTRY
+    - docker tag summit/docs:$CI_COMMIT_SHA $CI_REGISTRY_IMAGE:$CI_BUILD_REF_NAME
+    - docker push $CI_REGISTRY_IMAGE:$CI_BUILD_REF_NAME
+
+
 update-stack:
   stage: update-stack
   except:
