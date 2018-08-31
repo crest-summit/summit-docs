@@ -4,7 +4,7 @@ stages:
   - update-stack
 
 variables:
-  DOCKER_IMAGE_NAME: $REGISTRY_HOST/summit/denali-ui:$CI_COMMIT_SHA
+  DOCKER_IMAGE_NAME: $REGISTRY_HOST/summit/denali-docs:$CI_COMMIT_SHA
 
 build:
   stage: build
