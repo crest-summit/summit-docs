@@ -17,7 +17,7 @@ push-image:
   image: docker
   script:
     - docker login -u $REGISTRY_USERNAME -p $REGISTRY_PASSWORD $REGISTRY_HOST
-    - docker tag summit/denali-ui:$CI_COMMIT_SHA $DOCKER_IMAGE_NAME
+    - docker tag summit/docs:$CI_COMMIT_SHA $DOCKER_IMAGE_NAME
     - docker push $DOCKER_IMAGE_NAME
 
 update-stack:
