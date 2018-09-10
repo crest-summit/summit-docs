@@ -1,7 +1,13 @@
 # Release 2.9.0 - September 2018
-- Summit Navigation Pane Update
-- Updated Work Header to Coorespond with the Summary Pane Updates
-- Deadline Communication Default Turned to ON for all users
+- Summit Navigation Pane Updates
+![Summit Navigation](images/releaseNotes/summitNavigation.png)
+    - Top folder renamed "Work Items" from "Proposals" to better reflect all the different work types now represented in Summit *(labeled on the left)*
+    - Level 2 Folders: "Open", "Pending Sponsor Decision", and "Closed" *(labeled on the right)*
+        - These folders are now shown in the order work flows.
+        - old "Submissions" folder is now "Pending Sponsor Decision" which includes both Submission Finalized and Pending Decision statuses
+    - Level 3 Folders: "My Open/Closed" and a folder called "People" where you can expand and show all Principal Investigators and their works *(labeled on the right)*
+- Updated Work Header to correspond with the Summary Pane Updates from the last release
+- Deadline Communication User Preferences Default Turned to ON for all users (unless the user has Opted out of Summit Emails)
 - Small Updates/Enhancements
 
 <br>
