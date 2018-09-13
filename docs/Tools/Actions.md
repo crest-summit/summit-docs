@@ -11,6 +11,8 @@ When the User clicks on the Action button, a dropdown is displayed revealing sev
 
 The Action Menu is grouped into two main categories of actions: Advance/Duplicate and Management type actions.
 
+![Type / Status Grid](../images/tools/typeStatusGrid.png)
+
 # Advance
 Advancing means taking one type of submission to the Sponsor and moving it to the next step of the process or revising a prior piece of work to the same work type.  For example, a white paper could become a pre-proposal which could in turn become a full proposal.
 
