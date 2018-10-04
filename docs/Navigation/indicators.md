@@ -13,32 +13,10 @@ If the proposal has a sponsor deadline in addition to a target due date, a calen
 
 ![Deadline in Summary](../images/navigation/NavProp_Deadline.jpg)
 
-### Icons
-In the Summary View of Summit, most statuses in the Open folder have an associated icon that appears below the deadline and star.  Example below shows the icon for Approved.
-
-![Approved Icon](../images/navigation/approvedIcon1.jpg)
-
-In the editor, the icon also appears next to the spelled out status, show below.  
-
-![Approved Icon](../images/navigation/approvedIconStatus.jpg)
-
-All icons used in Summit are shown below and only in the Open folder.
-
-<i class="fa fa-exclamation-triangle fa-2x"></i> &nbsp; &nbsp; = &nbsp; &nbsp; "Admin Review"
-
-<i class="fa fa-link fa-2x"></i> &nbsp; &nbsp; = &nbsp; &nbsp; "In Routing"
-
-<i class="fa fa-check-circle-o fa-2x"></i>  &nbsp; &nbsp; = &nbsp; &nbsp; "Approved"
-
-<span class="fa-stack ng-scope">
-    <i class="fa fa-share fa-stack-1x"></i>
-    <i class="fa fa-file-o fa-stack-2x"></i>
-  </span>  &nbsp; &nbsp; = &nbsp; &nbsp; "Submitted"
-
 # Status / Labels
-In the Editor of Summit, the Header displays several status and label indicators.  One such example is of the "Submitted" status, as shown below.
+In the Editor of Summit, the Header displays several different statuses and one type of label.  One such example below shows the status for "Preparing", next to the "Admin Review" label. 
 
-![Submitted Status](../images/navigation/submittedStatus.jpg)
+![Status And Label](../images/navigation/statusAndLabel.png)
 
 Every stage will display the status and/or a label indicating where it is in the process, except for the earliest stage after creating the work.  The earliest stage before routing, is called "Preparing" and no status or label is indicated.  Other than that, from "In Routing" to "Submission Finalized" onto "Awarded", while in the work in the top left of the header will display the status/label.
 
