@@ -7,7 +7,7 @@
 The purpose of the Summit Mobile Approver is to give the ability for approvers who normally use the desktop Summit application for approving proposals that are in routing the chance to also view, approve, and return for correction approvals using your mobile device.
 
 ## Logging In
-For each user, there may be multiple ways to get to the Mobile Approver on your mobile device.  The first way is to use the URL shown here, [https://mobile.summit.cloud.vt.edu/](https://mobile.summit.cloud.vt.edu/) and type it into your device's web browser.  You'll still login via CAS as you would on the desktop.  Once signing in via CAS and have the mobile approver displaying, then you can either save it as a bookmark or add it to your Home screen for quick access.
+For each user, there may be multiple ways to get to the Mobile Approver on your mobile device.  The first way is to use the URL shown here, [https://mobile.summit.cloud.vt.edu/](https://mobile.summit.cloud.vt.edu/) and type it into your device's web browser.  You'll still log in via CAS as you would on the desktop. Once you sign in and have the mobile approver displaying, you can either save it as a bookmark or add it to your Home screen for quick access.
 
 Once logged in, you will first be taken to your "To Be Approved" folder.  
 
