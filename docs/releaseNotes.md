@@ -1,3 +1,19 @@
+# Release 2.10.0 - October 2018
+- Updated Summary Pane for Approvals
+![Approval Pane](images/releaseNotes/approvalPane.png)
+- Comment fields in the work item editor now using a rich text editor
+      - Ability to bold, italicize, underline, change font/background color, bullet point, number, and paragraph
+- Budget Acceptance Tags always displayed
+    - For each party (OSP & Proposal Team) when a budget is uploaded the tag will read "Pending {OSP or Team} Acceptance".
+    - When OSP or the Proposal Team accepts the budget, their tag will change to "Document Accepted by {OSP or Team}".
+    - As before, both sides need to accept the budget before the proposal can be routed.
+![Budget Tags](images/releaseNotes/budgetTags.png)
+- Small Updates & Various Bug Fixes
+
+<br>
+
+-----
+
 # Release 2.9.0 - September 2018
 - Summit Navigation Pane Updates
 ![Summit Navigation](images/releaseNotes/summitNavigation.png)
