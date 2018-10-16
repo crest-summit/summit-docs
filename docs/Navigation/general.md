@@ -133,6 +133,6 @@ Depending upon the User’s needs and preferences, the Navigation and / or Summa
 
 When collapsed, the Navigation Pane icons remain visible for easy navigation.  The Summary Pane disappears all together when collapsed.
 
-![Collapsed Icons](../images/navigation/NavGen_CollapsedIcons.jpg)
+![Collapsed Icons](../images/navigation/NavGen_CollapsedIcons.png)
 
 <br>

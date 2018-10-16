@@ -5,11 +5,9 @@ The Actions Button is located at the top right of the proposal screen to the lef
 
 ![Proposal Action Button](../images/tools/ToolAct_Button.jpg)
 
-When the User clicks on the Action button, a dropdown is displayed revealing several actions available.  Depending upon the status of the proposal and type of User, different actions are available.
+When the User clicks on the Action button, a drop-down is displayed revealing several actions available.  Depending upon the status of the proposal and type of User, different actions are available.  Shown below is the actions for someone that is a support staff lead in a proposal, supplement, or continuation.  PIs will see similar actions, except the "Remove me as lead support" or "Mark me as lead support" action will be omitted.
 
-![Proposal Action Dropdown Options](../images/tools/ToolAct_ActionDropdown.jpg)
-
-The Action Menu is grouped into two main categories of actions: Advance/Duplicate and Management type actions.
+![Proposal Action Dropdown Options](../images/tools/ToolAct_ActionDropdown.png)
 
 # Advance
 Advancing means taking one type of submission to the Sponsor and moving it to the next step of the process or revising a prior piece of work to the same work type.  For example, a white paper could become a pre-proposal which could in turn become a full proposal.

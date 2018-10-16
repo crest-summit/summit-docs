@@ -8,7 +8,7 @@ Summit navigation is divided into several sub-items to facilitate management of 
 ## Open
 The "Open” navigation item displays all current open work items on which the User is listed as part of the Support Staff or Proposal Team, regardless of role or Submitting Org.   Work items in Open are displayed in order by target date with the most recent first.
 
-![All Open Subfolders](../images/navigation/NavProp_AllOpenSubFolders.jpg)
+![All Open Subfolders](../images/navigation/NavProp_AllOpenSubFolders.png)
 
 The “Open” navigation item expands to display "My Open" subfolder and a subfolder for each PI on which the User is listed as part of the Support Staff or Proposal Team within "People".
 
