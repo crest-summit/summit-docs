@@ -22,8 +22,6 @@ push-image:
 
 update-stack:
   stage: update-stack
-  except:
-    - tags
   environment:
     name: review/$CI_COMMIT_REF_SLUG
     url: https://$CI_COMMIT_REF_SLUG-docs.summit-qa.research.vt.edu
@@ -34,8 +32,6 @@ update-stack:
 
 remove-from-stack:
   stage: update-stack
-  except:
-    - tags
   when: manual
   environment:
     name: review/$CI_COMMIT_REF_SLUG
