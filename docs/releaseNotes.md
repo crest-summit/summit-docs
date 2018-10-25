@@ -1,3 +1,10 @@
+# Release 2.11.0 - November 2018
+- Small Updates & Various Bug Fixes
+
+<br>
+
+-----
+
 # Release 2.10.0 - October 2018
 - Updated Summary Pane for Approvals
 ![Approval Pane](images/releaseNotes/approvalPane.png)
