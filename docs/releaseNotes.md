@@ -1,11 +1,10 @@
 # Release 2.11.0 - November 2018
-- Actions/File Actions button always visible
-    - For all actions that previously had the hover-over gear icon to certain actions on a particular field, now you no longer need to hover-over the field to reveal the gear icon, the button will always display.  This is also for any files that are attached, a File Actions button will appear.
+- Actions/File Actions Buttons always visible
+    - The gear icon is no longer present, which was displayed on cursor hover-over for fields.  Instead an "Actions" button will always appear on particular fields.  This is also for any files that are attached, a "File Actions" button will appear.  All the same options in the Action buttons will be allowed as before (ex. Add Comment).
 ![Action Icons](images/releaseNotes/actionIcons.png)
 - Notification ordering saved per browser (Work/Date)
+    - Switching between "work" and "date" notification sorting is saved when you close the Notifications pop-up
 ![Notification Sort](images/releaseNotes/notificationSort.png)
-- Budget File appears in Files modal in all views
-    - Previously in the Approval and Limited View, the budget file would only display in the view interface and not in the Files modal, which is now changed to be more consistent with all other files from a work item.
 - Small Updates & Various Bug Fixes
 
 <br>
