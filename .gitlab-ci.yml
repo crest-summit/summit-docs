@@ -30,7 +30,7 @@ push-image-aws:
     - export AWS_ACCESS_KEY_ID=$QA_REGISTRY_ACCESS_KEY_ID
     - export AWS_SECRET_ACCESS_KEY=$QA_REGISTRY_SECRET_ACCESS_KEY
     - $(aws ecr get-login --no-include-email)
-    - docker tag summit/ddocs:$CI_COMMIT_SHA $AWS_DOCKER_IMAGE_NAME
+    - docker tag summit/docs:$CI_COMMIT_SHA $AWS_DOCKER_IMAGE_NAME
     - docker push $AWS_DOCKER_IMAGE_NAME
 
 update-stack:
