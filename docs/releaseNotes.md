@@ -1,3 +1,28 @@
+# Release 2.11.0 - November 2018
+- Actions/File Actions Buttons always visible
+    - The gear icon is no longer present, which was displayed on cursor hover-over for fields.  Instead an "Actions" button will always appear on particular fields.  This is also for any files that are attached, a "File Actions" button will appear.  All the same options in the Action buttons will be allowed as before (ex. Add Comment).
+
+<br>
+
+![Action Icons](images/releaseNotes/actionIcons.png)
+
+<br>  
+
+- Notification ordering saved per browser (Work/Date)
+    - Switching between "work" and "date" notification sorting is saved when you close the Notifications pop-up
+
+<br>
+
+![Notification Sort](images/releaseNotes/notificationSort.png)
+
+<br>
+
+- Small Updates & Various Bug Fixes
+
+<br>
+
+-----
+
 # Release 2.10.0 - October 2018
 - Updated Summary Pane for Approvals
 ![Approval Pane](images/releaseNotes/approvalPane.png)
