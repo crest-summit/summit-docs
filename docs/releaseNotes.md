@@ -1,3 +1,24 @@
+# Release 2.12.0 - December 2018
+- Advanced Search
+    -  Now the user has the ability to search all of Summit for particular work items.  
+![Before Search Click](images/releaseNotes/beforeSearching.png)
+    - Once "Search All Work Items" is clicked, it will bring up the Advanced Search modal where the user can search Summit by the following criteria.
+        - Status
+        - Work Item Type or by a specific ID
+        - PI name, PID, or 9-number
+        - Assigned Pre-Award associate
+        - Submitting org name or number
+        - Sponsor Name or Sponsor abbreviation
+![After Search Click](images/releaseNotes/afterSearch.png)
+
+<br>
+
+- Small Updates & Various Bug Fixes
+
+<br>
+
+-----
+
 # Release 2.11.0 - November 2018
 - Actions/File Actions Buttons always visible
     - The gear icon is no longer present, which was displayed on cursor hover-over for fields.  Instead an "Actions" button will always appear on particular fields.  This is also for any files that are attached, a "File Actions" button will appear.  All the same options in the Action buttons will be allowed as before (ex. Add Comment).
