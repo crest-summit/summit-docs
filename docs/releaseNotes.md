@@ -342,4 +342,3 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
     - Notifications within Summit by default only go to the PI, the Pre Award associate, and Support Staff Leads.  Now a user can elect to receive notifications when they favorite the proposal, by clicking the star in the upper right corner of the entry in the proposal summary view or in the header of the proposal.  This action will also add the proposal to your My Open folder.
     ![Favorites](images/releaseNotes/favorites.jpg)
 
-<br>
