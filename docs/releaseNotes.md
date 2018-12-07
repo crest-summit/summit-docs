@@ -1,15 +1,17 @@
 # Release 2.12.0 - December 2018
 - Advanced Search
-    -  Now the user has the ability to search all of Summit for particular work items.  
+    -  Now the user has the ability to search all of Summit for particular work items by clicking "Search All Work Items" in the upper left of Summit right under the Folder category "Work Items".  
 ![Before Search Click](images/releaseNotes/beforeSearching.png)
-    - Once "Search All Work Items" is clicked, it will bring up the Advanced Search modal where the user can search Summit by the following criteria.
+    - Once clicked, it will bring up the Advanced Search pop-up where the user can search Summit by the following criteria.
         - Status
-        - Work Item Type or by a specific ID
+        - Work Item Type or by specific work ID
         - PI name, PID, or 9-number
         - Assigned Pre-Award associate
         - Submitting org name or number
         - Sponsor Name or Sponsor abbreviation
 ![After Search Click](images/releaseNotes/afterSearch.png)
+    - It will then display all work items that matched the search results in a list, as is done with every folder in Summit (ex. Open).
+    - Search results will remain until you close or refresh your browser session.
 
 <br>
 
