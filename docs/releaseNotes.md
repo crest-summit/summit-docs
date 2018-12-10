@@ -12,6 +12,7 @@
 ![After Search Click](images/releaseNotes/afterSearch.png)
     - It will then display all work items that matched the search results in a list, as is done with every folder in Summit (ex. Open).
     - Search results will remain until you close or refresh your browser session.
+    - Note: Search will not return complete results for work items initiated prior to 2017
 
 <br>
 
