@@ -1,3 +1,25 @@
+# Release 2.13.0 - January 2019
+- Download all files from a Work Item
+![Download All Files](images/releaseNotes/downloadAllFiles.png)
+- Advanced Search additions:
+    - Sponsor & Prime Sponsor search field
+    - Proposal and Sponsor Keywords
+- Additional Comment fields have been added throughout the editor, sections listed below:
+    - General Information
+    - Personnel
+    - Submission Instructions
+    - Sponsor
+    - Subcontractor
+    - Additional Coordination
+![Instructions Comment field](images/releaseNotes/instructionsComment.png)
+- Approvers now can use the [Summit Mobile Approver](https://mobile.summit.cloud.vt.edu/)
+    - Instructions on the purpose and how to use, can be found [here](Approvals/mobile)
+- Small Updates & Various Bug Fixes
+
+<br>
+
+-----
+
 # Release 2.12.0 - December 2018
 - Advanced Search
     -  Now the user has the ability to search all of Summit for particular work items by clicking "Search All Work Items" in the upper left of Summit right under the Folder category "Work Items".  
@@ -342,4 +364,3 @@ Below shows the display in Summit when a user clicks "History".  Sorted by creat
 - Notifications via Favoriting
     - Notifications within Summit by default only go to the PI, the Pre Award associate, and Support Staff Leads.  Now a user can elect to receive notifications when they favorite the proposal, by clicking the star in the upper right corner of the entry in the proposal summary view or in the header of the proposal.  This action will also add the proposal to your My Open folder.
     ![Favorites](images/releaseNotes/favorites.jpg)
-
