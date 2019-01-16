@@ -3,7 +3,7 @@
 ![Download All Files](images/releaseNotes/downloadAllFiles.png)
 - Advanced Search additions:
     - Sponsor & Prime Sponsor search field
-    - Proposal and Sponsor Keywords
+    - Proposal & Sponsor Keywords
 - Additional Comment fields have been added throughout the editor, sections listed below:
     - General Information
     - Personnel
