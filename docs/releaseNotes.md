@@ -1,9 +1,18 @@
 # Release 2.13.0 - January 2019
 - Download all files from a Work Item
+    - To perform this action, the user can open the file modal located in the toolbar at the top right while in a work item and click the "Download All Files" link as shown in the image below
+    - File is downloaded as a zip file, which will container all documents
 ![Download All Files](images/releaseNotes/downloadAllFiles.png)
-- Advanced Search additions:
-    - Sponsor & Prime Sponsor search field
-    - Proposal & Sponsor Keywords
+
+<br>
+
+- Added Advanced Search capabilities
+    - New : Sponsor & Prime Sponsor, Work Item Keyword, and Sponsor Keyword search fields
+    - To utilize these new features, as well as all other search functions, click the link "Search All Work Items" to the upper left in the Summit Navigation as shown in the image below
+![Before Search Click](images/releaseNotes/beforeSearching.png)
+
+<br>
+
 - Additional Comment fields have been added throughout the editor, sections listed below:
     - General Information
     - Personnel
@@ -12,8 +21,14 @@
     - Subcontractor
     - Additional Coordination
 ![Instructions Comment field](images/releaseNotes/instructionsComment.png)
+
+<br>
+
 - Approvers now can use the [Summit Mobile Approver](https://mobile.summit.cloud.vt.edu/)
-    - Instructions on the purpose and how to use, can be found [here](Approvals/mobile)
+    - Instructions on the purpose and how to use, can be found [here](Approvals/mobile).
+
+<br>
+
 - Small Updates & Various Bug Fixes
 
 <br>
