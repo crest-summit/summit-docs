@@ -1,22 +1,22 @@
 # Release 2.13.0 - January 2019
 - Download all files from a Work Item
     - To perform this action, the user can open the file modal located in the toolbar at the top right while in a work item and click the "Download All Files" link as shown in the image below
-    - File is downloaded as a zip file, which will container all documents
+    - The file is downloaded as a zip file containing all the documents from the work item
 ![Download All Files](images/releaseNotes/downloadAllFiles.png)
 
 <br>
 
 - Added Advanced Search capabilities
-    - New : Sponsor & Prime Sponsor, Work Item Keyword, and Sponsor Keyword search fields
-    - To utilize these new features, as well as all other search functions, click the link "Search All Work Items" to the upper left in the Summit Navigation as shown in the image below
+    - New: Work Item Keyword, Sponsor Keyword search fields, and Prime Sponsor added to Sponsor searches
+    - To utilize these new features, as well as all other search functions, click the link "Search All Work Items" in the upper left of the Summit Navigation as shown in the image below
 ![Before Search Click](images/releaseNotes/beforeSearching.png)
 
 <br>
 
-- Additional Comment fields have been added throughout the editor, sections listed below:
+- Additional Comment fields have been added throughout a work item's editor. The Sections where these new fields are located are listed below:
     - General Information
     - Personnel
-    - Submission Instructions
+    - Submission Instructions (example shown below)
     - Sponsor
     - Subcontractor
     - Additional Coordination
