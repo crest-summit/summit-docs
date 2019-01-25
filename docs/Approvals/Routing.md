@@ -69,7 +69,7 @@ Organizations that conditionally approve are indicated in the Organization Edito
 
 ![Conditional Approval Org not shown in chain](../images/approvals/Routing_noApprovalRequired.jpg)
 
-For example, if the College of Architecture has indicated it only wishes to review and approve proposals with Cost Share, it will not see an approval if cost share has been marked on the proposal. The image above shows a proposal being submitted with Building Construction as the submitting org. The College of Engineering is not included in the approval chain (noted by circled text) because the proposal does not meet the conditions indicted and thus once AOE approves, the chain/approval will be approved.
+For example, if the College of Architecture has indicated it only wishes to review and approve proposals with Cost Share, it will not receive a request to approve a proposal that does not have a cost share component in the budget. The image above shows a proposal being submitted with Building Construction as the submitting org. The College of Engineering is not included in the approval chain (noted by circled text) because the proposal does not meet the conditions indicted and thus once AOE approves, the chain/approval will be approved.
 
 ## Approver Email Notifications
 A notification is emailed to all Approvers and delegates assigned to a proposal once it is their turn in the approval chain to approve.  For example, all departments will receive a notification that approval is required, but a college will not receive notification until the department has approved it.  If a college is in more than one approval chain, it will not receive a notification until all the departments under it have approved.
