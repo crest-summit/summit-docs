@@ -1,3 +1,13 @@
+# Release 2.14.0 - February 2019
+- Budget field update
+- Advance Search Additions
+    - Submission Date Range
+- Small Updates & Various Bug Fixes
+
+<br>
+
+-----
+
 # Release 2.13.0 - January 2019
 - Download all files from a Work Item
     - To perform this action, the user can open the file modal located in the toolbar at the top right while in a work item and click the "Download All Files" link as shown in the image below
