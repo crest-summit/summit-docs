@@ -1,7 +1,23 @@
 # Release 2.14.0 - February 2019
 - Budget field update
-- Advance Search Additions
-    - Submission Date Range
+
+<br>
+
+- Advance Search Additions - Submission Date Range
+    - Capabilities include searching by:
+        - Caldenar Year (2017, 2018, 2019)
+        - VT Fiscal Year (FY 2016-2017, FY 2017-2018, FY 2018-2019)
+        - Custom date range (user inputs start and end date)
+![Submission Date Range](images/releaseNotes/submissionDateRange.png)
+
+<br>
+
+- Co-PIs included in excel Export results
+    - When a user exports work items from submit, now the Co-Pis on the work item will be included at the end of the worksheet.
+    - Note: Currently it will only show the first 20 Co-PIs
+
+<br>
+
 - Small Updates & Various Bug Fixes
 
 <br>
