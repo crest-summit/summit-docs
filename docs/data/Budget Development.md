@@ -32,13 +32,15 @@ When the User wishes to develop multiple budgets simultaneously, it is recommend
 
 ![Uploading Alternate Budgets](../images/data/DataBud_AltBudget.jpg)  
 
-# Approval and Acceptance
-The approval and acceptance feature of the Budget Development checklist facilitates finalizing the budget.  The terms are defined as follows:
+# Budget Acceptance
+The acceptance feature of the Budget Development checklist facilitates finalizing the budget.  
 
-- **Approval**: The OSP designation that the budget is in compliance with sponsor guidelines and university policy
-- **Acceptance**: Proposal Team or Support Staff designation that the budget accurately represents the costs of doing the work described in the technical proposal.
+In order to route the work item for approval, the budget needs to be accepted by both the Proposal Team (PI/Co-PI or support staff) and OSP (Pre Award associate).
 
-The User can designate the budget as accepted by choosing the “Yes, Accept File” option in the gear menu for the file.
+- **OSP Acceptance**: The OSP designation that the budget is in compliance with sponsor guidelines and university policy
+- **Proposal Team Acceptance**: Proposal Team or Support Staff designation that the budget accurately represents the costs of doing the work described in the technical proposal.
+
+The User can designate the budget as accepted by clicking the “ACCEPT" button next to the budget file.
 
 ![Approval and Acceptance in the Action Menu](../images/data/DataBud_ApproveAcceptMenu.jpg)
 
