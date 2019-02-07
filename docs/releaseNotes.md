@@ -1,5 +1,7 @@
 # Release 2.14.0 - February 2019
 - Budget field update
+    - The action to "Accept" the budget has been given it's own button, taken out of the File Actions options.  The other actions to Not accept or to remove acceptance are still under the File Actions button. 
+![Budget Acceptance Button](images/releaseNotes/budgetAcceptance.png)
 
 <br>
 
