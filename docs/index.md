@@ -40,6 +40,7 @@ The tabs at the top will take you to the specific topics within the User Guide (
     - [Routing](Approvals/Routing.md)
     - [Approving](Approvals/Approving.md)
     - [Canceling](Approvals/Canceling.md)
+    - [Mobile Approver](Approvals/mobile.md)
 - Management
     - [Sponsors](Management/Sponsor Editor.md)
     - [Sponsor Vetting](Management/Sponsor Vetting.md)

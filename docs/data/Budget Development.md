@@ -42,15 +42,16 @@ In order to route the work item for approval, the budget needs to be accepted by
 
 The User can designate the budget as accepted by clicking the “ACCEPT" button next to the budget file.
 
-![Approval and Acceptance in the Action Menu](../images/data/DataBud_ApproveAcceptMenu.jpg)
+![Budget Acceptance button](../images/data/budgetAcceptance.png)
 
-The following represents how the approval and acceptance feature works:
+
+The following represents how the acceptance feature works:
 
 ![Approval and Acceptance Process](../images/data/DataBud_AppAccProcess.jpg)
 
-    Note: At any time during this process, if a new version of the file is uploaded, the status is reset to Pending OSP Approval and Pending Team Acceptance
+    Note: At any time during this process, if a new version of the file is uploaded, the status is reset to Pending OSP Acceptance and Pending Team Acceptance
 
-User can "revoke" acceptance or approval to put the budget back in the Pending state by clicking on the "Pending Acceptance" or "Pending Approval" option in the menu that appears after the User has accepted/approved.  The User can also has the option to "revoke" the not accepted/not approved status.
+User can "revoke" acceptance to put the budget back in the Pending state by clicking on the "Pending Acceptance" option in the menu that appears after the User has accepted.  The User can also has the option to "revoke" the not accepted status.
 
 ![Pending Acceptance](../images/data/DataBud_PendingAcceptance.jpg)
 
