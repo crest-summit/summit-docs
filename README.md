@@ -24,7 +24,9 @@ Once the image is pulled and running, you can open http://localhost:8000 to view
 
 ## Automatic Deployment
 
-When updates are pushed to this repository the documentation set is automatically updated and deployed. You can access the documentation at http://docs.summit-qa.research.vt.edu
+When updates are pushed to this repository the documentation set is automatically updated and deployed to the appropriate feature deployment. 
+
+You can access the production documentation at http://docs.summit.cloud.vt.edu/
 
 ### Building the Docs Manually
 
