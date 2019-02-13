@@ -1,3 +1,5 @@
+# As of 02/13/2019 this repo has been deprecated. Do not use.
+
 # Summit Documentation
 
 ## Contributing
