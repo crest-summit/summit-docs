@@ -1,4 +1,4 @@
-# As of 02/13/2019 this repo has been deprecated. Do not use.
+# Deprecated on 02/13/2019. Do not use.
 
 # Summit Documentation
 
